@@ -135,7 +135,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "What is this block called?",
-    "image": "",
+    "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/c/c8/Block_of_Diamond_JE5_BE3.png/revision/latest?cb=20200226013851",
     "incorrect_answers": [
       "Lapis Block",
       "Emerald Block",
@@ -163,7 +163,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "What structure is shown here?",
-    "image": "",
+    "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/8/8b/Jungle_pyramid_JE2_BE2.png/revision/latest?cb=20200202121947",
     "incorrect_answers": [
       "Village",
       "Desert Temple",
@@ -284,7 +284,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "What kind of wood is shown here?",
-    "image": "",
+    "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/e/e9/Oak_Log_%28UD%29_JE5_BE3.png/revision/latest?cb=20200317191604",
     "incorrect_answers": [
       "Spruce Log",
       "Birch Log",
@@ -745,7 +745,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "Which biome is shown here?",
-    "image": "",
+    "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/f/fc/Badlandsbiome.png/revision/latest?cb=20220612122807",
     "incorrect_answers": [
       "Desert",
       "Savanna",
@@ -800,7 +800,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "What is this structure called?",
-    "image": "",
+    "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/d/d2/Desert_pyramid_JE3_BE3.png/revision/latest?cb=20210711034046",
     "incorrect_answers": [
       "Village",
       "Jungle Temple",
@@ -868,7 +868,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "What block is shown here?",
-    "image": "",
+    "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/3/31/Block_of_Netherite_JE1_BE1.png/revision/latest?cb=20200320021504",
     "incorrect_answers": [
       "Diamond Block",
       "Iron Block",
@@ -990,7 +990,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "What is the name of this block?",
-    "image": "",
+    "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/2/26/Block_of_Redstone_JE2_BE2.png/revision/latest?cb=20191230030530",
     "incorrect_answers": [
       "Iron Block",
       "Diamond Block",
@@ -1623,7 +1623,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "What is this structure called?",
-    "image": "",
+    "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/4/4c/Swamp_hut_JE4_BE2.png/revision/latest?cb=20191229162745",
     "incorrect_answers": [
       "Jungle Temple",
       "Swamp Hut",
@@ -1677,7 +1677,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "What is this item called?",
-    "image": "",
+    "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/0/0f/Netherite_Sword_JE2_BE2.png/revision/latest?cb=20200304213920",
     "incorrect_answers": [
       "Diamond Sword",
       "Iron Sword",
@@ -1704,7 +1704,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "What is this block called?",
-    "image": "",
+    "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/4/47/Red_Sandstone_JE4_BE2.png/revision/latest?cb=20200317202440",
     "incorrect_answers": [
       "Sandstone",
       "Redstone Block",
@@ -2131,7 +2131,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "What is this block called?",
-    "image": "",
+    "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/f/f8/Soul_Campfire_JE1_BE1.gif/revision/latest?cb=20200408201915",
     "incorrect_answers": [
       "Campfire",
       "Furnace",
@@ -2157,20 +2157,6 @@
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
-    "question": "What is this structure called?",
-    "image": "",
-    "incorrect_answers": [
-      "End City",
-      "Nether Fortress",
-      "Woodland Mansion"
-    ],
-    "correct_answer": "Nether Bridge"
-  },
-  {
-    "id": 162,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
     "question": "Which block is used to craft a campfire?",
     "incorrect_answers": [
       "Stone",
@@ -2180,7 +2166,7 @@
     "correct_answer": "Stick"
   },
   {
-    "id": 163,
+    "id": 162,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -2193,7 +2179,7 @@
     "correct_answer": "Crafting Armor"
   },
   {
-    "id": 164,
+    "id": 163,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -2206,7 +2192,7 @@
     "correct_answer": "Redstone Torch"
   },
   {
-    "id": 165,
+    "id": 164,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -2220,7 +2206,7 @@
     "correct_answer": "Bee"
   },
   {
-    "id": 166,
+    "id": 165,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -2233,7 +2219,7 @@
     "correct_answer": "Iron Ingot"
   },
   {
-    "id": 167,
+    "id": 166,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -2246,7 +2232,7 @@
     "correct_answer": "Cooking Food"
   },
   {
-    "id": 168,
+    "id": 167,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -2259,7 +2245,7 @@
     "correct_answer": "Honeycomb"
   },
   {
-    "id": 169,
+    "id": 168,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -2273,7 +2259,7 @@
     "correct_answer": "Igloo"
   },
   {
-    "id": 170,
+    "id": 169,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -2286,7 +2272,7 @@
     "correct_answer": "Wooden Planks"
   },
   {
-    "id": 171,
+    "id": 170,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -2299,7 +2285,7 @@
     "correct_answer": "Brewing Potions"
   },
   {
-    "id": 172,
+    "id": 171,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -2312,12 +2298,12 @@
     "correct_answer": "Compass"
   },
   {
-    "id": 173,
+    "id": 172,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
     "question": "What is this block called?",
-    "image": "",
+    "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/f/f9/Basalt_%28UD%29_JE1_BE1.png/revision/latest?cb=20200220215205",
     "incorrect_answers": [
       "Basalt",
       "Blackstone",
@@ -2326,7 +2312,7 @@
     "correct_answer": "Polished Basalt"
   },
   {
-    "id": 174,
+    "id": 173,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -2339,7 +2325,7 @@
     "correct_answer": "Ghast Tear"
   },
   {
-    "id": 175,
+    "id": 174,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -2353,7 +2339,7 @@
     "correct_answer": "Vindicator"
   },
   {
-    "id": 176,
+    "id": 175,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -2366,7 +2352,7 @@
     "correct_answer": "Iron Ingot"
   },
   {
-    "id": 177,
+    "id": 176,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -2379,7 +2365,7 @@
     "correct_answer": "Brewing Potions"
   },
   {
-    "id": 178,
+    "id": 177,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -2392,7 +2378,7 @@
     "correct_answer": "Blaze Powder"
   },
   {
-    "id": 179,
+    "id": 178,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -2406,7 +2392,7 @@
     "correct_answer": "Ocean Monument"
   },
   {
-    "id": 180,
+    "id": 179,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -2419,7 +2405,7 @@
     "correct_answer": "Furnace"
   },
   {
-    "id": 181,
+    "id": 180,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -2432,7 +2418,7 @@
     "correct_answer": "Reading Enchantments"
   },
   {
-    "id": 182,
+    "id": 181,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -2445,21 +2431,7 @@
     "correct_answer": "Stone"
   },
   {
-    "id": 183,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "What is this block called?",
-    "image": "",
-    "incorrect_answers": [
-      "Berry Bush",
-      "Berry Plant",
-      "Bush Plant"
-    ],
-    "correct_answer": "Sweet Berry Bush"
-  },
-  {
-    "id": 184,
+    "id": 182,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -2472,7 +2444,7 @@
     "correct_answer": "Wooden Planks"
   },
   {
-    "id": 185,
+    "id": 183,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -2485,7 +2457,7 @@
     "correct_answer": "Enchantment Table"
   },
   {
-    "id": 186,
+    "id": 184,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -2498,7 +2470,7 @@
     "correct_answer": "String"
   },
   {
-    "id": 187,
+    "id": 185,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -2512,7 +2484,7 @@
     "correct_answer": "Woodland Mansion"
   },
   {
-    "id": 188,
+    "id": 186,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -2521,6 +2493,32 @@
       "Compass",
       "Paper",
       "Glass Pane"
+    ],
+    "correct_answer": "Wooden Planks"
+  },
+  {
+    "id": 187,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "What is the main use of a cartography table in Minecraft?",
+    "incorrect_answers": [
+      "Repairing Tools",
+      "Smelting Ores",
+      "Cooking Food"
+    ],
+    "correct_answer": "Crafting Maps"
+  },
+  {
+    "id": 188,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "Which of these items is used to create a fletching table?",
+    "incorrect_answers": [
+      "Feather",
+      "Arrow",
+      "String"
     ],
     "correct_answer": "Wooden Planks"
   },
@@ -2529,32 +2527,6 @@
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
-    "question": "What is the main use of a cartography table in Minecraft?",
-    "incorrect_answers": [
-      "Repairing Tools",
-      "Smelting Ores",
-      "Cooking Food"
-    ],
-    "correct_answer": "Crafting Maps"
-  },
-  {
-    "id": 190,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "Which of these items is used to create a fletching table?",
-    "incorrect_answers": [
-      "Feather",
-      "Arrow",
-      "String"
-    ],
-    "correct_answer": "Wooden Planks"
-  },
-  {
-    "id": 191,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
     "question": "What is this structure called?",
     "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/d/d2/Desert_pyramid_JE3_BE3.png/revision/latest?cb=20210711034046",
     "incorrect_answers": [
@@ -2565,7 +2537,7 @@
     "correct_answer": "Desert Pyramid"
   },
   {
-    "id": 192,
+    "id": 190,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -2578,7 +2550,7 @@
     "correct_answer": "Iron Ingot"
   },
   {
-    "id": 193,
+    "id": 191,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -2591,7 +2563,7 @@
     "correct_answer": "Cooking Food"
   },
   {
-    "id": 194,
+    "id": 192,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -2604,12 +2576,12 @@
     "correct_answer": "Nether Star"
   },
   {
-    "id": 195,
+    "id": 193,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
     "question": "What is this block called?",
-    "image": "",
+    "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/f/f9/Basalt_%28UD%29_JE1_BE1.png/revision/latest?cb=20200220215205",
     "incorrect_answers": [
       "Basalt",
       "Blackstone",
@@ -2618,7 +2590,7 @@
     "correct_answer": "Polished Basalt"
   },
   {
-    "id": 196,
+    "id": 194,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -2631,7 +2603,7 @@
     "correct_answer": "Ghast Tear"
   },
   {
-    "id": 197,
+    "id": 195,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -2645,7 +2617,7 @@
     "correct_answer": "Vindicator"
   },
   {
-    "id": 198,
+    "id": 196,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -2658,7 +2630,7 @@
     "correct_answer": "Iron Ingot"
   },
   {
-    "id": 199,
+    "id": 197,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -2671,7 +2643,7 @@
     "correct_answer": "Brewing Potions"
   },
   {
-    "id": 200,
+    "id": 198,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -2684,7 +2656,7 @@
     "correct_answer": "Blaze Powder"
   },
   {
-    "id": 201,
+    "id": 199,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -2698,7 +2670,7 @@
     "correct_answer": "Ocean Monument"
   },
   {
-    "id": 202,
+    "id": 200,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -2711,7 +2683,7 @@
     "correct_answer": "Furnace"
   },
   {
-    "id": 203,
+    "id": 201,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -2724,7 +2696,7 @@
     "correct_answer": "Reading Enchantments"
   },
   {
-    "id": 204,
+    "id": 202,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -2737,21 +2709,7 @@
     "correct_answer": "Stone"
   },
   {
-    "id": 205,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "What is this block called?",
-    "image": "",
-    "incorrect_answers": [
-      "Berry Bush",
-      "Berry Plant",
-      "Bush Plant"
-    ],
-    "correct_answer": "Sweet Berry Bush"
-  },
-  {
-    "id": 206,
+    "id": 203,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -2764,7 +2722,7 @@
     "correct_answer": "Wooden Planks"
   },
   {
-    "id": 207,
+    "id": 204,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -2777,7 +2735,7 @@
     "correct_answer": "Enchantment Table"
   },
   {
-    "id": 208,
+    "id": 205,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -2790,7 +2748,7 @@
     "correct_answer": "String"
   },
   {
-    "id": 209,
+    "id": 206,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -2804,7 +2762,7 @@
     "correct_answer": "Woodland Mansion"
   },
   {
-    "id": 210,
+    "id": 207,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -2817,7 +2775,7 @@
     "correct_answer": "Wooden Planks"
   },
   {
-    "id": 211,
+    "id": 208,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -2830,7 +2788,7 @@
     "correct_answer": "Crafting Maps"
   },
   {
-    "id": 212,
+    "id": 209,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -2843,7 +2801,7 @@
     "correct_answer": "Wooden Planks"
   },
   {
-    "id": 213,
+    "id": 210,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -2857,7 +2815,7 @@
     "correct_answer": "Desert Pyramid"
   },
   {
-    "id": 214,
+    "id": 211,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -2870,7 +2828,7 @@
     "correct_answer": "Iron Ingot"
   },
   {
-    "id": 215,
+    "id": 212,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -2883,7 +2841,7 @@
     "correct_answer": "Cooking Food"
   },
   {
-    "id": 216,
+    "id": 213,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -2896,12 +2854,12 @@
     "correct_answer": "Nether Star"
   },
   {
-    "id": 217,
+    "id": 214,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
     "question": "What is this block called?",
-    "image": "",
+    "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/f/f9/Basalt_%28UD%29_JE1_BE1.png/revision/latest?cb=20200220215205",
     "incorrect_answers": [
       "Basalt",
       "Blackstone",
@@ -2910,7 +2868,7 @@
     "correct_answer": "Polished Basalt"
   },
   {
-    "id": 218,
+    "id": 215,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -2923,7 +2881,7 @@
     "correct_answer": "Ghast Tear"
   },
   {
-    "id": 219,
+    "id": 216,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -2937,7 +2895,7 @@
     "correct_answer": "Vindicator"
   },
   {
-    "id": 220,
+    "id": 217,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -2950,7 +2908,7 @@
     "correct_answer": "Iron Ingot"
   },
   {
-    "id": 221,
+    "id": 218,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -2963,7 +2921,7 @@
     "correct_answer": "Brewing Potions"
   },
   {
-    "id": 222,
+    "id": 219,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -2976,7 +2934,7 @@
     "correct_answer": "Blaze Powder"
   },
   {
-    "id": 223,
+    "id": 220,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -2990,7 +2948,7 @@
     "correct_answer": "Ocean Monument"
   },
   {
-    "id": 224,
+    "id": 221,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -3003,7 +2961,7 @@
     "correct_answer": "Furnace"
   },
   {
-    "id": 225,
+    "id": 222,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -3016,7 +2974,7 @@
     "correct_answer": "Reading Enchantments"
   },
   {
-    "id": 226,
+    "id": 223,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -3029,21 +2987,7 @@
     "correct_answer": "Stone"
   },
   {
-    "id": 227,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "What is this block called?",
-    "image": "",
-    "incorrect_answers": [
-      "Berry Bush",
-      "Berry Plant",
-      "Bush Plant"
-    ],
-    "correct_answer": "Sweet Berry Bush"
-  },
-  {
-    "id": 228,
+    "id": 224,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -3052,6 +2996,59 @@
       "Feather",
       "Arrow",
       "String"
+    ],
+    "correct_answer": "Wooden Planks"
+  },
+  {
+    "id": 225,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "What is the name of the item used to enchant tools and armor?",
+    "incorrect_answers": [
+      "Enchanted Book",
+      "Bookshelf",
+      "Experience Bottle"
+    ],
+    "correct_answer": "Enchantment Table"
+  },
+  {
+    "id": 226,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "Which of these items is used to create a loom?",
+    "incorrect_answers": [
+      "Wool",
+      "Cotton",
+      "Silk"
+    ],
+    "correct_answer": "String"
+  },
+  {
+    "id": 227,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "What is this structure called?",
+    "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/5/5d/Woodland_Mansion.png/revision/latest?cb=20200226143945",
+    "incorrect_answers": [
+      "Jungle Temple",
+      "Village",
+      "Desert Temple"
+    ],
+    "correct_answer": "Woodland Mansion"
+  },
+  {
+    "id": 228,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "minecraft",
+    "question": "Which block is used to create a cartography table?",
+    "incorrect_answers": [
+      "Compass",
+      "Paper",
+      "Glass Pane"
     ],
     "correct_answer": "Wooden Planks"
   },
@@ -3060,59 +3057,6 @@
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
-    "question": "What is the name of the item used to enchant tools and armor?",
-    "incorrect_answers": [
-      "Enchanted Book",
-      "Bookshelf",
-      "Experience Bottle"
-    ],
-    "correct_answer": "Enchantment Table"
-  },
-  {
-    "id": 230,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "Which of these items is used to create a loom?",
-    "incorrect_answers": [
-      "Wool",
-      "Cotton",
-      "Silk"
-    ],
-    "correct_answer": "String"
-  },
-  {
-    "id": 231,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "What is this structure called?",
-    "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/5/5d/Woodland_Mansion.png/revision/latest?cb=20200226143945",
-    "incorrect_answers": [
-      "Jungle Temple",
-      "Village",
-      "Desert Temple"
-    ],
-    "correct_answer": "Woodland Mansion"
-  },
-  {
-    "id": 232,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "Which block is used to create a cartography table?",
-    "incorrect_answers": [
-      "Compass",
-      "Paper",
-      "Glass Pane"
-    ],
-    "correct_answer": "Wooden Planks"
-  },
-  {
-    "id": 233,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
     "question": "What is the main use of a cartography table in Minecraft?",
     "incorrect_answers": [
       "Repairing Tools",
@@ -3122,7 +3066,7 @@
     "correct_answer": "Crafting Maps"
   },
   {
-    "id": 234,
+    "id": 230,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
@@ -3135,7 +3079,7 @@
     "correct_answer": "Wooden Planks"
   },
   {
-    "id": 235,
+    "id": 231,
     "type": "multiple",
     "difficulty": "easy",
     "category": "minecraft",
