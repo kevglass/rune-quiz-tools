@@ -6,5 +6,8 @@
   "license": "MIT",
   "scripts": {
     "traanslate": "node translate.js"
+  },
+  "dependencies": {
+    "jsdom": "^24.1.0"
   }
 }
