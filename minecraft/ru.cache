@@ -135,7 +135,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "Как называется этот блок?",
-    "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/c/c8/Block_of_Diamond_JE5_BE3.png/revision/latest?cb=20200226013851",
+    "image": "minecraft/images/Diamond Block.png",
     "incorrect_answers": [
       "Блок Lapis",
       "Изумрудный блок",
@@ -149,7 +149,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "Определите этот биом:",
-    "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/3/31/Taiga.png/revision/latest?cb=20230321210515",
+    "image": "minecraft/images/Taiga.png",
     "incorrect_answers": [
       "Лес",
       "Пустыня",
@@ -163,7 +163,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "Какая структура изображена здесь?",
-    "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/8/8b/Jungle_pyramid_JE2_BE2.png/revision/latest?cb=20200202121947",
+    "image": "minecraft/images/Jungle Temple.png",
     "incorrect_answers": [
       "Деревня",
       "Храм в пустыне",
@@ -177,7 +177,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "Какой это блок?",
-    "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/a/a9/Emerald_Ore_JE4_BE3.png/revision/latest?cb=20210225021326",
+    "image": "minecraft/images/Emerald Ore.png",
     "incorrect_answers": [
       "Алмазная руда",
       "Железная руда",
@@ -191,7 +191,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "Что это за предмет?",
-    "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/9/99/Bow_JE2_BE1.png/revision/latest?cb=20200128015144",
+    "image": "minecraft/images/Bow.png",
     "incorrect_answers": [
       "Арбалет",
       "Рыболовная удочка",
@@ -270,7 +270,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "Как называется эта толпа?",
-    "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/2/28/Enderman.png/revision/latest?cb=20191229170629",
+    "image": "minecraft/images/Enderman.png",
     "incorrect_answers": [
       "Эндермит",
       "Шулькер",
@@ -284,7 +284,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "Какая порода дерева изображена здесь?",
-    "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/e/e9/Oak_Log_%28UD%29_JE5_BE3.png/revision/latest?cb=20200317191604",
+    "image": "minecraft/images/Oak Log.png",
     "incorrect_answers": [
       "Еловое бревно",
       "Березовое бревно",
@@ -298,7 +298,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "Как называется этот блок?",
-    "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/3/3b/Anvil_%28N%29_JE3.png/revision/latest?cb=20201126085258",
+    "image": "minecraft/images/Anvil.png",
     "incorrect_answers": [
       "Печь",
       "Grindstone",
@@ -312,7 +312,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "Какая руда изображена здесь?",
-    "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/1/19/Iron_Ore_JE6_BE4.png/revision/latest?cb=20210326000111",
+    "image": "minecraft/images/Iron Ore.png",
     "incorrect_answers": [
       "Золотая руда",
       "Угольная руда",
@@ -352,7 +352,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "Какой блок изображен здесь?",
-    "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/a/a2/TNT_JE3_BE2.png/revision/latest?cb=20210110120939",
+    "image": "minecraft/images/TNT.png",
     "incorrect_answers": [
       "Блок красного камня",
       "Песок",
@@ -405,7 +405,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "Какая мафия изображена здесь?",
-    "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/c/cd/Wither_Skeleton.png/revision/latest?cb=20191229162539",
+    "image": "minecraft/images/Wither Skeleton.png",
     "incorrect_answers": [
       "Скелет",
       "Увядание",
@@ -419,7 +419,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "Что это за дерево?",
-    "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/e/e1/Dark_Oak_Tree.png/revision/latest?cb=20190828144357",
+    "image": "minecraft/images/Dark Oak.png",
     "incorrect_answers": [
       "Береза",
       "Джунгли",
@@ -446,7 +446,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "Что это за блок в Minecraft?",
-    "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/9/99/Furnace_%28S%29_JE4.png/revision/latest?cb=20210111063232",
+    "image": "minecraft/images/Furnace.png",
     "incorrect_answers": [
       "Стол для рукоделия",
       "Грудь",
@@ -473,7 +473,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "Как называется эта структура?",
-    "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/c/cb/Nether_Fortress.png/revision/latest?cb=20200415083830",
+    "image": "minecraft/images/Nether Fortress.png",
     "incorrect_answers": [
       "Деревня",
       "Стронгхолд",
@@ -513,7 +513,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "Как называется это растение?",
-    "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/e/e3/Nether_Wart_Age_0_JE8.png/revision/latest?cb=20220427044408",
+    "image": "minecraft/images/Nether Wart.png",
     "incorrect_answers": [
       "Кактус",
       "Сахарный тростник",
@@ -527,7 +527,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "Какой блок изображен здесь?",
-    "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/4/43/End_Stone_JE3_BE2.png/revision/latest?cb=20200315175115",
+    "image": "minecraft/images/End Stone.png",
     "incorrect_answers": [
       "Песчаник",
       "Кварц",
@@ -554,7 +554,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "Какой биом изображен здесь?",
-    "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/e/e5/Savanna.png/revision/latest?cb=20220324155028",
+    "image": "minecraft/images/Savanna.png",
     "incorrect_answers": [
       "Равнины",
       "Пустыня",
@@ -594,7 +594,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "Что это за предмет?",
-    "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/b/b3/Compass_JE3_BE3.gif/revision/latest?cb=20201125191224",
+    "image": "minecraft/images/Compass.png",
     "incorrect_answers": [
       "Часы",
       "Карта",
@@ -634,7 +634,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "Как называется этот биом?",
-    "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/a/ae/Jungle.png/revision/latest?cb=20220617002056",
+    "image": "minecraft/images/Jungle.png",
     "incorrect_answers": [
       "Лес",
       "Тайга",
@@ -661,7 +661,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "Как называется этот предмет?",
-    "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/6/6f/Elytra_JE2_BE2.png/revision/latest?cb=20230930213939",
+    "image": "minecraft/images/Elytra.png",
     "incorrect_answers": [
       "Крылья",
       "Перо",
@@ -818,7 +818,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "Как называется эта толпа?",
-    "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/1/1a/Pig_JE3_BE2.png/revision/latest?cb=20230111235817",
+    "image": "minecraft/images/Pig.png",
     "incorrect_answers": [
       "Корова",
       "Овцы",
@@ -832,7 +832,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "Что это за мафия?",
-    "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/e/ed/Magma_Cube.png/revision/latest?cb=20190805151823",
+    "image": "minecraft/images/Magma Cube.png",
     "incorrect_answers": [
       "Слизь",
       "Ghast",
@@ -846,7 +846,7 @@
     "difficulty": "easy",
     "category": "minecraft",
     "question": "Как называется этот предмет?",
-    "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/1/1f/Lead_JE2_BE2.png/revision/latest?cb=20191229205413",
+    "image": "minecraft/images/Lead.png",
     "incorrect_answers": [
       "Строка",
       "Именная бирка",

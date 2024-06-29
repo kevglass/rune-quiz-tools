@@ -1,7 +1,8 @@
 import * as fs from 'fs';
 import * as https from 'https';
 
-const THEME = "general";
+const THEME = "minecraft";
+const TRANSLATE_ANSWERS = true;
 const translationKey2 = JSON.parse(fs.readFileSync("local.json").toString()).translate.key2;
 
 function deepTranslate(lang, text) {
@@ -84,9 +85,12 @@ async function generateLanguage(lang, questions) {
             translated.incorrect_answers = [...translated.incorrect_answers];
             
             translated.question = await deepTranslate(lang, question.question);
-            translated.correct_answer = await deepTranslate(lang, question.correct_answer);
-            for (let i=0;i<question.incorrect_answers.length;i++) {
-                translated.incorrect_answers[i] = await deepTranslate(lang, question.incorrect_answers[i]);
+
+            if (TRANSLATE_ANSWERS) {
+                translated.correct_answer = await deepTranslate(lang, question.correct_answer);
+                for (let i=0;i<question.incorrect_answers.length;i++) {
+                    translated.incorrect_answers[i] = await deepTranslate(lang, question.incorrect_answers[i]);
+                }
             }
 
             translatedQuestions.push(translated);

@@ -39,17 +39,34 @@ function download(url, filename, answer) {
         fs.mkdirSync(THEME+"/images");
     }
 
-    const questions = JSON.parse(fs.readFileSync(THEME+"/questions_en.json"));
-    for (const q of questions) {
-        if (q.image && q.image.startsWith("http")) {
-            const elements = q.image.split("/");
-            const filename = q.correct_answer+(q.image.indexOf(".png") ? ".png" : ".jpg");
-            const target = THEME+"/images/"+filename
-            if (!fs.existsSync(target)) {
-                await download(q.image, target, q.correct_answer);
-                questions.image = target;
+    async function processLang(lang) {
+        let index = 0;
+        const questions = JSON.parse(fs.readFileSync(THEME+"/questions_"+lang+".json"));
+        for (const q of questions) {
+            if (q.image && q.image.startsWith("http")) {
+                index = questions.indexOf(q);
+                const filename = q.correct_answer+(q.image.indexOf(".png") ? ".png" : ".jpg");
+                const target = THEME+"/images/"+filename
+                if (!fs.existsSync(target)) {
+                    await download(q.image, target, q.correct_answer);
+                }
+                q.image = target;
             }
         }
+        console.log("Saving: ", questions[index]);
+        fs.writeFileSync(THEME+"/questions_"+lang+".json", JSON.stringify(questions, null, 2));
     }
-    // fs.writeFileSync(THEME+"/questions_en.json", JSON.stringify(questions, null, 2));
+
+    // await processLang("en");
+    const questions = JSON.parse(fs.readFileSync(THEME+"/questions_en.json"));
+    const ru = JSON.parse(fs.readFileSync(THEME+"/questions_ru.json"));
+    const es = JSON.parse(fs.readFileSync(THEME+"/questions_es.json"));
+    const pt = JSON.parse(fs.readFileSync(THEME+"/questions_pt.json"));
+    console.log(questions.length, ru.length);
+    for (const q of questions) {
+        const index = questions.indexOf(q);
+        ru[index].image = questions[index].image;
+        pt[index].image = questions[index].image;
+        es[index].image = questions[index].image;
+    }
 })();
