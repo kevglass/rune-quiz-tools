@@ -1,6 +1,7 @@
 import * as fs from 'fs';
 import * as https from 'https';
 
+const THEME = "general";
 const translationKey2 = JSON.parse(fs.readFileSync("local.json").toString()).translate.key2;
 
 function deepTranslate(lang, text) {
@@ -73,8 +74,8 @@ function deepTranslate(lang, text) {
     },
 */
 async function generateLanguage(lang, questions) {
-    const cache = fs.existsSync(lang+".cache") ? JSON.parse(fs.readFileSync(lang+".cache")) : {};
-    const translatedQuestions = fs.existsSync("questions_"+lang+".json") ? JSON.parse(fs.readFileSync("questions_"+lang+".json")) : []
+    const cache = fs.existsSync(THEME+"/"+lang+".cache") ? JSON.parse(fs.readFileSync(THEME+"/"+lang+".cache")) : {};
+    const translatedQuestions = fs.existsSync(THEME+"/"+"questions_"+lang+".json") ? JSON.parse(fs.readFileSync(THEME+"/"+"questions_"+lang+".json")) : []
 
     for (const question of questions) {
         if (!cache[question.question]) {
@@ -91,14 +92,14 @@ async function generateLanguage(lang, questions) {
             translatedQuestions.push(translated);
             cache[question.question] = translated;
 
-            fs.writeFileSync(lang+".cache", JSON.stringify(cache, null, 2));
-            fs.writeFileSync("questions_"+lang+".json", JSON.stringify(translatedQuestions, null, 2));
+            fs.writeFileSync(THEME+"/"+lang+".cache", JSON.stringify(cache, null, 2));
+            fs.writeFileSync(THEME+"/"+"questions_"+lang+".json", JSON.stringify(translatedQuestions, null, 2));
         }
     }
 }
 
 (async () => {
-    const questions = JSON.parse(fs.readFileSync("../dusk-quiz/src/assets/questions_en.json").toString());
+    const questions = JSON.parse(fs.readFileSync(THEME+"/questions_en.json").toString());
     await generateLanguage("ru", questions);
     await generateLanguage("pt", questions);
     await generateLanguage("es", questions);
