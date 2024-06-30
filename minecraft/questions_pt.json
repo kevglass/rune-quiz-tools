@@ -522,20 +522,6 @@
     "correct_answer": "Verruga de Nether"
   },
   {
-    "id": 41,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "Que bloco é apresentado aqui?",
-    "image": "minecraft/images/End Stone.png",
-    "incorrect_answers": [
-      "Arenito",
-      "Quartzo",
-      "Prismarina"
-    ],
-    "correct_answer": "Pedra final"
-  },
-  {
     "id": 42,
     "type": "multiple",
     "difficulty": "easy",
@@ -1649,19 +1635,6 @@
     "correct_answer": "Forno"
   },
   {
-    "id": 180,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "Qual é a principal utilização de um púlpito no Minecraft?",
-    "incorrect_answers": [
-      "Armazenamento de livros",
-      "Elaboração de mapas",
-      "Escrever livros"
-    ],
-    "correct_answer": "Ler encantamentos"
-  },
-  {
     "id": 181,
     "type": "multiple",
     "difficulty": "easy",
@@ -1725,19 +1698,6 @@
       "Painel de vidro"
     ],
     "correct_answer": "Tábuas de madeira"
-  },
-  {
-    "id": 187,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "Qual é a principal utilização de uma mesa de cartografia no Minecraft?",
-    "incorrect_answers": [
-      "Ferramentas de reparação",
-      "Fundição de minérios",
-      "Cozinhar alimentos"
-    ],
-    "correct_answer": "Elaboração de mapas"
   },
   {
     "id": 190,

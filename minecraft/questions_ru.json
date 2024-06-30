@@ -293,20 +293,6 @@
     "correct_answer": "Дубовое бревно"
   },
   {
-    "id": 23,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "Как называется этот блок?",
-    "image": "minecraft/images/Anvil.png",
-    "incorrect_answers": [
-      "Печь",
-      "Grindstone",
-      "Кузнечный стол"
-    ],
-    "correct_answer": "Наковальня"
-  },
-  {
     "id": 24,
     "type": "multiple",
     "difficulty": "easy",
@@ -522,20 +508,6 @@
     "correct_answer": "Низинная бородавка"
   },
   {
-    "id": 41,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "Какой блок изображен здесь?",
-    "image": "minecraft/images/End Stone.png",
-    "incorrect_answers": [
-      "Песчаник",
-      "Кварц",
-      "Призмарин"
-    ],
-    "correct_answer": "Конечный камень"
-  },
-  {
     "id": 42,
     "type": "multiple",
     "difficulty": "easy",
@@ -587,20 +559,6 @@
       "Grindstone"
     ],
     "correct_answer": "Печь"
-  },
-  {
-    "id": 49,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "Что это за предмет?",
-    "image": "minecraft/images/Compass.png",
-    "incorrect_answers": [
-      "Часы",
-      "Карта",
-      "Подзорная труба"
-    ],
-    "correct_answer": "Компас"
   },
   {
     "id": 50,
@@ -813,20 +771,6 @@
     "correct_answer": "Slimeball"
   },
   {
-    "id": 88,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "Как называется эта толпа?",
-    "image": "minecraft/images/Pig.png",
-    "incorrect_answers": [
-      "Корова",
-      "Овцы",
-      "Курица"
-    ],
-    "correct_answer": "Свинья"
-  },
-  {
     "id": 90,
     "type": "multiple",
     "difficulty": "easy",
@@ -839,20 +783,6 @@
       "Увядание"
     ],
     "correct_answer": "Куб Магмы"
-  },
-  {
-    "id": 91,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "Как называется этот предмет?",
-    "image": "minecraft/images/Lead.png",
-    "incorrect_answers": [
-      "Строка",
-      "Именная бирка",
-      "Веревка"
-    ],
-    "correct_answer": "Вести"
   },
   {
     "id": 93,
@@ -1649,19 +1579,6 @@
     "correct_answer": "Печь"
   },
   {
-    "id": 180,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "Каково основное назначение пюпитра в Minecraft?",
-    "incorrect_answers": [
-      "Хранение книг",
-      "Создание карт",
-      "Написание книг"
-    ],
-    "correct_answer": "Чтение заклинаний"
-  },
-  {
     "id": 181,
     "type": "multiple",
     "difficulty": "easy",
@@ -1751,18 +1668,5 @@
       "Обсидиан"
     ],
     "correct_answer": "Железная болванка"
-  },
-  {
-    "id": 191,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "Каково основное назначение курильщика в Minecraft?",
-    "incorrect_answers": [
-      "Плавление руд",
-      "Варить зелья",
-      "Инструменты для ремесла"
-    ],
-    "correct_answer": "Приготовление еды"
   }
 ]

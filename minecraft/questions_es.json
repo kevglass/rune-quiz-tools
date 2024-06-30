@@ -293,20 +293,6 @@
     "correct_answer": "Tronco de roble"
   },
   {
-    "id": 23,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "¿Cómo se llama este bloque?",
-    "image": "minecraft/images/Anvil.png",
-    "incorrect_answers": [
-      "Horno",
-      "Grindstone",
-      "Mesa de herrería"
-    ],
-    "correct_answer": "Yunque"
-  },
-  {
     "id": 24,
     "type": "multiple",
     "difficulty": "easy",
@@ -520,20 +506,6 @@
       "Trigo"
     ],
     "correct_answer": "Verruga de Nether"
-  },
-  {
-    "id": 41,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "¿Qué bloque se muestra aquí?",
-    "image": "minecraft/images/End Stone.png",
-    "incorrect_answers": [
-      "Arenisca",
-      "Cuarzo",
-      "Prismarine"
-    ],
-    "correct_answer": "Piedra final"
   },
   {
     "id": 42,
@@ -813,20 +785,6 @@
     "correct_answer": "Slimeball"
   },
   {
-    "id": 88,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "¿Cómo se llama esta mafia?",
-    "image": "minecraft/images/Pig.png",
-    "incorrect_answers": [
-      "Vaca",
-      "Ovejas",
-      "Pollo"
-    ],
-    "correct_answer": "Cerdo"
-  },
-  {
     "id": 90,
     "type": "multiple",
     "difficulty": "easy",
@@ -839,20 +797,6 @@
       "Wither"
     ],
     "correct_answer": "Cubo de magma"
-  },
-  {
-    "id": 91,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "¿Cómo se llama este artículo?",
-    "image": "minecraft/images/Lead.png",
-    "incorrect_answers": [
-      "Cadena",
-      "Etiqueta con el nombre",
-      "Cuerda"
-    ],
-    "correct_answer": "Plomo"
   },
   {
     "id": 93,
@@ -1751,18 +1695,5 @@
       "Obsidiana"
     ],
     "correct_answer": "Lingote de hierro"
-  },
-  {
-    "id": 191,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "minecraft",
-    "question": "¿Para qué sirve principalmente un fumador en Minecraft?",
-    "incorrect_answers": [
-      "Fundición de minerales",
-      "Preparación de pociones",
-      "Herramientas de artesanía"
-    ],
-    "correct_answer": "Cocinar alimentos"
   }
 ]
