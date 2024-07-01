@@ -1,5 +1,5 @@
-{
-  "What tool is required to mine diamonds?": {
+[
+  {
     "id": 1,
     "type": "multiple",
     "difficulty": "easy",
@@ -12,7 +12,7 @@
     ],
     "correct_answer": "Железная кирка"
   },
-  "Which mob drops Ender Pearls?": {
+  {
     "id": 2,
     "type": "multiple",
     "difficulty": "easy",
@@ -25,7 +25,7 @@
     ],
     "correct_answer": "Эндерман"
   },
-  "Which item is needed to activate a Nether Portal?": {
+  {
     "id": 3,
     "type": "multiple",
     "difficulty": "easy",
@@ -38,7 +38,7 @@
     ],
     "correct_answer": "Кремень и сталь"
   },
-  "What is the strongest material for tools and armor?": {
+  {
     "id": 4,
     "type": "multiple",
     "difficulty": "easy",
@@ -51,7 +51,7 @@
     ],
     "correct_answer": "Нетерит"
   },
-  "How many wood planks are needed to craft a crafting table?": {
+  {
     "id": 5,
     "type": "multiple",
     "difficulty": "easy",
@@ -64,7 +64,7 @@
     ],
     "correct_answer": "4"
   },
-  "Which crop does not require water to grow?": {
+  {
     "id": 6,
     "type": "multiple",
     "difficulty": "easy",
@@ -77,7 +77,7 @@
     ],
     "correct_answer": "Кактусы"
   },
-  "Which of these is a Nether-exclusive mob?": {
+  {
     "id": 7,
     "type": "multiple",
     "difficulty": "easy",
@@ -90,7 +90,7 @@
     ],
     "correct_answer": "Ghast"
   },
-  "Which material can be used to tame a cat?": {
+  {
     "id": 8,
     "type": "multiple",
     "difficulty": "easy",
@@ -103,7 +103,7 @@
     ],
     "correct_answer": "Рыба"
   },
-  "How do you make a large chest?": {
+  {
     "id": 9,
     "type": "multiple",
     "difficulty": "easy",
@@ -116,7 +116,7 @@
     ],
     "correct_answer": "Два сундука рядом друг с другом"
   },
-  "What can you use to grow plants faster?": {
+  {
     "id": 10,
     "type": "multiple",
     "difficulty": "easy",
@@ -129,7 +129,7 @@
     ],
     "correct_answer": "Костная мука"
   },
-  "What is this block called?": {
+  {
     "id": 11,
     "type": "multiple",
     "difficulty": "easy",
@@ -143,7 +143,7 @@
     ],
     "correct_answer": "Алмазный блок"
   },
-  "Identify this biome:": {
+  {
     "id": 12,
     "type": "multiple",
     "difficulty": "easy",
@@ -157,7 +157,7 @@
     ],
     "correct_answer": "Тайга"
   },
-  "What structure is shown here?": {
+  {
     "id": 13,
     "type": "multiple",
     "difficulty": "easy",
@@ -171,7 +171,7 @@
     ],
     "correct_answer": "Храм в джунглях"
   },
-  "Which block is this?": {
+  {
     "id": 14,
     "type": "multiple",
     "difficulty": "easy",
@@ -185,7 +185,7 @@
     ],
     "correct_answer": "Изумрудная руда"
   },
-  "What item is this?": {
+  {
     "id": 15,
     "type": "multiple",
     "difficulty": "easy",
@@ -199,7 +199,7 @@
     ],
     "correct_answer": "Лук"
   },
-  "What is the name of the boss mob found in a Woodland Mansion?": {
+  {
     "id": 16,
     "type": "multiple",
     "difficulty": "easy",
@@ -212,7 +212,7 @@
     ],
     "correct_answer": "Evoker"
   },
-  "Which item is needed to brew potions?": {
+  {
     "id": 17,
     "type": "multiple",
     "difficulty": "easy",
@@ -225,7 +225,7 @@
     ],
     "correct_answer": "Подставка для пивоварения"
   },
-  "Which biome is known for its large mushrooms?": {
+  {
     "id": 18,
     "type": "multiple",
     "difficulty": "easy",
@@ -238,7 +238,7 @@
     ],
     "correct_answer": "Грибные поля"
   },
-  "What material is a beacon primarily made from?": {
+  {
     "id": 19,
     "type": "multiple",
     "difficulty": "easy",
@@ -251,7 +251,7 @@
     ],
     "correct_answer": "Стекло"
   },
-  "Which item is required to make a compass?": {
+  {
     "id": 20,
     "type": "multiple",
     "difficulty": "easy",
@@ -264,7 +264,7 @@
     ],
     "correct_answer": "Redstone"
   },
-  "What is this mob called?": {
+  {
     "id": 21,
     "type": "multiple",
     "difficulty": "easy",
@@ -278,7 +278,7 @@
     ],
     "correct_answer": "Эндерман"
   },
-  "What is the name of this block?": {
+  {
     "id": 22,
     "type": "multiple",
     "difficulty": "easy",
@@ -292,7 +292,7 @@
     ],
     "correct_answer": "Наковальня"
   },
-  "Which ore is shown here?": {
+  {
     "id": 23,
     "type": "multiple",
     "difficulty": "easy",
@@ -306,7 +306,7 @@
     ],
     "correct_answer": "Железная руда"
   },
-  "Which enchantment increases the damage dealt to undead mobs?": {
+  {
     "id": 24,
     "type": "multiple",
     "difficulty": "easy",
@@ -319,7 +319,7 @@
     ],
     "correct_answer": "Smite"
   },
-  "What can you use to dye sheep?": {
+  {
     "id": 25,
     "type": "multiple",
     "difficulty": "easy",
@@ -332,7 +332,7 @@
     ],
     "correct_answer": "Краситель"
   },
-  "What block is shown here?": {
+  {
     "id": 26,
     "type": "multiple",
     "difficulty": "easy",
@@ -346,7 +346,7 @@
     ],
     "correct_answer": "TNT"
   },
-  "Which item is used to breed cows?": {
+  {
     "id": 27,
     "type": "multiple",
     "difficulty": "easy",
@@ -359,7 +359,7 @@
     ],
     "correct_answer": "Пшеница"
   },
-  "What is the use of a map in Minecraft?": {
+  {
     "id": 28,
     "type": "multiple",
     "difficulty": "easy",
@@ -372,7 +372,7 @@
     ],
     "correct_answer": "Навигация по миру"
   },
-  "Which block do you need to craft to store XP?": {
+  {
     "id": 29,
     "type": "multiple",
     "difficulty": "easy",
@@ -385,7 +385,7 @@
     ],
     "correct_answer": "Бутылка для опытов"
   },
-  "Which mob is shown here?": {
+  {
     "id": 30,
     "type": "multiple",
     "difficulty": "easy",
@@ -399,7 +399,7 @@
     ],
     "correct_answer": "Увядший скелет"
   },
-  "What type of tree is this?": {
+  {
     "id": 31,
     "type": "multiple",
     "difficulty": "easy",
@@ -413,7 +413,7 @@
     ],
     "correct_answer": "Темный дуб"
   },
-  "What item do you need to light a Nether Portal?": {
+  {
     "id": 32,
     "type": "multiple",
     "difficulty": "easy",
@@ -426,7 +426,7 @@
     ],
     "correct_answer": "Кремень и сталь"
   },
-  "Which Minecraft block is this?": {
+  {
     "id": 33,
     "type": "multiple",
     "difficulty": "easy",
@@ -440,7 +440,7 @@
     ],
     "correct_answer": "Печь"
   },
-  "What tool is required to mine obsidian?": {
+  {
     "id": 34,
     "type": "multiple",
     "difficulty": "easy",
@@ -453,7 +453,7 @@
     ],
     "correct_answer": "Алмазная кирка"
   },
-  "What is this structure called?": {
+  {
     "id": 35,
     "type": "multiple",
     "difficulty": "easy",
@@ -467,7 +467,7 @@
     ],
     "correct_answer": "Неземная крепость"
   },
-  "Which block is required to make a bed?": {
+  {
     "id": 37,
     "type": "multiple",
     "difficulty": "easy",
@@ -480,7 +480,7 @@
     ],
     "correct_answer": "Шерсть"
   },
-  "What is the main ingredient to brew potions?": {
+  {
     "id": 38,
     "type": "multiple",
     "difficulty": "easy",
@@ -493,7 +493,7 @@
     ],
     "correct_answer": "Порошок Блейз"
   },
-  "What is this plant called?": {
+  {
     "id": 39,
     "type": "multiple",
     "difficulty": "easy",
@@ -507,7 +507,7 @@
     ],
     "correct_answer": "Низинная бородавка"
   },
-  "Which block is shown here?": {
+  {
     "id": 40,
     "type": "multiple",
     "difficulty": "easy",
@@ -521,7 +521,7 @@
     ],
     "correct_answer": "Конечный камень"
   },
-  "Which item can be used to ride a pig?": {
+  {
     "id": 41,
     "type": "multiple",
     "difficulty": "easy",
@@ -534,7 +534,7 @@
     ],
     "correct_answer": "Седло"
   },
-  "Which biome is shown here?": {
+  {
     "id": 43,
     "type": "multiple",
     "difficulty": "easy",
@@ -548,7 +548,7 @@
     ],
     "correct_answer": "Саванна"
   },
-  "What item can you get from killing a Blaze?": {
+  {
     "id": 44,
     "type": "multiple",
     "difficulty": "easy",
@@ -561,7 +561,7 @@
     ],
     "correct_answer": "Блейз Род"
   },
-  "Which block can be used to smelt items?": {
+  {
     "id": 46,
     "type": "multiple",
     "difficulty": "easy",
@@ -574,7 +574,7 @@
     ],
     "correct_answer": "Печь"
   },
-  "What is this item?": {
+  {
     "id": 48,
     "type": "multiple",
     "difficulty": "easy",
@@ -588,7 +588,7 @@
     ],
     "correct_answer": "Компас"
   },
-  "What can you use to craft a bow?": {
+  {
     "id": 49,
     "type": "multiple",
     "difficulty": "easy",
@@ -601,7 +601,7 @@
     ],
     "correct_answer": "Палка, струна"
   },
-  "Which of these items is not edible in Minecraft?": {
+  {
     "id": 51,
     "type": "multiple",
     "difficulty": "easy",
@@ -614,7 +614,7 @@
     ],
     "correct_answer": "Кожа"
   },
-  "What is this biome called?": {
+  {
     "id": 52,
     "type": "multiple",
     "difficulty": "easy",
@@ -628,7 +628,7 @@
     ],
     "correct_answer": "Джунгли"
   },
-  "Which mob can drop leather?": {
+  {
     "id": 53,
     "type": "multiple",
     "difficulty": "easy",
@@ -641,7 +641,7 @@
     ],
     "correct_answer": "Корова"
   },
-  "What is this item called?": {
+  {
     "id": 55,
     "type": "multiple",
     "difficulty": "easy",
@@ -655,7 +655,7 @@
     ],
     "correct_answer": "Элитра"
   },
-  "Which of these can you use to make potions?": {
+  {
     "id": 57,
     "type": "multiple",
     "difficulty": "easy",
@@ -668,7 +668,7 @@
     ],
     "correct_answer": "Блейз Род"
   },
-  "What is the default Minecraft skin called?": {
+  {
     "id": 59,
     "type": "multiple",
     "difficulty": "easy",
@@ -681,7 +681,7 @@
     ],
     "correct_answer": "Стив"
   },
-  "Which of these blocks is found in the End?": {
+  {
     "id": 60,
     "type": "multiple",
     "difficulty": "easy",
@@ -694,7 +694,7 @@
     ],
     "correct_answer": "Конечный камень"
   },
-  "Which item can be used to shear sheep?": {
+  {
     "id": 64,
     "type": "multiple",
     "difficulty": "easy",
@@ -707,7 +707,7 @@
     ],
     "correct_answer": "Ножницы"
   },
-  "Which mob can you ride in Minecraft?": {
+  {
     "id": 66,
     "type": "multiple",
     "difficulty": "easy",
@@ -720,7 +720,7 @@
     ],
     "correct_answer": "Лошадь"
   },
-  "Which item is required to tame a wolf?": {
+  {
     "id": 67,
     "type": "multiple",
     "difficulty": "easy",
@@ -733,7 +733,7 @@
     ],
     "correct_answer": "Кость"
   },
-  "Which of these mobs drops bones?": {
+  {
     "id": 70,
     "type": "multiple",
     "difficulty": "easy",
@@ -746,7 +746,7 @@
     ],
     "correct_answer": "Скелет"
   },
-  "Which of these blocks generates in the Overworld?": {
+  {
     "id": 74,
     "type": "multiple",
     "difficulty": "easy",
@@ -759,7 +759,7 @@
     ],
     "correct_answer": "Гранит"
   },
-  "Which mob is neutral until attacked?": {
+  {
     "id": 78,
     "type": "multiple",
     "difficulty": "easy",
@@ -772,7 +772,7 @@
     ],
     "correct_answer": "Эндерман"
   },
-  "Which of these blocks generates in the Nether?": {
+  {
     "id": 80,
     "type": "multiple",
     "difficulty": "easy",
@@ -785,7 +785,7 @@
     ],
     "correct_answer": "Незерская кварцевая руда"
   },
-  "Which item can be used to craft a lead?": {
+  {
     "id": 83,
     "type": "multiple",
     "difficulty": "easy",
@@ -798,7 +798,7 @@
     ],
     "correct_answer": "Slimeball"
   },
-  "What is the name of this mob?": {
+  {
     "id": 86,
     "type": "multiple",
     "difficulty": "easy",
@@ -812,7 +812,7 @@
     ],
     "correct_answer": "Свинья"
   },
-  "Which mob is this?": {
+  {
     "id": 88,
     "type": "multiple",
     "difficulty": "easy",
@@ -826,7 +826,7 @@
     ],
     "correct_answer": "Куб Магмы"
   },
-  "What is the name of this item?": {
+  {
     "id": 89,
     "type": "multiple",
     "difficulty": "easy",
@@ -840,7 +840,7 @@
     ],
     "correct_answer": "Вести"
   },
-  "Which of these blocks is not used in brewing potions?": {
+  {
     "id": 91,
     "type": "multiple",
     "difficulty": "easy",
@@ -853,7 +853,7 @@
     ],
     "correct_answer": "Стол для рукоделия"
   },
-  "What tool is used to mine diamonds?": {
+  {
     "id": 95,
     "type": "multiple",
     "difficulty": "easy",
@@ -866,7 +866,7 @@
     ],
     "correct_answer": "Железная кирка"
   },
-  "Which dimension is home to the Ender Dragon?": {
+  {
     "id": 96,
     "type": "multiple",
     "difficulty": "easy",
@@ -879,7 +879,7 @@
     ],
     "correct_answer": "Конец"
   },
-  "What is the primary use of Redstone in Minecraft?": {
+  {
     "id": 97,
     "type": "multiple",
     "difficulty": "easy",
@@ -892,7 +892,7 @@
     ],
     "correct_answer": "Механизмы питания"
   },
-  "Which of these blocks can be used to create a beacon?": {
+  {
     "id": 98,
     "type": "multiple",
     "difficulty": "easy",
@@ -905,7 +905,7 @@
     ],
     "correct_answer": "Железный блок"
   },
-  "What is the maximum level for enchanting items?": {
+  {
     "id": 99,
     "type": "multiple",
     "difficulty": "easy",
@@ -918,7 +918,7 @@
     ],
     "correct_answer": "30"
   },
-  "Which of these items is used to create an iron golem?": {
+  {
     "id": 100,
     "type": "multiple",
     "difficulty": "easy",
@@ -931,7 +931,7 @@
     ],
     "correct_answer": "Железный блок"
   },
-  "What is the name of the food item that restores the most hunger points?": {
+  {
     "id": 101,
     "type": "multiple",
     "difficulty": "easy",
@@ -944,7 +944,7 @@
     ],
     "correct_answer": "Золотая морковь"
   },
-  "Which of these mobs can be found in the Nether?": {
+  {
     "id": 102,
     "type": "multiple",
     "difficulty": "easy",
@@ -957,7 +957,7 @@
     ],
     "correct_answer": "Куб Магмы"
   },
-  "Which block is used to create a compass?": {
+  {
     "id": 104,
     "type": "multiple",
     "difficulty": "easy",
@@ -970,7 +970,7 @@
     ],
     "correct_answer": "Железная болванка"
   },
-  "What is the name of the rare item dropped by the Wither boss?": {
+  {
     "id": 105,
     "type": "multiple",
     "difficulty": "easy",
@@ -983,7 +983,7 @@
     ],
     "correct_answer": "Неземная звезда"
   },
-  "Which of these items is used to tame parrots?": {
+  {
     "id": 106,
     "type": "multiple",
     "difficulty": "easy",
@@ -996,7 +996,7 @@
     ],
     "correct_answer": "Семена"
   },
-  "Which biome is known for its tall, thin Spruce trees?": {
+  {
     "id": 108,
     "type": "multiple",
     "difficulty": "easy",
@@ -1009,7 +1009,7 @@
     ],
     "correct_answer": "Тайга"
   },
-  "What is the main use of a grindstone in Minecraft?": {
+  {
     "id": 109,
     "type": "multiple",
     "difficulty": "easy",
@@ -1022,7 +1022,7 @@
     ],
     "correct_answer": "Инструменты для ремонта"
   },
-  "Which of these items is used to craft a piston?": {
+  {
     "id": 110,
     "type": "multiple",
     "difficulty": "easy",
@@ -1035,7 +1035,7 @@
     ],
     "correct_answer": "Железная болванка"
   },
-  "Which block is commonly used to build underwater breathing potions?": {
+  {
     "id": 112,
     "type": "multiple",
     "difficulty": "easy",
@@ -1048,7 +1048,7 @@
     ],
     "correct_answer": "Призмарин"
   },
-  "What is the main use of a lectern in Minecraft?": {
+  {
     "id": 113,
     "type": "multiple",
     "difficulty": "easy",
@@ -1061,7 +1061,7 @@
     ],
     "correct_answer": "Чтение заклинаний"
   },
-  "Which of these items is used to breed pandas?": {
+  {
     "id": 114,
     "type": "multiple",
     "difficulty": "easy",
@@ -1074,7 +1074,7 @@
     ],
     "correct_answer": "Бамбук"
   },
-  "Which of these mobs can be found in the Mushroom Island biome?": {
+  {
     "id": 116,
     "type": "multiple",
     "difficulty": "easy",
@@ -1087,7 +1087,7 @@
     ],
     "correct_answer": "Mooshroom"
   },
-  "What is the name of the potion that grants invisibility to the player?": {
+  {
     "id": 117,
     "type": "multiple",
     "difficulty": "easy",
@@ -1100,7 +1100,7 @@
     ],
     "correct_answer": "Зелье невидимости"
   },
-  "Which of these items is required to create a fire charge?": {
+  {
     "id": 118,
     "type": "multiple",
     "difficulty": "easy",
@@ -1113,7 +1113,7 @@
     ],
     "correct_answer": "Порошок Блейз"
   },
-  "Which block is used to craft a respawn anchor?": {
+  {
     "id": 120,
     "type": "multiple",
     "difficulty": "easy",
@@ -1126,7 +1126,7 @@
     ],
     "correct_answer": "Плачущий обсидиан"
   },
-  "Which of these blocks generates naturally in the End dimension?": {
+  {
     "id": 122,
     "type": "multiple",
     "difficulty": "easy",
@@ -1139,7 +1139,7 @@
     ],
     "correct_answer": "Конечный камень"
   },
-  "Which of these items is required to create a hay bale?": {
+  {
     "id": 123,
     "type": "multiple",
     "difficulty": "easy",
@@ -1152,7 +1152,7 @@
     ],
     "correct_answer": "Пшеница"
   },
-  "Which of these items is used to create a daylight sensor?": {
+  {
     "id": 124,
     "type": "multiple",
     "difficulty": "easy",
@@ -1165,7 +1165,7 @@
     ],
     "correct_answer": "Сравнительный анализ"
   },
-  "What is the name of the block that attracts nearby items to it?": {
+  {
     "id": 125,
     "type": "multiple",
     "difficulty": "easy",
@@ -1178,7 +1178,7 @@
     ],
     "correct_answer": "Бункер"
   },
-  "Which block generates in the Nether Wastes biome?": {
+  {
     "id": 126,
     "type": "multiple",
     "difficulty": "easy",
@@ -1191,7 +1191,7 @@
     ],
     "correct_answer": "Netherrack"
   },
-  "What is the primary use of a loom in Minecraft?": {
+  {
     "id": 127,
     "type": "multiple",
     "difficulty": "easy",
@@ -1204,7 +1204,7 @@
     ],
     "correct_answer": "Применение узоров для баннеров"
   },
-  "Which of these items is used to make a sticky piston?": {
+  {
     "id": 128,
     "type": "multiple",
     "difficulty": "easy",
@@ -1217,7 +1217,7 @@
     ],
     "correct_answer": "Slimeball"
   },
-  "Which of these items is used to create a firework rocket?": {
+  {
     "id": 130,
     "type": "multiple",
     "difficulty": "easy",
@@ -1230,7 +1230,7 @@
     ],
     "correct_answer": "Порох"
   },
-  "Which of these items is used to create a dragon's breath potion?": {
+  {
     "id": 132,
     "type": "multiple",
     "difficulty": "easy",
@@ -1243,7 +1243,7 @@
     ],
     "correct_answer": "Дыхание дракона"
   },
-  "Which block is used to create an anvil?": {
+  {
     "id": 134,
     "type": "multiple",
     "difficulty": "easy",
@@ -1256,7 +1256,7 @@
     ],
     "correct_answer": "Железный блок"
   },
-  "What is the primary use of a cartography table in Minecraft?": {
+  {
     "id": 135,
     "type": "multiple",
     "difficulty": "easy",
@@ -1269,7 +1269,7 @@
     ],
     "correct_answer": "Создание карт"
   },
-  "Which of these mobs is neutral unless provoked?": {
+  {
     "id": 136,
     "type": "multiple",
     "difficulty": "easy",
@@ -1282,7 +1282,7 @@
     ],
     "correct_answer": "Пиглин"
   },
-  "Which of these items is required to create a fire resistance potion?": {
+  {
     "id": 138,
     "type": "multiple",
     "difficulty": "easy",
@@ -1295,7 +1295,7 @@
     ],
     "correct_answer": "Крем Магма"
   },
-  "Which block is used to create a target block?": {
+  {
     "id": 140,
     "type": "multiple",
     "difficulty": "easy",
@@ -1308,7 +1308,7 @@
     ],
     "correct_answer": "Тюк сена"
   },
-  "What is the main use of a compost bin in Minecraft?": {
+  {
     "id": 141,
     "type": "multiple",
     "difficulty": "easy",
@@ -1321,7 +1321,7 @@
     ],
     "correct_answer": "Получение костной муки"
   },
-  "Which of these items is used to create a spectral arrow?": {
+  {
     "id": 142,
     "type": "multiple",
     "difficulty": "easy",
@@ -1334,7 +1334,7 @@
     ],
     "correct_answer": "Светящаяся каменная пыль"
   },
-  "Which block is used to craft a bell?": {
+  {
     "id": 144,
     "type": "multiple",
     "difficulty": "easy",
@@ -1347,7 +1347,7 @@
     ],
     "correct_answer": "Железная болванка"
   },
-  "Which of these items is required to craft a target block?": {
+  {
     "id": 146,
     "type": "multiple",
     "difficulty": "easy",
@@ -1361,7 +1361,7 @@
     ],
     "correct_answer": "Тюк сена"
   },
-  "Which of these mobs is known for dropping Ghast Tears?": {
+  {
     "id": 148,
     "type": "multiple",
     "difficulty": "easy",
@@ -1374,7 +1374,7 @@
     ],
     "correct_answer": "Ghast"
   },
-  "What is the name of the rare block found in the End dimension that can be used for respawn points?": {
+  {
     "id": 149,
     "type": "multiple",
     "difficulty": "easy",
@@ -1387,7 +1387,7 @@
     ],
     "correct_answer": "Плачущий обсидиан"
   },
-  "Which block is used to create a grindstone?": {
+  {
     "id": 150,
     "type": "multiple",
     "difficulty": "easy",
@@ -1400,7 +1400,7 @@
     ],
     "correct_answer": "Камень"
   },
-  "What is the name of the item that allows players to change their spawn point?": {
+  {
     "id": 151,
     "type": "multiple",
     "difficulty": "easy",
@@ -1413,7 +1413,7 @@
     ],
     "correct_answer": "Кровать"
   },
-  "Which of these items is used to create a note block?": {
+  {
     "id": 152,
     "type": "multiple",
     "difficulty": "easy",
@@ -1426,7 +1426,7 @@
     ],
     "correct_answer": "Redstone"
   },
-  "Which of these items is required to craft a beacon?": {
+  {
     "id": 154,
     "type": "multiple",
     "difficulty": "easy",
@@ -1439,7 +1439,7 @@
     ],
     "correct_answer": "Неземная звезда"
   },
-  "Which of these items is used to create a trident?": {
+  {
     "id": 155,
     "type": "multiple",
     "difficulty": "easy",
@@ -1452,7 +1452,7 @@
     ],
     "correct_answer": "Раковина наутилуса"
   },
-  "Which block is used to craft a campfire?": {
+  {
     "id": 156,
     "type": "multiple",
     "difficulty": "easy",
@@ -1465,7 +1465,7 @@
     ],
     "correct_answer": "Палка"
   },
-  "What is the primary use of a smithing table in Minecraft?": {
+  {
     "id": 157,
     "type": "multiple",
     "difficulty": "easy",
@@ -1478,7 +1478,7 @@
     ],
     "correct_answer": "Создание доспехов"
   },
-  "Which of these items is used to create a redstone repeater?": {
+  {
     "id": 158,
     "type": "multiple",
     "difficulty": "easy",
@@ -1491,7 +1491,7 @@
     ],
     "correct_answer": "Факел из красного камня"
   },
-  "Which block is used to create a smithing table?": {
+  {
     "id": 160,
     "type": "multiple",
     "difficulty": "easy",
@@ -1504,7 +1504,7 @@
     ],
     "correct_answer": "Железная болванка"
   },
-  "What is the main use of a smoker in Minecraft?": {
+  {
     "id": 161,
     "type": "multiple",
     "difficulty": "easy",
@@ -1517,7 +1517,7 @@
     ],
     "correct_answer": "Приготовление еды"
   },
-  "Which of these items is used to create a honey block?": {
+  {
     "id": 162,
     "type": "multiple",
     "difficulty": "easy",
@@ -1530,7 +1530,7 @@
     ],
     "correct_answer": "Соты"
   },
-  "Which block is used to craft a composter?": {
+  {
     "id": 164,
     "type": "multiple",
     "difficulty": "easy",
@@ -1543,7 +1543,7 @@
     ],
     "correct_answer": "Деревянные доски"
   },
-  "What is the primary use of a cauldron in Minecraft?": {
+  {
     "id": 165,
     "type": "multiple",
     "difficulty": "easy",
@@ -1556,7 +1556,7 @@
     ],
     "correct_answer": "Варить зелья"
   },
-  "Which of these items is used to create a cartography table?": {
+  {
     "id": 166,
     "type": "multiple",
     "difficulty": "easy",
@@ -1569,7 +1569,7 @@
     ],
     "correct_answer": "Компас"
   },
-  "Which of these items is required to create a potion of regeneration?": {
+  {
     "id": 167,
     "type": "multiple",
     "difficulty": "easy",
@@ -1582,7 +1582,7 @@
     ],
     "correct_answer": "Слеза Гаста"
   },
-  "Which block is used to craft a smithing table?": {
+  {
     "id": 169,
     "type": "multiple",
     "difficulty": "easy",
@@ -1595,7 +1595,7 @@
     ],
     "correct_answer": "Железная болванка"
   },
-  "What is the main use of a brewing stand in Minecraft?": {
+  {
     "id": 170,
     "type": "multiple",
     "difficulty": "easy",
@@ -1608,7 +1608,7 @@
     ],
     "correct_answer": "Варить зелья"
   },
-  "Which of these items is used to create a potion of strength?": {
+  {
     "id": 171,
     "type": "multiple",
     "difficulty": "easy",
@@ -1621,7 +1621,7 @@
     ],
     "correct_answer": "Порошок Блейз"
   },
-  "Which block is used to create a blast furnace?": {
+  {
     "id": 173,
     "type": "multiple",
     "difficulty": "easy",
@@ -1634,7 +1634,7 @@
     ],
     "correct_answer": "Печь"
   },
-  "What is the primary use of a lectern in Minecraft?": {
+  {
     "id": 174,
     "type": "multiple",
     "difficulty": "easy",
@@ -1647,7 +1647,7 @@
     ],
     "correct_answer": "Чтение заклинаний"
   },
-  "Which of these items is used to create a grindstone?": {
+  {
     "id": 175,
     "type": "multiple",
     "difficulty": "easy",
@@ -1660,7 +1660,7 @@
     ],
     "correct_answer": "Камень"
   },
-  "Which of these items is used to create a fletching table?": {
+  {
     "id": 176,
     "type": "multiple",
     "difficulty": "easy",
@@ -1673,7 +1673,7 @@
     ],
     "correct_answer": "Деревянные доски"
   },
-  "What is the name of the item used to enchant tools and armor?": {
+  {
     "id": 177,
     "type": "multiple",
     "difficulty": "easy",
@@ -1686,7 +1686,7 @@
     ],
     "correct_answer": "Стол зачарования"
   },
-  "Which of these items is used to create a loom?": {
+  {
     "id": 178,
     "type": "multiple",
     "difficulty": "easy",
@@ -1699,7 +1699,7 @@
     ],
     "correct_answer": "Строка"
   },
-  "Which block is used to create a cartography table?": {
+  {
     "id": 180,
     "type": "multiple",
     "difficulty": "easy",
@@ -1712,7 +1712,7 @@
     ],
     "correct_answer": "Деревянные доски"
   },
-  "What is the main use of a cartography table in Minecraft?": {
+  {
     "id": 181,
     "type": "multiple",
     "difficulty": "easy",
@@ -1725,7 +1725,7 @@
     ],
     "correct_answer": "Создание карт"
   },
-  "Which of these items is used to create a smithing table?": {
+  {
     "id": 184,
     "type": "multiple",
     "difficulty": "easy",
@@ -1738,7 +1738,7 @@
     ],
     "correct_answer": "Железная болванка"
   },
-  "What is the primary use of a smoker in Minecraft?": {
+  {
     "id": 185,
     "type": "multiple",
     "difficulty": "easy",
@@ -1751,7 +1751,7 @@
     ],
     "correct_answer": "Приготовление еды"
   },
-  "What tool is required to mine diamonds?-Iron Pickaxe": {
+  {
     "id": 1,
     "type": "multiple",
     "difficulty": "easy",
@@ -1764,7 +1764,7 @@
     ],
     "correct_answer": "Железная кирка"
   },
-  "Which mob drops Ender Pearls?-Enderman": {
+  {
     "id": 2,
     "type": "multiple",
     "difficulty": "easy",
@@ -1777,7 +1777,7 @@
     ],
     "correct_answer": "Эндерман"
   },
-  "Which item is needed to activate a Nether Portal?-Flint and Steel": {
+  {
     "id": 3,
     "type": "multiple",
     "difficulty": "easy",
@@ -1790,7 +1790,7 @@
     ],
     "correct_answer": "Кремень и сталь"
   },
-  "What is the strongest material for tools and armor?-Netherite": {
+  {
     "id": 4,
     "type": "multiple",
     "difficulty": "easy",
@@ -1803,7 +1803,7 @@
     ],
     "correct_answer": "Нетерит"
   },
-  "How many wood planks are needed to craft a crafting table?-4": {
+  {
     "id": 5,
     "type": "multiple",
     "difficulty": "easy",
@@ -1816,7 +1816,7 @@
     ],
     "correct_answer": "4"
   },
-  "Which crop does not require water to grow?-Cacti": {
+  {
     "id": 6,
     "type": "multiple",
     "difficulty": "easy",
@@ -1829,7 +1829,7 @@
     ],
     "correct_answer": "Кактусы"
   },
-  "Which of these is a Nether-exclusive mob?-Ghast": {
+  {
     "id": 7,
     "type": "multiple",
     "difficulty": "easy",
@@ -1842,7 +1842,7 @@
     ],
     "correct_answer": "Ghast"
   },
-  "Which material can be used to tame a cat?-Fish": {
+  {
     "id": 8,
     "type": "multiple",
     "difficulty": "easy",
@@ -1855,7 +1855,7 @@
     ],
     "correct_answer": "Рыба"
   },
-  "How do you make a large chest?-Two chests side by side": {
+  {
     "id": 9,
     "type": "multiple",
     "difficulty": "easy",
@@ -1868,7 +1868,7 @@
     ],
     "correct_answer": "Два сундука рядом друг с другом"
   },
-  "What can you use to grow plants faster?-Bone Meal": {
+  {
     "id": 10,
     "type": "multiple",
     "difficulty": "easy",
@@ -1881,7 +1881,7 @@
     ],
     "correct_answer": "Костная мука"
   },
-  "What is this block called?-Diamond Block": {
+  {
     "id": 11,
     "type": "multiple",
     "difficulty": "easy",
@@ -1895,7 +1895,7 @@
     ],
     "correct_answer": "Алмазный блок"
   },
-  "Identify this biome:-Taiga": {
+  {
     "id": 12,
     "type": "multiple",
     "difficulty": "easy",
@@ -1909,7 +1909,7 @@
     ],
     "correct_answer": "Тайга"
   },
-  "What structure is shown here?-Jungle Temple": {
+  {
     "id": 13,
     "type": "multiple",
     "difficulty": "easy",
@@ -1923,7 +1923,7 @@
     ],
     "correct_answer": "Храм в джунглях"
   },
-  "Which block is this?-Emerald Ore": {
+  {
     "id": 14,
     "type": "multiple",
     "difficulty": "easy",
@@ -1937,7 +1937,7 @@
     ],
     "correct_answer": "Изумрудная руда"
   },
-  "What item is this?-Bow": {
+  {
     "id": 15,
     "type": "multiple",
     "difficulty": "easy",
@@ -1951,7 +1951,7 @@
     ],
     "correct_answer": "Лук"
   },
-  "What is the name of the boss mob found in a Woodland Mansion?-Evoker": {
+  {
     "id": 16,
     "type": "multiple",
     "difficulty": "easy",
@@ -1964,7 +1964,7 @@
     ],
     "correct_answer": "Evoker"
   },
-  "Which item is needed to brew potions?-Brewing Stand": {
+  {
     "id": 17,
     "type": "multiple",
     "difficulty": "easy",
@@ -1977,7 +1977,7 @@
     ],
     "correct_answer": "Подставка для пивоварения"
   },
-  "Which biome is known for its large mushrooms?-Mushroom Fields": {
+  {
     "id": 18,
     "type": "multiple",
     "difficulty": "easy",
@@ -1990,7 +1990,7 @@
     ],
     "correct_answer": "Грибные поля"
   },
-  "What material is a beacon primarily made from?-Glass": {
+  {
     "id": 19,
     "type": "multiple",
     "difficulty": "easy",
@@ -2003,7 +2003,7 @@
     ],
     "correct_answer": "Стекло"
   },
-  "Which item is required to make a compass?-Redstone": {
+  {
     "id": 20,
     "type": "multiple",
     "difficulty": "easy",
@@ -2016,7 +2016,7 @@
     ],
     "correct_answer": "Redstone"
   },
-  "What is this mob called?-Enderman": {
+  {
     "id": 21,
     "type": "multiple",
     "difficulty": "easy",
@@ -2030,7 +2030,7 @@
     ],
     "correct_answer": "Эндерман"
   },
-  "What is the name of this block?-Anvil": {
+  {
     "id": 22,
     "type": "multiple",
     "difficulty": "easy",
@@ -2044,7 +2044,7 @@
     ],
     "correct_answer": "Наковальня"
   },
-  "Which ore is shown here?-Iron Ore": {
+  {
     "id": 23,
     "type": "multiple",
     "difficulty": "easy",
@@ -2058,7 +2058,7 @@
     ],
     "correct_answer": "Железная руда"
   },
-  "Which enchantment increases the damage dealt to undead mobs?-Smite": {
+  {
     "id": 24,
     "type": "multiple",
     "difficulty": "easy",
@@ -2071,7 +2071,7 @@
     ],
     "correct_answer": "Smite"
   },
-  "What can you use to dye sheep?-Dye": {
+  {
     "id": 25,
     "type": "multiple",
     "difficulty": "easy",
@@ -2084,7 +2084,7 @@
     ],
     "correct_answer": "Краситель"
   },
-  "What block is shown here?-TNT": {
+  {
     "id": 26,
     "type": "multiple",
     "difficulty": "easy",
@@ -2098,7 +2098,7 @@
     ],
     "correct_answer": "TNT"
   },
-  "Which item is used to breed cows?-Wheat": {
+  {
     "id": 27,
     "type": "multiple",
     "difficulty": "easy",
@@ -2111,7 +2111,7 @@
     ],
     "correct_answer": "Пшеница"
   },
-  "What is the use of a map in Minecraft?-Navigate the world": {
+  {
     "id": 28,
     "type": "multiple",
     "difficulty": "easy",
@@ -2124,7 +2124,7 @@
     ],
     "correct_answer": "Навигация по миру"
   },
-  "Which block do you need to craft to store XP?-Experience Bottle": {
+  {
     "id": 29,
     "type": "multiple",
     "difficulty": "easy",
@@ -2137,7 +2137,7 @@
     ],
     "correct_answer": "Бутылка для опытов"
   },
-  "Which mob is shown here?-Wither Skeleton": {
+  {
     "id": 30,
     "type": "multiple",
     "difficulty": "easy",
@@ -2151,7 +2151,7 @@
     ],
     "correct_answer": "Увядший скелет"
   },
-  "What type of tree is this?-Dark Oak": {
+  {
     "id": 31,
     "type": "multiple",
     "difficulty": "easy",
@@ -2165,7 +2165,7 @@
     ],
     "correct_answer": "Темный дуб"
   },
-  "What item do you need to light a Nether Portal?-Flint and Steel": {
+  {
     "id": 32,
     "type": "multiple",
     "difficulty": "easy",
@@ -2178,7 +2178,7 @@
     ],
     "correct_answer": "Кремень и сталь"
   },
-  "Which Minecraft block is this?-Furnace": {
+  {
     "id": 33,
     "type": "multiple",
     "difficulty": "easy",
@@ -2192,7 +2192,7 @@
     ],
     "correct_answer": "Печь"
   },
-  "What tool is required to mine obsidian?-Diamond Pickaxe": {
+  {
     "id": 34,
     "type": "multiple",
     "difficulty": "easy",
@@ -2205,7 +2205,7 @@
     ],
     "correct_answer": "Алмазная кирка"
   },
-  "What is this structure called?-Nether Fortress": {
+  {
     "id": 35,
     "type": "multiple",
     "difficulty": "easy",
@@ -2219,7 +2219,7 @@
     ],
     "correct_answer": "Неземная крепость"
   },
-  "What is this mob called?-Blaze": {
+  {
     "id": 36,
     "type": "multiple",
     "difficulty": "easy",
@@ -2233,7 +2233,7 @@
     ],
     "correct_answer": "Блейз"
   },
-  "Which block is required to make a bed?-Wool": {
+  {
     "id": 37,
     "type": "multiple",
     "difficulty": "easy",
@@ -2246,7 +2246,7 @@
     ],
     "correct_answer": "Шерсть"
   },
-  "What is the main ingredient to brew potions?-Blaze Powder": {
+  {
     "id": 38,
     "type": "multiple",
     "difficulty": "easy",
@@ -2259,7 +2259,7 @@
     ],
     "correct_answer": "Порошок Блейз"
   },
-  "What is this plant called?-Nether Wart": {
+  {
     "id": 39,
     "type": "multiple",
     "difficulty": "easy",
@@ -2273,7 +2273,7 @@
     ],
     "correct_answer": "Низинная бородавка"
   },
-  "Which block is shown here?-End Stone": {
+  {
     "id": 40,
     "type": "multiple",
     "difficulty": "easy",
@@ -2287,7 +2287,7 @@
     ],
     "correct_answer": "Конечный камень"
   },
-  "Which item can be used to ride a pig?-Saddle": {
+  {
     "id": 41,
     "type": "multiple",
     "difficulty": "easy",
@@ -2300,7 +2300,7 @@
     ],
     "correct_answer": "Седло"
   },
-  "What is this structure called?-Stronghold": {
+  {
     "id": 42,
     "type": "multiple",
     "difficulty": "easy",
@@ -2314,7 +2314,7 @@
     ],
     "correct_answer": "Стронгхолд"
   },
-  "Which biome is shown here?-Savanna": {
+  {
     "id": 43,
     "type": "multiple",
     "difficulty": "easy",
@@ -2328,7 +2328,7 @@
     ],
     "correct_answer": "Саванна"
   },
-  "What item can you get from killing a Blaze?-Blaze Rod": {
+  {
     "id": 44,
     "type": "multiple",
     "difficulty": "easy",
@@ -2341,7 +2341,7 @@
     ],
     "correct_answer": "Блейз Род"
   },
-  "What is this block called?-Beacon": {
+  {
     "id": 45,
     "type": "multiple",
     "difficulty": "easy",
@@ -2355,7 +2355,7 @@
     ],
     "correct_answer": "Маяк"
   },
-  "Which block can be used to smelt items?-Furnace": {
+  {
     "id": 46,
     "type": "multiple",
     "difficulty": "easy",
@@ -2368,7 +2368,7 @@
     ],
     "correct_answer": "Печь"
   },
-  "What is this structure called?-Ice Spike": {
+  {
     "id": 47,
     "type": "multiple",
     "difficulty": "easy",
@@ -2382,7 +2382,7 @@
     ],
     "correct_answer": "Ледяной шип"
   },
-  "What is this item?-Compass": {
+  {
     "id": 48,
     "type": "multiple",
     "difficulty": "easy",
@@ -2396,7 +2396,7 @@
     ],
     "correct_answer": "Компас"
   },
-  "What can you use to craft a bow?-Stick, String": {
+  {
     "id": 49,
     "type": "multiple",
     "difficulty": "easy",
@@ -2409,7 +2409,7 @@
     ],
     "correct_answer": "Палка, струна"
   },
-  "What block is shown here?-Quartz Block": {
+  {
     "id": 50,
     "type": "multiple",
     "difficulty": "easy",
@@ -2423,7 +2423,7 @@
     ],
     "correct_answer": "Кварцевый блок"
   },
-  "Which of these items is not edible in Minecraft?-Leather": {
+  {
     "id": 51,
     "type": "multiple",
     "difficulty": "easy",
@@ -2436,7 +2436,7 @@
     ],
     "correct_answer": "Кожа"
   },
-  "What is this biome called?-Jungle": {
+  {
     "id": 52,
     "type": "multiple",
     "difficulty": "easy",
@@ -2450,7 +2450,7 @@
     ],
     "correct_answer": "Джунгли"
   },
-  "Which mob can drop leather?-Cow": {
+  {
     "id": 53,
     "type": "multiple",
     "difficulty": "easy",
@@ -2463,7 +2463,7 @@
     ],
     "correct_answer": "Корова"
   },
-  "What is this block called?-Spawner": {
+  {
     "id": 54,
     "type": "multiple",
     "difficulty": "easy",
@@ -2477,7 +2477,7 @@
     ],
     "correct_answer": "Нерестовик"
   },
-  "What is this item called?-Elytra": {
+  {
     "id": 55,
     "type": "multiple",
     "difficulty": "easy",
@@ -2491,7 +2491,7 @@
     ],
     "correct_answer": "Элитра"
   },
-  "What is this structure called?-End City": {
+  {
     "id": 56,
     "type": "multiple",
     "difficulty": "easy",
@@ -2505,7 +2505,7 @@
     ],
     "correct_answer": "Конечный город"
   },
-  "Which of these can you use to make potions?-Blaze Rod": {
+  {
     "id": 57,
     "type": "multiple",
     "difficulty": "easy",
@@ -2518,7 +2518,7 @@
     ],
     "correct_answer": "Блейз Род"
   },
-  "What is this structure called?-Desert Temple": {
+  {
     "id": 58,
     "type": "multiple",
     "difficulty": "easy",
@@ -2532,7 +2532,7 @@
     ],
     "correct_answer": "Храм в пустыне"
   },
-  "What is the default Minecraft skin called?-Steve": {
+  {
     "id": 59,
     "type": "multiple",
     "difficulty": "easy",
@@ -2545,7 +2545,7 @@
     ],
     "correct_answer": "Стив"
   },
-  "Which of these blocks is found in the End?-End Stone": {
+  {
     "id": 60,
     "type": "multiple",
     "difficulty": "easy",
@@ -2558,7 +2558,7 @@
     ],
     "correct_answer": "Конечный камень"
   },
-  "What is this block called?-Sea Lantern": {
+  {
     "id": 61,
     "type": "multiple",
     "difficulty": "easy",
@@ -2572,7 +2572,7 @@
     ],
     "correct_answer": "Морской фонарь"
   },
-  "What is this structure called?-Ocean Monument": {
+  {
     "id": 62,
     "type": "multiple",
     "difficulty": "easy",
@@ -2586,7 +2586,7 @@
     ],
     "correct_answer": "Памятник океану"
   },
-  "What block is shown here?-Netherite Block": {
+  {
     "id": 63,
     "type": "multiple",
     "difficulty": "easy",
@@ -2600,7 +2600,7 @@
     ],
     "correct_answer": "Нетеритовый блок"
   },
-  "Which item can be used to shear sheep?-Shears": {
+  {
     "id": 64,
     "type": "multiple",
     "difficulty": "easy",
@@ -2613,7 +2613,7 @@
     ],
     "correct_answer": "Ножницы"
   },
-  "What is this block called?-Lapis Lazuli Ore": {
+  {
     "id": 65,
     "type": "multiple",
     "difficulty": "easy",
@@ -2627,7 +2627,7 @@
     ],
     "correct_answer": "Лазуритовая руда"
   },
-  "Which mob can you ride in Minecraft?-Horse": {
+  {
     "id": 66,
     "type": "multiple",
     "difficulty": "easy",
@@ -2640,7 +2640,7 @@
     ],
     "correct_answer": "Лошадь"
   },
-  "Which item is required to tame a wolf?-Bone": {
+  {
     "id": 67,
     "type": "multiple",
     "difficulty": "easy",
@@ -2653,7 +2653,7 @@
     ],
     "correct_answer": "Кость"
   },
-  "What is this item called?-Ender Pearl": {
+  {
     "id": 68,
     "type": "multiple",
     "difficulty": "easy",
@@ -2667,7 +2667,7 @@
     ],
     "correct_answer": "Эндер Перл"
   },
-  "What is this structure called?-Igloo": {
+  {
     "id": 69,
     "type": "multiple",
     "difficulty": "easy",
@@ -2681,7 +2681,7 @@
     ],
     "correct_answer": "Igloo"
   },
-  "Which of these mobs drops bones?-Skeleton": {
+  {
     "id": 70,
     "type": "multiple",
     "difficulty": "easy",
@@ -2694,7 +2694,7 @@
     ],
     "correct_answer": "Скелет"
   },
-  "What is this item called?-Golden Apple": {
+  {
     "id": 71,
     "type": "multiple",
     "difficulty": "easy",
@@ -2708,7 +2708,7 @@
     ],
     "correct_answer": "Золотое яблоко"
   },
-  "What is the name of this block?-Redstone Block": {
+  {
     "id": 72,
     "type": "multiple",
     "difficulty": "easy",
@@ -2722,7 +2722,7 @@
     ],
     "correct_answer": "Блок красного камня"
   },
-  "What is this structure called?-Shipwreck": {
+  {
     "id": 73,
     "type": "multiple",
     "difficulty": "easy",
@@ -2736,7 +2736,7 @@
     ],
     "correct_answer": "Кораблекрушение"
   },
-  "Which of these blocks generates in the Overworld?-Granite": {
+  {
     "id": 74,
     "type": "multiple",
     "difficulty": "easy",
@@ -2749,7 +2749,7 @@
     ],
     "correct_answer": "Гранит"
   },
-  "What is this block called?-Mossy Cobblestone": {
+  {
     "id": 75,
     "type": "multiple",
     "difficulty": "easy",
@@ -2763,7 +2763,7 @@
     ],
     "correct_answer": "Моховой булыжник"
   },
-  "What is this item called?-Totem of Undying": {
+  {
     "id": 76,
     "type": "multiple",
     "difficulty": "easy",
@@ -2777,7 +2777,7 @@
     ],
     "correct_answer": "Тотем неумирающего"
   },
-  "What block is shown here?-Netherrack": {
+  {
     "id": 77,
     "type": "multiple",
     "difficulty": "easy",
@@ -2791,7 +2791,7 @@
     ],
     "correct_answer": "Netherrack"
   },
-  "Which mob is neutral until attacked?-Enderman": {
+  {
     "id": 78,
     "type": "multiple",
     "difficulty": "easy",
@@ -2804,7 +2804,7 @@
     ],
     "correct_answer": "Эндерман"
   },
-  "What is this item called?-Name Tag": {
+  {
     "id": 79,
     "type": "multiple",
     "difficulty": "easy",
@@ -2818,7 +2818,7 @@
     ],
     "correct_answer": "Именная бирка"
   },
-  "Which of these blocks generates in the Nether?-Nether Quartz Ore": {
+  {
     "id": 80,
     "type": "multiple",
     "difficulty": "easy",
@@ -2831,7 +2831,7 @@
     ],
     "correct_answer": "Незерская кварцевая руда"
   },
-  "What is this item called?-Bucket": {
+  {
     "id": 81,
     "type": "multiple",
     "difficulty": "easy",
@@ -2845,7 +2845,7 @@
     ],
     "correct_answer": "Ведро"
   },
-  "What is this block called?-Obsidian": {
+  {
     "id": 82,
     "type": "multiple",
     "difficulty": "easy",
@@ -2859,7 +2859,7 @@
     ],
     "correct_answer": "Обсидиан"
   },
-  "Which item can be used to craft a lead?-Slimeball": {
+  {
     "id": 83,
     "type": "multiple",
     "difficulty": "easy",
@@ -2872,7 +2872,7 @@
     ],
     "correct_answer": "Slimeball"
   },
-  "What block is shown here?-Gold Ore": {
+  {
     "id": 84,
     "type": "multiple",
     "difficulty": "easy",
@@ -2886,7 +2886,7 @@
     ],
     "correct_answer": "Золотая руда"
   },
-  "What is this item called?-Clock": {
+  {
     "id": 85,
     "type": "multiple",
     "difficulty": "easy",
@@ -2900,7 +2900,7 @@
     ],
     "correct_answer": "Часы"
   },
-  "What is the name of this mob?-Pig": {
+  {
     "id": 86,
     "type": "multiple",
     "difficulty": "easy",
@@ -2914,7 +2914,7 @@
     ],
     "correct_answer": "Свинья"
   },
-  "What is the name of this block?-Redstone Torch": {
+  {
     "id": 87,
     "type": "multiple",
     "difficulty": "easy",
@@ -2928,7 +2928,7 @@
     ],
     "correct_answer": "Факел из красного камня"
   },
-  "Which mob is this?-Magma Cube": {
+  {
     "id": 88,
     "type": "multiple",
     "difficulty": "easy",
@@ -2942,7 +2942,7 @@
     ],
     "correct_answer": "Куб Магмы"
   },
-  "What is the name of this item?-Lead": {
+  {
     "id": 89,
     "type": "multiple",
     "difficulty": "easy",
@@ -2956,7 +2956,7 @@
     ],
     "correct_answer": "Вести"
   },
-  "What is this structure called?-Nether Portal": {
+  {
     "id": 90,
     "type": "multiple",
     "difficulty": "easy",
@@ -2970,7 +2970,7 @@
     ],
     "correct_answer": "Портал в пустоты"
   },
-  "Which of these blocks is not used in brewing potions?-Crafting Table": {
+  {
     "id": 91,
     "type": "multiple",
     "difficulty": "easy",
@@ -2983,7 +2983,7 @@
     ],
     "correct_answer": "Стол для рукоделия"
   },
-  "What is the name of this item?-Eye of Ender": {
+  {
     "id": 92,
     "type": "multiple",
     "difficulty": "easy",
@@ -2997,7 +2997,7 @@
     ],
     "correct_answer": "Глаз Эндера"
   },
-  "What is the name of this block?-Blast Furnace": {
+  {
     "id": 93,
     "type": "multiple",
     "difficulty": "easy",
@@ -3011,7 +3011,7 @@
     ],
     "correct_answer": "Доменная печь"
   },
-  "What is the name of this mob?-Endermite": {
+  {
     "id": 94,
     "type": "multiple",
     "difficulty": "easy",
@@ -3025,7 +3025,7 @@
     ],
     "correct_answer": "Эндермит"
   },
-  "What tool is used to mine diamonds?-Iron Pickaxe": {
+  {
     "id": 95,
     "type": "multiple",
     "difficulty": "easy",
@@ -3038,7 +3038,7 @@
     ],
     "correct_answer": "Железная кирка"
   },
-  "Which dimension is home to the Ender Dragon?-End": {
+  {
     "id": 96,
     "type": "multiple",
     "difficulty": "easy",
@@ -3051,7 +3051,7 @@
     ],
     "correct_answer": "Конец"
   },
-  "What is the primary use of Redstone in Minecraft?-Powering Mechanisms": {
+  {
     "id": 97,
     "type": "multiple",
     "difficulty": "easy",
@@ -3064,7 +3064,7 @@
     ],
     "correct_answer": "Механизмы питания"
   },
-  "Which of these blocks can be used to create a beacon?-Iron Block": {
+  {
     "id": 98,
     "type": "multiple",
     "difficulty": "easy",
@@ -3077,7 +3077,7 @@
     ],
     "correct_answer": "Железный блок"
   },
-  "What is the maximum level for enchanting items?-30": {
+  {
     "id": 99,
     "type": "multiple",
     "difficulty": "easy",
@@ -3090,7 +3090,7 @@
     ],
     "correct_answer": "30"
   },
-  "Which of these items is used to create an iron golem?-Iron Block": {
+  {
     "id": 100,
     "type": "multiple",
     "difficulty": "easy",
@@ -3103,7 +3103,7 @@
     ],
     "correct_answer": "Железный блок"
   },
-  "What is the name of the food item that restores the most hunger points?-Golden Carrot": {
+  {
     "id": 101,
     "type": "multiple",
     "difficulty": "easy",
@@ -3116,7 +3116,7 @@
     ],
     "correct_answer": "Золотая морковь"
   },
-  "Which of these mobs can be found in the Nether?-Magma Cube": {
+  {
     "id": 102,
     "type": "multiple",
     "difficulty": "easy",
@@ -3129,7 +3129,7 @@
     ],
     "correct_answer": "Куб Магмы"
   },
-  "Which block is used to create a compass?-Iron Ingot": {
+  {
     "id": 104,
     "type": "multiple",
     "difficulty": "easy",
@@ -3142,7 +3142,7 @@
     ],
     "correct_answer": "Железная болванка"
   },
-  "What is the name of the rare item dropped by the Wither boss?-Nether Star": {
+  {
     "id": 105,
     "type": "multiple",
     "difficulty": "easy",
@@ -3155,7 +3155,7 @@
     ],
     "correct_answer": "Неземная звезда"
   },
-  "Which of these items is used to tame parrots?-Seeds": {
+  {
     "id": 106,
     "type": "multiple",
     "difficulty": "easy",
@@ -3168,7 +3168,7 @@
     ],
     "correct_answer": "Семена"
   },
-  "Which biome is known for its tall, thin Spruce trees?-Taiga": {
+  {
     "id": 108,
     "type": "multiple",
     "difficulty": "easy",
@@ -3181,7 +3181,7 @@
     ],
     "correct_answer": "Тайга"
   },
-  "What is the main use of a grindstone in Minecraft?-Repairing Tools": {
+  {
     "id": 109,
     "type": "multiple",
     "difficulty": "easy",
@@ -3194,7 +3194,7 @@
     ],
     "correct_answer": "Инструменты для ремонта"
   },
-  "Which of these items is used to craft a piston?-Iron Ingot": {
+  {
     "id": 110,
     "type": "multiple",
     "difficulty": "easy",
@@ -3207,7 +3207,7 @@
     ],
     "correct_answer": "Железная болванка"
   },
-  "What is this mob called?-Drowned": {
+  {
     "id": 111,
     "type": "multiple",
     "difficulty": "easy",
@@ -3221,7 +3221,7 @@
     ],
     "correct_answer": "Утопленник"
   },
-  "Which block is commonly used to build underwater breathing potions?-Prismarine": {
+  {
     "id": 112,
     "type": "multiple",
     "difficulty": "easy",
@@ -3234,7 +3234,7 @@
     ],
     "correct_answer": "Призмарин"
   },
-  "What is the main use of a lectern in Minecraft?-Reading Enchantments": {
+  {
     "id": 113,
     "type": "multiple",
     "difficulty": "easy",
@@ -3247,7 +3247,7 @@
     ],
     "correct_answer": "Чтение заклинаний"
   },
-  "Which of these items is used to breed pandas?-Bamboo": {
+  {
     "id": 114,
     "type": "multiple",
     "difficulty": "easy",
@@ -3260,7 +3260,7 @@
     ],
     "correct_answer": "Бамбук"
   },
-  "What is this block called?-Basalt": {
+  {
     "id": 115,
     "type": "multiple",
     "difficulty": "easy",
@@ -3274,7 +3274,7 @@
     ],
     "correct_answer": "Базальт"
   },
-  "Which of these mobs can be found in the Mushroom Island biome?-Mooshroom": {
+  {
     "id": 116,
     "type": "multiple",
     "difficulty": "easy",
@@ -3287,7 +3287,7 @@
     ],
     "correct_answer": "Mooshroom"
   },
-  "What is the name of the potion that grants invisibility to the player?-Potion of Invisibility": {
+  {
     "id": 117,
     "type": "multiple",
     "difficulty": "easy",
@@ -3300,7 +3300,7 @@
     ],
     "correct_answer": "Зелье невидимости"
   },
-  "Which of these items is required to create a fire charge?-Blaze Powder": {
+  {
     "id": 118,
     "type": "multiple",
     "difficulty": "easy",
@@ -3313,7 +3313,7 @@
     ],
     "correct_answer": "Порошок Блейз"
   },
-  "What is this structure called?-Witch Hut": {
+  {
     "id": 119,
     "type": "multiple",
     "difficulty": "easy",
@@ -3327,7 +3327,7 @@
     ],
     "correct_answer": "Хижина ведьмы"
   },
-  "Which block is used to craft a respawn anchor?-Crying Obsidian": {
+  {
     "id": 120,
     "type": "multiple",
     "difficulty": "easy",
@@ -3340,7 +3340,7 @@
     ],
     "correct_answer": "Плачущий обсидиан"
   },
-  "What is this mob called?-Vex": {
+  {
     "id": 121,
     "type": "multiple",
     "difficulty": "easy",
@@ -3354,7 +3354,7 @@
     ],
     "correct_answer": "Vex"
   },
-  "Which of these blocks generates naturally in the End dimension?-End Stone": {
+  {
     "id": 122,
     "type": "multiple",
     "difficulty": "easy",
@@ -3367,7 +3367,7 @@
     ],
     "correct_answer": "Конечный камень"
   },
-  "Which of these items is required to create a hay bale?-Wheat": {
+  {
     "id": 123,
     "type": "multiple",
     "difficulty": "easy",
@@ -3380,7 +3380,7 @@
     ],
     "correct_answer": "Пшеница"
   },
-  "Which of these items is used to create a daylight sensor?-Comparator": {
+  {
     "id": 124,
     "type": "multiple",
     "difficulty": "easy",
@@ -3393,7 +3393,7 @@
     ],
     "correct_answer": "Сравнительный анализ"
   },
-  "What is the name of the block that attracts nearby items to it?-Hopper": {
+  {
     "id": 125,
     "type": "multiple",
     "difficulty": "easy",
@@ -3406,7 +3406,7 @@
     ],
     "correct_answer": "Бункер"
   },
-  "Which block generates in the Nether Wastes biome?-Netherrack": {
+  {
     "id": 126,
     "type": "multiple",
     "difficulty": "easy",
@@ -3419,7 +3419,7 @@
     ],
     "correct_answer": "Netherrack"
   },
-  "What is the primary use of a loom in Minecraft?-Applying Banner Patterns": {
+  {
     "id": 127,
     "type": "multiple",
     "difficulty": "easy",
@@ -3432,7 +3432,7 @@
     ],
     "correct_answer": "Применение узоров для баннеров"
   },
-  "Which of these items is used to make a sticky piston?-Slimeball": {
+  {
     "id": 128,
     "type": "multiple",
     "difficulty": "easy",
@@ -3445,7 +3445,7 @@
     ],
     "correct_answer": "Slimeball"
   },
-  "What is this structure called?-Bastion Remnant": {
+  {
     "id": 129,
     "type": "multiple",
     "difficulty": "easy",
@@ -3459,7 +3459,7 @@
     ],
     "correct_answer": "Бастионный остаток"
   },
-  "Which of these items is used to create a firework rocket?-Gunpowder": {
+  {
     "id": 130,
     "type": "multiple",
     "difficulty": "easy",
@@ -3472,7 +3472,7 @@
     ],
     "correct_answer": "Порох"
   },
-  "What is this block called?-Packed Ice": {
+  {
     "id": 131,
     "type": "multiple",
     "difficulty": "easy",
@@ -3486,7 +3486,7 @@
     ],
     "correct_answer": "Упакованный лед"
   },
-  "Which of these items is used to create a dragon's breath potion?-Dragon's Breath": {
+  {
     "id": 132,
     "type": "multiple",
     "difficulty": "easy",
@@ -3499,7 +3499,7 @@
     ],
     "correct_answer": "Дыхание дракона"
   },
-  "What is this mob called?-Stray": {
+  {
     "id": 133,
     "type": "multiple",
     "difficulty": "easy",
@@ -3513,7 +3513,7 @@
     ],
     "correct_answer": "Бродячий"
   },
-  "Which block is used to create an anvil?-Iron Block": {
+  {
     "id": 134,
     "type": "multiple",
     "difficulty": "easy",
@@ -3526,7 +3526,7 @@
     ],
     "correct_answer": "Железный блок"
   },
-  "What is the primary use of a cartography table in Minecraft?-Crafting Maps": {
+  {
     "id": 135,
     "type": "multiple",
     "difficulty": "easy",
@@ -3539,7 +3539,7 @@
     ],
     "correct_answer": "Создание карт"
   },
-  "Which of these mobs is neutral unless provoked?-Piglin": {
+  {
     "id": 136,
     "type": "multiple",
     "difficulty": "easy",
@@ -3552,7 +3552,7 @@
     ],
     "correct_answer": "Пиглин"
   },
-  "What is this block called?-Smithing Table": {
+  {
     "id": 137,
     "type": "multiple",
     "difficulty": "easy",
@@ -3566,7 +3566,7 @@
     ],
     "correct_answer": "Кузнечный стол"
   },
-  "Which of these items is required to create a fire resistance potion?-Magma Cream": {
+  {
     "id": 138,
     "type": "multiple",
     "difficulty": "easy",
@@ -3579,7 +3579,7 @@
     ],
     "correct_answer": "Крем Магма"
   },
-  "Which block is used to create a target block?-Hay Bale": {
+  {
     "id": 140,
     "type": "multiple",
     "difficulty": "easy",
@@ -3592,7 +3592,7 @@
     ],
     "correct_answer": "Тюк сена"
   },
-  "What is the main use of a compost bin in Minecraft?-Generating Bone Meal": {
+  {
     "id": 141,
     "type": "multiple",
     "difficulty": "easy",
@@ -3605,7 +3605,7 @@
     ],
     "correct_answer": "Получение костной муки"
   },
-  "Which of these items is used to create a spectral arrow?-Glowstone Dust": {
+  {
     "id": 142,
     "type": "multiple",
     "difficulty": "easy",
@@ -3618,7 +3618,7 @@
     ],
     "correct_answer": "Светящаяся каменная пыль"
   },
-  "What is this mob called?-Hoglin": {
+  {
     "id": 143,
     "type": "multiple",
     "difficulty": "easy",
@@ -3632,7 +3632,7 @@
     ],
     "correct_answer": "Хоглин"
   },
-  "Which block is used to craft a bell?-Iron Ingot": {
+  {
     "id": 144,
     "type": "multiple",
     "difficulty": "easy",
@@ -3645,7 +3645,7 @@
     ],
     "correct_answer": "Железная болванка"
   },
-  "What is this structure called?-Desert Pyramid": {
+  {
     "id": 145,
     "type": "multiple",
     "difficulty": "easy",
@@ -3659,7 +3659,7 @@
     ],
     "correct_answer": "Пирамида в пустыне"
   },
-  "Which of these items is required to craft a target block?-Hay Bale": {
+  {
     "id": 146,
     "type": "multiple",
     "difficulty": "easy",
@@ -3673,7 +3673,7 @@
     ],
     "correct_answer": "Тюк сена"
   },
-  "What is this block called?-Block of Amethyst": {
+  {
     "id": 147,
     "type": "multiple",
     "difficulty": "easy",
@@ -3687,7 +3687,7 @@
     ],
     "correct_answer": "Блок аметиста"
   },
-  "Which of these mobs is known for dropping Ghast Tears?-Ghast": {
+  {
     "id": 148,
     "type": "multiple",
     "difficulty": "easy",
@@ -3700,7 +3700,7 @@
     ],
     "correct_answer": "Ghast"
   },
-  "What is the name of the rare block found in the End dimension that can be used for respawn points?-Crying Obsidian": {
+  {
     "id": 149,
     "type": "multiple",
     "difficulty": "easy",
@@ -3713,7 +3713,7 @@
     ],
     "correct_answer": "Плачущий обсидиан"
   },
-  "Which block is used to create a grindstone?-Stone": {
+  {
     "id": 150,
     "type": "multiple",
     "difficulty": "easy",
@@ -3726,7 +3726,7 @@
     ],
     "correct_answer": "Камень"
   },
-  "What is the name of the item that allows players to change their spawn point?-Bed": {
+  {
     "id": 151,
     "type": "multiple",
     "difficulty": "easy",
@@ -3739,7 +3739,7 @@
     ],
     "correct_answer": "Кровать"
   },
-  "Which of these items is used to create a note block?-Redstone": {
+  {
     "id": 152,
     "type": "multiple",
     "difficulty": "easy",
@@ -3752,7 +3752,7 @@
     ],
     "correct_answer": "Redstone"
   },
-  "Which of these items is required to craft a beacon?-Nether Star": {
+  {
     "id": 154,
     "type": "multiple",
     "difficulty": "easy",
@@ -3765,7 +3765,7 @@
     ],
     "correct_answer": "Неземная звезда"
   },
-  "Which of these items is used to create a trident?-Nautilus Shell": {
+  {
     "id": 155,
     "type": "multiple",
     "difficulty": "easy",
@@ -3778,7 +3778,7 @@
     ],
     "correct_answer": "Раковина наутилуса"
   },
-  "Which block is used to craft a campfire?-Stick": {
+  {
     "id": 156,
     "type": "multiple",
     "difficulty": "easy",
@@ -3791,7 +3791,7 @@
     ],
     "correct_answer": "Палка"
   },
-  "What is the primary use of a smithing table in Minecraft?-Crafting Armor": {
+  {
     "id": 157,
     "type": "multiple",
     "difficulty": "easy",
@@ -3804,7 +3804,7 @@
     ],
     "correct_answer": "Создание доспехов"
   },
-  "Which of these items is used to create a redstone repeater?-Redstone Torch": {
+  {
     "id": 158,
     "type": "multiple",
     "difficulty": "easy",
@@ -3817,7 +3817,7 @@
     ],
     "correct_answer": "Факел из красного камня"
   },
-  "What is this mob called?-Bee": {
+  {
     "id": 159,
     "type": "multiple",
     "difficulty": "easy",
@@ -3831,7 +3831,7 @@
     ],
     "correct_answer": "Пчела"
   },
-  "Which block is used to create a smithing table?-Iron Ingot": {
+  {
     "id": 160,
     "type": "multiple",
     "difficulty": "easy",
@@ -3844,7 +3844,7 @@
     ],
     "correct_answer": "Железная болванка"
   },
-  "What is the main use of a smoker in Minecraft?-Cooking Food": {
+  {
     "id": 161,
     "type": "multiple",
     "difficulty": "easy",
@@ -3857,7 +3857,7 @@
     ],
     "correct_answer": "Приготовление еды"
   },
-  "Which of these items is used to create a honey block?-Honeycomb": {
+  {
     "id": 162,
     "type": "multiple",
     "difficulty": "easy",
@@ -3870,7 +3870,7 @@
     ],
     "correct_answer": "Соты"
   },
-  "Which block is used to craft a composter?-Wooden Planks": {
+  {
     "id": 164,
     "type": "multiple",
     "difficulty": "easy",
@@ -3883,7 +3883,7 @@
     ],
     "correct_answer": "Деревянные доски"
   },
-  "What is the primary use of a cauldron in Minecraft?-Brewing Potions": {
+  {
     "id": 165,
     "type": "multiple",
     "difficulty": "easy",
@@ -3896,7 +3896,7 @@
     ],
     "correct_answer": "Варить зелья"
   },
-  "Which of these items is used to create a cartography table?-Compass": {
+  {
     "id": 166,
     "type": "multiple",
     "difficulty": "easy",
@@ -3909,7 +3909,7 @@
     ],
     "correct_answer": "Компас"
   },
-  "Which of these items is required to create a potion of regeneration?-Ghast Tear": {
+  {
     "id": 167,
     "type": "multiple",
     "difficulty": "easy",
@@ -3922,7 +3922,7 @@
     ],
     "correct_answer": "Слеза Гаста"
   },
-  "What is this mob called?-Vindicator": {
+  {
     "id": 168,
     "type": "multiple",
     "difficulty": "easy",
@@ -3936,7 +3936,7 @@
     ],
     "correct_answer": "Мститель"
   },
-  "Which block is used to craft a smithing table?-Iron Ingot": {
+  {
     "id": 169,
     "type": "multiple",
     "difficulty": "easy",
@@ -3949,7 +3949,7 @@
     ],
     "correct_answer": "Железная болванка"
   },
-  "What is the main use of a brewing stand in Minecraft?-Brewing Potions": {
+  {
     "id": 170,
     "type": "multiple",
     "difficulty": "easy",
@@ -3962,7 +3962,7 @@
     ],
     "correct_answer": "Варить зелья"
   },
-  "Which of these items is used to create a potion of strength?-Blaze Powder": {
+  {
     "id": 171,
     "type": "multiple",
     "difficulty": "easy",
@@ -3975,7 +3975,7 @@
     ],
     "correct_answer": "Порошок Блейз"
   },
-  "Which block is used to create a blast furnace?-Furnace": {
+  {
     "id": 173,
     "type": "multiple",
     "difficulty": "easy",
@@ -3988,7 +3988,7 @@
     ],
     "correct_answer": "Печь"
   },
-  "What is the primary use of a lectern in Minecraft?-Reading Enchantments": {
+  {
     "id": 174,
     "type": "multiple",
     "difficulty": "easy",
@@ -4001,7 +4001,7 @@
     ],
     "correct_answer": "Чтение заклинаний"
   },
-  "Which of these items is used to create a grindstone?-Stone": {
+  {
     "id": 175,
     "type": "multiple",
     "difficulty": "easy",
@@ -4014,7 +4014,7 @@
     ],
     "correct_answer": "Камень"
   },
-  "Which of these items is used to create a fletching table?-Wooden Planks": {
+  {
     "id": 176,
     "type": "multiple",
     "difficulty": "easy",
@@ -4027,7 +4027,7 @@
     ],
     "correct_answer": "Деревянные доски"
   },
-  "What is the name of the item used to enchant tools and armor?-Enchantment Table": {
+  {
     "id": 177,
     "type": "multiple",
     "difficulty": "easy",
@@ -4040,7 +4040,7 @@
     ],
     "correct_answer": "Стол зачарования"
   },
-  "Which of these items is used to create a loom?-String": {
+  {
     "id": 178,
     "type": "multiple",
     "difficulty": "easy",
@@ -4053,7 +4053,7 @@
     ],
     "correct_answer": "Строка"
   },
-  "What is this structure called?-Woodland Mansion": {
+  {
     "id": 179,
     "type": "multiple",
     "difficulty": "easy",
@@ -4067,7 +4067,7 @@
     ],
     "correct_answer": "Лесной особняк"
   },
-  "Which block is used to create a cartography table?-Wooden Planks": {
+  {
     "id": 180,
     "type": "multiple",
     "difficulty": "easy",
@@ -4080,7 +4080,7 @@
     ],
     "correct_answer": "Деревянные доски"
   },
-  "What is the main use of a cartography table in Minecraft?-Crafting Maps": {
+  {
     "id": 181,
     "type": "multiple",
     "difficulty": "easy",
@@ -4093,7 +4093,7 @@
     ],
     "correct_answer": "Создание карт"
   },
-  "Which of these items is used to create a smithing table?-Iron Ingot": {
+  {
     "id": 184,
     "type": "multiple",
     "difficulty": "easy",
@@ -4106,7 +4106,7 @@
     ],
     "correct_answer": "Железная болванка"
   },
-  "What is the primary use of a smoker in Minecraft?-Cooking Food": {
+  {
     "id": 185,
     "type": "multiple",
     "difficulty": "easy",
@@ -4119,7 +4119,7 @@
     ],
     "correct_answer": "Приготовление еды"
   },
-  "What is this block called?-Grass Block": {
+  {
     "id": 224,
     "type": "multiple",
     "difficulty": "easy",
@@ -4133,7 +4133,7 @@
     ],
     "correct_answer": "Травяной блок"
   },
-  "What is this item called?-Compass": {
+  {
     "id": 225,
     "type": "multiple",
     "difficulty": "easy",
@@ -4147,7 +4147,7 @@
     ],
     "correct_answer": "Компас"
   },
-  "What is this mob called?-Zombie": {
+  {
     "id": 226,
     "type": "multiple",
     "difficulty": "easy",
@@ -4161,7 +4161,7 @@
     ],
     "correct_answer": "Зомби"
   },
-  "What is this structure called?-Village": {
+  {
     "id": 227,
     "type": "multiple",
     "difficulty": "easy",
@@ -4175,7 +4175,7 @@
     ],
     "correct_answer": "Деревня"
   },
-  "What is this block called?-Crafting Table": {
+  {
     "id": 228,
     "type": "multiple",
     "difficulty": "easy",
@@ -4189,7 +4189,7 @@
     ],
     "correct_answer": "Стол для рукоделия"
   },
-  "What is this item called?-Diamond": {
+  {
     "id": 229,
     "type": "multiple",
     "difficulty": "easy",
@@ -4203,7 +4203,7 @@
     ],
     "correct_answer": "Алмаз"
   },
-  "What is this block called?-Furnace": {
+  {
     "id": 232,
     "type": "multiple",
     "difficulty": "easy",
@@ -4217,7 +4217,7 @@
     ],
     "correct_answer": "Печь"
   },
-  "What is this structure called?-Jungle Temple": {
+  {
     "id": 234,
     "type": "multiple",
     "difficulty": "easy",
@@ -4231,7 +4231,7 @@
     ],
     "correct_answer": "Храм в джунглях"
   },
-  "What is this block called?-Enchanting Table": {
+  {
     "id": 235,
     "type": "multiple",
     "difficulty": "easy",
@@ -4245,7 +4245,7 @@
     ],
     "correct_answer": "Очаровательный столик"
   },
-  "What is this mob called?-Wither": {
+  {
     "id": 237,
     "type": "multiple",
     "difficulty": "easy",
@@ -4259,7 +4259,7 @@
     ],
     "correct_answer": "Увядание"
   },
-  "What is this block called?-Anvil": {
+  {
     "id": 239,
     "type": "multiple",
     "difficulty": "easy",
@@ -4273,7 +4273,7 @@
     ],
     "correct_answer": "Наковальня"
   },
-  "What is this mob called?-Cave Spider": {
+  {
     "id": 241,
     "type": "multiple",
     "difficulty": "easy",
@@ -4287,7 +4287,7 @@
     ],
     "correct_answer": "Пещерный паук"
   },
-  "What is this item called?-Bow": {
+  {
     "id": 244,
     "type": "multiple",
     "difficulty": "easy",
@@ -4301,7 +4301,7 @@
     ],
     "correct_answer": "Лук"
   },
-  "What is this mob called?-Villager": {
+  {
     "id": 245,
     "type": "multiple",
     "difficulty": "easy",
@@ -4315,7 +4315,7 @@
     ],
     "correct_answer": "Деревенский житель"
   },
-  "What is this block called?-Quartz Block": {
+  {
     "id": 247,
     "type": "multiple",
     "difficulty": "easy",
@@ -4329,7 +4329,7 @@
     ],
     "correct_answer": "Кварцевый блок"
   },
-  "What is this mob called?-Ghast": {
+  {
     "id": 249,
     "type": "multiple",
     "difficulty": "easy",
@@ -4343,7 +4343,7 @@
     ],
     "correct_answer": "Ghast"
   },
-  "What is this block called?-Nether Wart Block": {
+  {
     "id": 251,
     "type": "multiple",
     "difficulty": "easy",
@@ -4357,7 +4357,7 @@
     ],
     "correct_answer": "Блок для удаления бородавок"
   },
-  "What is this mob called?-Skeleton": {
+  {
     "id": 252,
     "type": "multiple",
     "difficulty": "easy",
@@ -4371,7 +4371,7 @@
     ],
     "correct_answer": "Скелет"
   },
-  "What is this block called?-Redstone Block": {
+  {
     "id": 254,
     "type": "multiple",
     "difficulty": "easy",
@@ -4385,7 +4385,7 @@
     ],
     "correct_answer": "Блок красного камня"
   },
-  "What is this item called?-Water Bucket": {
+  {
     "id": 255,
     "type": "multiple",
     "difficulty": "easy",
@@ -4399,7 +4399,7 @@
     ],
     "correct_answer": "Ведро для воды"
   },
-  "What is this mob called?-Phantom": {
+  {
     "id": 256,
     "type": "multiple",
     "difficulty": "easy",
@@ -4413,7 +4413,7 @@
     ],
     "correct_answer": "Призрак"
   },
-  "What is this structure called?-End Portal": {
+  {
     "id": 257,
     "type": "multiple",
     "difficulty": "easy",
@@ -4427,7 +4427,7 @@
     ],
     "correct_answer": "Конечный портал"
   },
-  "What is this block called?-Coal Block": {
+  {
     "id": 258,
     "type": "multiple",
     "difficulty": "easy",
@@ -4441,7 +4441,7 @@
     ],
     "correct_answer": "Угольный блок"
   },
-  "What is this mob called?-Husk": {
+  {
     "id": 259,
     "type": "multiple",
     "difficulty": "easy",
@@ -4455,7 +4455,7 @@
     ],
     "correct_answer": "Лузга"
   },
-  "What is this structure called?-Mineshaft": {
+  {
     "id": 260,
     "type": "multiple",
     "difficulty": "easy",
@@ -4469,7 +4469,7 @@
     ],
     "correct_answer": "Шахта"
   },
-  "What is this mob called?-Guardian": {
+  {
     "id": 262,
     "type": "multiple",
     "difficulty": "easy",
@@ -4483,7 +4483,7 @@
     ],
     "correct_answer": "Хранитель"
   },
-  "What is this structure called?-Ocean Ruin": {
+  {
     "id": 263,
     "type": "multiple",
     "difficulty": "easy",
@@ -4497,7 +4497,7 @@
     ],
     "correct_answer": "Океанские руины"
   },
-  "What is this block called?-Emerald Block": {
+  {
     "id": 264,
     "type": "multiple",
     "difficulty": "easy",
@@ -4511,7 +4511,7 @@
     ],
     "correct_answer": "Изумрудный блок"
   },
-  "What is this item called?-Cooked Beef": {
+  {
     "id": 265,
     "type": "multiple",
     "difficulty": "easy",
@@ -4525,7 +4525,7 @@
     ],
     "correct_answer": "Говядина"
   },
-  "What is this block called?-Magma Block": {
+  {
     "id": 268,
     "type": "multiple",
     "difficulty": "easy",
@@ -4539,7 +4539,7 @@
     ],
     "correct_answer": "Блок магмы"
   },
-  "What is this block called?-Nether Quartz Ore": {
+  {
     "id": 271,
     "type": "multiple",
     "difficulty": "easy",
@@ -4553,7 +4553,7 @@
     ],
     "correct_answer": "Незерская кварцевая руда"
   },
-  "What is this item called?-Brewing Stand": {
+  {
     "id": 272,
     "type": "multiple",
     "difficulty": "easy",
@@ -4567,7 +4567,7 @@
     ],
     "correct_answer": "Подставка для пивоварения"
   },
-  "What is this mob called?-Endermite": {
+  {
     "id": 273,
     "type": "multiple",
     "difficulty": "easy",
@@ -4581,7 +4581,7 @@
     ],
     "correct_answer": "Эндермит"
   },
-  "What is this block called?-Iron Block": {
+  {
     "id": 275,
     "type": "multiple",
     "difficulty": "easy",
@@ -4595,7 +4595,7 @@
     ],
     "correct_answer": "Железный блок"
   },
-  "What is this item called?-Crossbow": {
+  {
     "id": 276,
     "type": "multiple",
     "difficulty": "easy",
@@ -4609,7 +4609,7 @@
     ],
     "correct_answer": "Арбалет"
   },
-  "What is this mob called?-Evoker": {
+  {
     "id": 277,
     "type": "multiple",
     "difficulty": "easy",
@@ -4623,7 +4623,7 @@
     ],
     "correct_answer": "Evoker"
   },
-  "What is this structure called?-Pillager Outpost": {
+  {
     "id": 278,
     "type": "multiple",
     "difficulty": "easy",
@@ -4637,7 +4637,7 @@
     ],
     "correct_answer": "Аванпост Пиллагер"
   },
-  "What is this block called?-Redstone Ore": {
+  {
     "id": 279,
     "type": "multiple",
     "difficulty": "easy",
@@ -4651,7 +4651,7 @@
     ],
     "correct_answer": "Руда Красного камня"
   },
-  "What is this item called?-End Crystal": {
+  {
     "id": 280,
     "type": "multiple",
     "difficulty": "easy",
@@ -4665,7 +4665,7 @@
     ],
     "correct_answer": "Торцевой кристалл"
   },
-  "What is this mob called?-Magma Cube": {
+  {
     "id": 285,
     "type": "multiple",
     "difficulty": "easy",
@@ -4679,7 +4679,7 @@
     ],
     "correct_answer": "Куб Магмы"
   },
-  "What is this block called?-Gold Block": {
+  {
     "id": 287,
     "type": "multiple",
     "difficulty": "easy",
@@ -4693,7 +4693,7 @@
     ],
     "correct_answer": "Золотой блок"
   },
-  "What is this item called?-Golden Carrot": {
+  {
     "id": 288,
     "type": "multiple",
     "difficulty": "easy",
@@ -4707,7 +4707,7 @@
     ],
     "correct_answer": "Золотая морковь"
   },
-  "What is this item called?-Shield": {
+  {
     "id": 292,
     "type": "multiple",
     "difficulty": "easy",
@@ -4721,7 +4721,7 @@
     ],
     "correct_answer": "Щит"
   },
-  "What is this mob called?-Silverfish": {
+  {
     "id": 293,
     "type": "multiple",
     "difficulty": "easy",
@@ -4735,4 +4735,4 @@
     ],
     "correct_answer": "Серебряная рыбка"
   }
-}
+]

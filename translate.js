@@ -60,26 +60,12 @@ function deepTranslate(lang, text) {
     });
 }
 
-/*
-    {
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "Entertainment: Video Games",
-    "question": "In the game &quot;Overwatch,&quot; what are the names of the two Australian criminals from the Junkers faction?",
-    "correct_answer": "Junkrat and Roadhog",
-    "incorrect_answers": [
-        "Roadrat and Junkhog",
-        "Ana and Pharah",
-        "McCree and Deadeye"
-    ]
-    },
-*/
 async function generateLanguage(lang, questions) {
     const cache = fs.existsSync(THEME+"/"+lang+".cache") ? JSON.parse(fs.readFileSync(THEME+"/"+lang+".cache")) : {};
     const translatedQuestions = fs.existsSync(THEME+"/"+"questions_"+lang+".json") ? JSON.parse(fs.readFileSync(THEME+"/"+"questions_"+lang+".json")) : []
 
     for (const question of questions) {
-        if (!cache[question.question]) {
+        if (!cache[question.question+"-"+question.correct_answer]) {
             console.log(lang+": "+ question.question);
             const translated = { ...question };
             translated.incorrect_answers = [...translated.incorrect_answers];
@@ -94,7 +80,7 @@ async function generateLanguage(lang, questions) {
             }
 
             translatedQuestions.push(translated);
-            cache[question.question] = translated;
+            cache[question.question+"-"+question.correct_answer] = translated;
 
             fs.writeFileSync(THEME+"/"+lang+".cache", JSON.stringify(cache, null, 2));
             fs.writeFileSync(THEME+"/"+"questions_"+lang+".json", JSON.stringify(translatedQuestions, null, 2));
@@ -107,4 +93,6 @@ async function generateLanguage(lang, questions) {
     await generateLanguage("ru", questions);
     await generateLanguage("pt", questions);
     await generateLanguage("es", questions);
+    const ru = JSON.parse(fs.readFileSync(THEME+"/questions_en.json").toString())
+    console.log(questions.filter(q => q.image).length + " vs " + ru.filter(q => q.image).length);
 })();
