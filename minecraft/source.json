@@ -216,17 +216,6 @@
     "answer": "Enderman"
   },
   {
-    "question": "What kind of wood is shown here?",
-    "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/e/e9/Oak_Log_%28UD%29_JE5_BE3.png/revision/latest?cb=20200317191604",
-    "choices": [
-      "Spruce Log",
-      "Birch Log",
-      "Oak Log",
-      "Jungle Log"
-    ],
-    "answer": "Oak Log"
-  },
-  {
     "question": "What is the name of this block?",
     "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/3/3b/Anvil_%28N%29_JE3.png/revision/latest?cb=20201126085258",
     "choices": [
@@ -575,17 +564,6 @@
     "answer": "Spawner"
   },
   {
-    "question": "Which biome is shown here?",
-    "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/f/fc/Badlandsbiome.png/revision/latest?cb=20220612122807",
-    "choices": [
-      "Desert",
-      "Mesa",
-      "Savanna",
-      "Plains"
-    ],
-    "answer": "Mesa"
-  },
-  {
     "question": "What is this item called?",
     "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/6/6f/Elytra_JE2_BE2.png/revision/latest?cb=20230930213939",
     "choices": [
@@ -672,7 +650,7 @@
   },
   {
     "question": "What block is shown here?",
-    "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/3/31/Block_of_Netherite_JE1_BE1.png/revision/latest?cb=20200320021504",
+    "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/3/31/Block_of_Netherite_JE1_BE1.png/revision/latest?cb=2020032002150",
     "choices": [
       "Diamond Block",
       "Iron Block",
@@ -1259,7 +1237,7 @@
   },
   {
     "question": "What is this structure called?",
-    "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/4/4c/Swamp_hut_JE4_BE2.png/revision/latest?cb=20191229162745",
+    "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/4/4c/Swamp_hut_JE4_BE2.png/revision/latest?cb=20191229162",
     "choices": [
       "Jungle Temple",
       "Swamp Hut",
@@ -1300,17 +1278,6 @@
     "answer": "End Stone"
   },
   {
-    "question": "What is this item called?",
-    "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/0/0f/Netherite_Sword_JE2_BE2.png/revision/latest?cb=20200304213920",
-    "choices": [
-      "Netherite Sword",
-      "Diamond Sword",
-      "Iron Sword",
-      "Gold Sword"
-    ],
-    "answer": "Netherite Sword"
-  },
-  {
     "question": "Which of these items is required to create a hay bale?",
     "choices": [
       "Wheat",
@@ -1319,17 +1286,6 @@
       "Potato"
     ],
     "answer": "Wheat"
-  },
-  {
-    "question": "What is this block called?",
-    "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/4/47/Red_Sandstone_JE4_BE2.png/revision/latest?cb=20200317202440",
-    "choices": [
-      "Red Sandstone",
-      "Sandstone",
-      "Redstone Block",
-      "Chiseled Sandstone"
-    ],
-    "answer": "Red Sandstone"
   },
   {
     "question": "Which of these items is used to create a daylight sensor?",
@@ -1651,17 +1607,6 @@
     "answer": "Nether Star"
   },
   {
-    "question": "What is this block called?",
-    "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/f/f8/Soul_Campfire_JE1_BE1.gif/revision/latest?cb=20200408201915",
-    "choices": [
-      "Campfire",
-      "Soul Campfire",
-      "Furnace",
-      "Blast Furnace"
-    ],
-    "answer": "Soul Campfire"
-  },
-  {
     "question": "Which of these items is used to create a trident?",
     "choices": [
       "Gold Ingot",
@@ -1784,15 +1729,208 @@
     "answer": "Compass"
   },
   {
-    "question": "What is this block called?",
-    "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/f/f9/Basalt_%28UD%29_JE1_BE1.png/revision/latest?cb=20200220215205",
+    "question": "Which of these items is required to create a potion of regeneration?",
     "choices": [
-      "Basalt",
-      "Polished Basalt",
-      "Blackstone",
-      "Polished Blackstone"
+      "Glowstone Dust",
+      "Fermented Spider Eye",
+      "Pufferfish",
+      "Ghast Tear"
     ],
-    "answer": "Polished Basalt"
+    "answer": "Ghast Tear"
+  },
+  {
+    "question": "What is this mob called?",
+    "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/b/b7/Vindicator_JE3.png/revision/latest?cb=20220611074851",
+    "choices": [
+      "Evoker",
+      "Vindicator",
+      "Pillager",
+      "Illager"
+    ],
+    "answer": "Vindicator"
+  },
+  {
+    "question": "Which block is used to craft a smithing table?",
+    "choices": [
+      "Stone",
+      "Oak Planks",
+      "Iron Ingot",
+      "Obsidian"
+    ],
+    "answer": "Iron Ingot"
+  },
+  {
+    "question": "What is the main use of a brewing stand in Minecraft?",
+    "choices": [
+      "Repairing Tools",
+      "Smelting Ores",
+      "Cooking Food",
+      "Brewing Potions"
+    ],
+    "answer": "Brewing Potions"
+  },
+  {
+    "question": "Which of these items is used to create a potion of strength?",
+    "choices": [
+      "Ghast Tear",
+      "Blaze Powder",
+      "Magma Cream",
+      "Fermented Spider Eye"
+    ],
+    "answer": "Blaze Powder"
+  },
+  {
+    "question": "What is this structure called?",
+    "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/6/6c/Ocean_Monument.png/revision/latest?cb=20200107060922",
+    "choices": [
+      "Witch Hut",
+      "Stronghold",
+      "Ocean Monument",
+      "End City"
+    ],
+    "answer": "Ocean Monument"
+  },
+  {
+    "question": "Which block is used to create a blast furnace?",
+    "choices": [
+      "Iron Ingot",
+      "Furnace",
+      "Smoker",
+      "Smooth Stone"
+    ],
+    "answer": "Furnace"
+  },
+  {
+    "question": "What is the primary use of a lectern in Minecraft?",
+    "choices": [
+      "Storing Books",
+      "Reading Enchantments",
+      "Crafting Maps",
+      "Writing Books"
+    ],
+    "answer": "Reading Enchantments"
+  },
+  {
+    "question": "Which of these items is used to create a grindstone?",
+    "choices": [
+      "Smithing Table",
+      "Anvil",
+      "Stone",
+      "Wooden Planks"
+    ],
+    "answer": "Stone"
+  },
+  {
+    "question": "Which of these items is used to create a fletching table?",
+    "choices": [
+      "Feather",
+      "Arrow",
+      "String",
+      "Wooden Planks"
+    ],
+    "answer": "Wooden Planks"
+  },
+  {
+    "question": "What is the name of the item used to enchant tools and armor?",
+    "choices": [
+      "Enchanted Book",
+      "Bookshelf",
+      "Experience Bottle",
+      "Enchantment Table"
+    ],
+    "answer": "Enchantment Table"
+  },
+  {
+    "question": "Which of these items is used to create a loom?",
+    "choices": [
+      "String",
+      "Wool",
+      "Cotton",
+      "Silk"
+    ],
+    "answer": "String"
+  },
+  {
+    "question": "What is this structure called?",
+    "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/5/5d/Woodland_Mansion.png/revision/latest?cb=20200226143945",
+    "choices": [
+      "Jungle Temple",
+      "Village",
+      "Woodland Mansion",
+      "Desert Temple"
+    ],
+    "answer": "Woodland Mansion"
+  },
+  {
+    "question": "Which block is used to create a cartography table?",
+    "choices": [
+      "Wooden Planks",
+      "Compass",
+      "Paper",
+      "Glass Pane"
+    ],
+    "answer": "Wooden Planks"
+  },
+  {
+    "question": "What is the main use of a cartography table in Minecraft?",
+    "choices": [
+      "Crafting Maps",
+      "Repairing Tools",
+      "Smelting Ores",
+      "Cooking Food"
+    ],
+    "answer": "Crafting Maps"
+  },
+  {
+    "question": "Which of these items is used to create a fletching table?",
+    "choices": [
+      "Feather",
+      "Arrow",
+      "String",
+      "Wooden Planks"
+    ],
+    "answer": "Wooden Planks"
+  },
+  {
+    "question": "What is this structure called?",
+    "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/d/d2/Desert_pyramid_JE3_BE3.png/revision/latest?cb=20210711034046",
+    "choices": [
+      "Jungle Temple",
+      "Igloo",
+      "Desert Pyramid",
+      "Ocean Monument"
+    ],
+    "answer": "Desert Pyramid"
+  },
+  {
+    "question": "Which of these items is used to create a smithing table?",
+    "choices": [
+      "Stone",
+      "Oak Planks",
+      "Iron Ingot",
+      "Obsidian"
+    ],
+    "answer": "Iron Ingot"
+  },
+  {
+    "question": "What is the primary use of a smoker in Minecraft?",
+    "choices": [
+      "Smelting Ores",
+      "Cooking Food",
+      "Brewing Potions",
+      "Crafting Tools"
+    ],
+    "answer": "Cooking Food"
+  },
+  {
+    "question": "Which of these items is required to craft a beacon?",
+    "choices": [
+      "Emerald",
+      "Nether Star",
+      "Netherite Ingot",
+      "Eye of Ender"
+    ],
+    "answer": "Nether Star"
   },
   {
     "question": "Which of these items is required to create a potion of regeneration?",
@@ -1999,17 +2137,6 @@
     "answer": "Nether Star"
   },
   {
-    "question": "What is this block called?",
-    "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/f/f9/Basalt_%28UD%29_JE1_BE1.png/revision/latest?cb=20200220215205",
-    "choices": [
-      "Basalt",
-      "Polished Basalt",
-      "Blackstone",
-      "Polished Blackstone"
-    ],
-    "answer": "Polished Basalt"
-  },
-  {
     "question": "Which of these items is required to create a potion of regeneration?",
     "choices": [
       "Glowstone Dust",
@@ -2184,218 +2311,784 @@
     "answer": "Desert Pyramid"
   },
   {
-    "question": "Which of these items is used to create a smithing table?",
+    "question": "What is this block called?",
+    "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/c/c7/Grass_Block.png/revision/latest?cb=20230226144250",
     "choices": [
-      "Stone",
-      "Oak Planks",
-      "Iron Ingot",
-      "Obsidian"
+      "Grass Block",
+      "Dirt Block",
+      "Mycelium",
+      "Podzol"
     ],
-    "answer": "Iron Ingot"
+    "answer": "Grass Block"
   },
   {
-    "question": "What is the primary use of a smoker in Minecraft?",
+    "question": "What is this item called?",
+    "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/b/b3/Compass_JE3_BE3.gif/revision/latest?cb=20201125191224",
     "choices": [
-      "Smelting Ores",
-      "Cooking Food",
-      "Brewing Potions",
-      "Crafting Tools"
+      "Clock",
+      "Compass",
+      "Map",
+      "Spyglass"
     ],
-    "answer": "Cooking Food"
+    "answer": "Compass"
   },
   {
-    "question": "Which of these items is required to craft a beacon?",
+    "question": "What is this mob called?",
+    "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/8/87/Zombie_JE3_BE2.png/revision/latest?cb=20191227070025",
+    "choices": [
+      "Skeleton",
+      "Creeper",
+      "Zombie",
+      "Husk"
+    ],
+    "answer": "Zombie"
+  },
+  {
+    "question": "What is this structure called?",
+    "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/0/01/Plains_Small_House_3.png/revision/latest?cb=20190504112833",
+    "choices": [
+      "Desert Temple",
+      "Jungle Temple",
+      "Village",
+      "Stronghold"
+    ],
+    "answer": "Village"
+  },
+  {
+    "question": "What is this block called?",
+    "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/b/b7/Crafting_Table_JE4_BE3.png/revision/latest?cb=20191229083528",
+    "choices": [
+      "Crafting Table",
+      "Furnace",
+      "Anvil",
+      "Enchanting Table"
+    ],
+    "answer": "Crafting Table"
+  },
+  {
+    "question": "What is this item called?",
+    "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/a/ab/Diamond_JE3_BE3.png/revision/latest?cb=20230924193138",
     "choices": [
       "Emerald",
-      "Nether Star",
-      "Netherite Ingot",
-      "Eye of Ender"
+      "Diamond",
+      "Lapis Lazuli",
+      "Quartz"
     ],
-    "answer": "Nether Star"
+    "answer": "Diamond"
+  },
+  {
+    "question": "What is this mob called?",
+    "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/2/28/Enderman.png/revision/latest?cb=20191229170629",
+    "choices": [
+      "Enderman",
+      "Creeper",
+      "Wither Skeleton",
+      "Blaze"
+    ],
+    "answer": "Enderman"
+  },
+  {
+    "question": "What is this structure called?",
+    "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/d/d2/Desert_pyramid_JE3_BE3.png/revision/latest?cb=20210711034046",
+    "choices": [
+      "Desert Pyramid",
+      "Jungle Temple",
+      "Ocean Monument",
+      "End City"
+    ],
+    "answer": "Desert Pyramid"
   },
   {
     "question": "What is this block called?",
-    "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/f/f9/Basalt_%28UD%29_JE1_BE1.png/revision/latest?cb=20200220215205",
+    "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/9/99/Furnace_%28S%29_JE4.png/revision/latest?cb=20210111063232",
     "choices": [
-      "Basalt",
-      "Polished Basalt",
-      "Blackstone",
-      "Polished Blackstone"
+      "Blast Furnace",
+      "Smoker",
+      "Furnace",
+      "Campfire"
     ],
-    "answer": "Polished Basalt"
+    "answer": "Furnace"
   },
   {
-    "question": "Which of these items is required to create a potion of regeneration?",
+    "question": "What is this mob called?",
+    "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/5/5a/Blaze.gif/revision/latest?cb=20230214143150",
     "choices": [
-      "Glowstone Dust",
-      "Fermented Spider Eye",
-      "Pufferfish",
-      "Ghast Tear"
+      "Blaze",
+      "Ghast",
+      "Magma Cube",
+      "Wither"
     ],
-    "answer": "Ghast Tear"
+    "answer": "Blaze"
+  },
+  {
+    "question": "What is this structure called?",
+    "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/8/8b/Jungle_pyramid_JE2_BE2.png/revision/latest?cb=20200202121947",
+    "choices": [
+      "Jungle Temple",
+      "Desert Pyramid",
+      "Woodland Mansion",
+      "Village"
+    ],
+    "answer": "Jungle Temple"
+  },
+  {
+    "question": "What is this block called?",
+    "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/3/31/Enchanting_Table.gif/revision/latest?cb=20220222115558",
+    "choices": [
+      "Enchanting Table",
+      "Crafting Table",
+      "Anvil",
+      "Fletching Table"
+    ],
+    "answer": "Enchanting Table"
+  },
+  {
+    "question": "What is this item called?",
+    "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/6/6f/Elytra_JE2_BE2.png/revision/latest?cb=20230930213939",
+    "choices": [
+      "Elytra",
+      "Wings",
+      "Glider",
+      "Cape"
+    ],
+    "answer": "Elytra"
+  },
+  {
+    "question": "What is this mob called?",
+    "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/3/3b/Wither_JE2_BE2.png/revision/latest?cb=20191229161710",
+    "choices": [
+      "Ender Dragon",
+      "Wither",
+      "Blaze",
+      "Phantom"
+    ],
+    "answer": "Wither"
+  },
+  {
+    "question": "What is this structure called?",
+    "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/c/cb/Nether_Fortress.png/revision/latest?cb=20200415083830",
+    "choices": [
+      "Stronghold",
+      "Nether Fortress",
+      "Bastion Remnant",
+      "End City"
+    ],
+    "answer": "Nether Fortress"
+  },
+  {
+    "question": "What is this block called?",
+    "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/3/3b/Anvil_%28N%29_JE3.png/revision/latest?cb=20201126085258",
+    "choices": [
+      "Anvil",
+      "Grindstone",
+      "Smithing Table",
+      "Stonecutter"
+    ],
+    "answer": "Anvil"
+  },
+  {
+    "question": "What is this item called?",
+    "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/5/54/Golden_Apple_JE2_BE2.png/revision/latest?cb=20200521041809",
+    "choices": [
+      "Golden Apple",
+      "Enchanted Golden Apple",
+      "Golden Carrot",
+      "Golden Nugget"
+    ],
+    "answer": "Golden Apple"
+  },
+  {
+    "question": "What is this mob called?",
+    "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/1/17/Cave_Spider_JE2_BE2.png/revision/latest?cb=20191229160443",
+    "choices": [
+      "Spider",
+      "Cave Spider",
+      "Silverfish",
+      "Endermite"
+    ],
+    "answer": "Cave Spider"
+  },
+  {
+    "question": "What is this structure called?",
+    "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/4/4c/Swamp_hut_JE4_BE2.png/revision/latest?cb=20191229162745",
+    "choices": [
+      "Witch Hut",
+      "Desert Well",
+      "Igloo",
+      "Ocean Ruin"
+    ],
+    "answer": "Witch Hut"
+  },
+  {
+    "question": "What is this block called?",
+    "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/e/ea/Lapis_Lazuli_Ore_JE4_BE4.png/revision/latest?cb=20210414171130",
+    "choices": [
+      "Diamond Ore",
+      "Lapis Lazuli Ore",
+      "Emerald Ore",
+      "Nether Quartz Ore"
+    ],
+    "answer": "Lapis Lazuli Ore"
+  },
+  {
+    "question": "What is this item called?",
+    "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/9/99/Bow_JE2_BE1.png/revision/latest?cb=20200128015144",
+    "choices": [
+      "Crossbow",
+      "Bow",
+      "Trident",
+      "Fishing Rod"
+    ],
+    "answer": "Bow"
+  },
+  {
+    "question": "What is this mob called?",
+    "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/d/d8/Plains_Villager_Base.png/revision/latest?cb=20231225162655",
+    "choices": [
+      "Pillager",
+      "Villager",
+      "Wandering Trader",
+      "Evoker"
+    ],
+    "answer": "Villager"
+  },
+  {
+    "question": "What is this structure called?",
+    "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/a/ae/StrongholdPortalRoom.png/revision/latest?cb=20210301175819",
+    "choices": [
+      "Stronghold",
+      "Village",
+      "Mineshaft",
+      "Nether Fortress"
+    ],
+    "answer": "Stronghold"
+  },
+  {
+    "question": "What is this block called?",
+    "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/d/de/Smooth_Quartz_Block_JE3_BE2.png/revision/latest?cb=20200317205047",
+    "choices": [
+      "Quartz Block",
+      "Iron Block",
+      "White Concrete",
+      "Snow Block"
+    ],
+    "answer": "Quartz Block"
+  },
+  {
+    "question": "What is this item called?",
+    "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/f/f6/Ender_Pearl_JE3_BE2.png/revision/latest?cb=20200512195721",
+    "choices": [
+      "Eye of Ender",
+      "Ender Pearl",
+      "Nether Star",
+      "Prismarine Shard"
+    ],
+    "answer": "Ender Pearl"
+  },
+  {
+    "question": "What is this mob called?",
+    "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/d/d5/Ghast_JE2_BE2.gif/revision/latest?cb=20201108222940",
+    "choices": [
+      "Ghast",
+      "Blaze",
+      "Magma Cube",
+      "Phantom"
+    ],
+    "answer": "Ghast"
+  },
+  {
+    "question": "What is this structure called?",
+    "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/0/08/Bastion_Remnant_1.png/revision/latest?cb=20230723003309",
+    "choices": [
+      "Bastion Remnant",
+      "Nether Fortress",
+      "Stronghold",
+      "Village"
+    ],
+    "answer": "Bastion Remnant"
+  },
+  {
+    "question": "What is this block called?",
+    "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/d/d0/Nether_Wart_Block_JE3.png/revision/latest?cb=20200317191521",
+    "choices": [
+      "Netherrack",
+      "Nether Wart Block",
+      "Nether Quartz Ore",
+      "Crimson Nylium"
+    ],
+    "answer": "Nether Wart Block"
+  },
+  {
+    "question": "What is this mob called?",
+    "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/4/47/Skeleton_JE6_BE4.png/revision/latest?cb=20210227130136",
+    "choices": [
+      "Wither Skeleton",
+      "Stray",
+      "Skeleton",
+      "Zombie"
+    ],
+    "answer": "Skeleton"
+  },
+  {
+    "question": "What is this structure called?",
+    "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/d/d8/EndCityEntrance.png/revision/latest?cb=20190828120728",
+    "choices": [
+      "Stronghold",
+      "End City",
+      "Nether Fortress",
+      "Village"
+    ],
+    "answer": "End City"
+  },
+  {
+    "question": "What is this block called?",
+    "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/2/26/Block_of_Redstone_JE2_BE2.png/revision/latest?cb=2019123003053",
+    "choices": [
+      "Redstone Block",
+      "Nether Brick",
+      "Magma Block",
+      "Brick Block"
+    ],
+    "answer": "Redstone Block"
+  },
+  {
+    "question": "What is this item called?",
+    "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/d/dc/Water_Bucket_JE2_BE2.png/revision/latest?cb=20190430112051",
+    "choices": [
+      "Lava Bucket",
+      "Water Bucket",
+      "Milk Bucket",
+      "Bucket"
+    ],
+    "answer": "Water Bucket"
+  },
+  {
+    "question": "What is this mob called?",
+    "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/3/39/Phantom_JE2.gif/revision/latest?cb=20180706142237",
+    "choices": [
+      "Endermite",
+      "Phantom",
+      "Blaze",
+      "Ghast"
+    ],
+    "answer": "Phantom"
+  },
+  {
+    "question": "What is this structure called?",
+    "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/f/fa/End_Portal_%28Active%29.png/revision/latest?cb=20200115131910",
+    "choices": [
+      "End Portal",
+      "Nether Portal",
+      "Stronghold",
+      "Village"
+    ],
+    "answer": "End Portal"
+  },
+  {
+    "question": "What is this block called?",
+    "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/c/cc/Block_of_Coal_JE3_BE2.png/revision/latest?cb=20200224223204",
+    "choices": [
+      "Coal Block",
+      "Charcoal Block",
+      "Blackstone",
+      "Obsidian"
+    ],
+    "answer": "Coal Block"
+  },
+  {
+    "question": "What is this mob called?",
+    "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/e/e4/Husk_JE2_BE2.png/revision/latest?cb=20190510101810",
+    "choices": [
+      "Zombie",
+      "Husk",
+      "Drowned",
+      "Stray"
+    ],
+    "answer": "Husk"
+  },
+  {
+    "question": "What is this structure called?",
+    "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/d/d1/Mineshaft_with_Chain.png/revision/latest?cb=20210317122221",
+    "choices": [
+      "Mineshaft",
+      "Stronghold",
+      "Village",
+      "Nether Fortress"
+    ],
+    "answer": "Mineshaft"
+  },
+  {
+    "question": "What is this item called?",
+    "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/3/3e/Clock_JE3_BE3.gif/revision/latest?cb=20201125194053",
+    "choices": [
+      "Compass",
+      "Clock",
+      "Map",
+      "Spyglass"
+    ],
+    "answer": "Clock"
+  },
+  {
+    "question": "What is this mob called?",
+    "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/9/94/Guardian.gif/revision/latest?cb=20190925152101",
+    "choices": [
+      "Elder Guardian",
+      "Guardian",
+      "Drowned",
+      "Phantom"
+    ],
+    "answer": "Guardian"
+  },
+  {
+    "question": "What is this structure called?",
+    "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/0/02/Underwater_ruin_cold.png/revision/latest?cb=20201103185810",
+    "choices": [
+      "Ocean Monument",
+      "Ocean Ruin",
+      "Stronghold",
+      "Village"
+    ],
+    "answer": "Ocean Ruin"
+  },
+  {
+    "question": "What is this block called?",
+    "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/0/0b/Block_of_Emerald_JE4_BE3.png/revision/latest?cb=20200226013452",
+    "choices": [
+      "Diamond Block",
+      "Emerald Block",
+      "Gold Block",
+      "Iron Block"
+    ],
+    "answer": "Emerald Block"
+  },
+  {
+    "question": "What is this item called?",
+    "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/0/04/Steak_JE4_BE3.png/revision/latest?cb=20190504055306",
+    "choices": [
+      "Cooked Porkchop",
+      "Cooked Beef",
+      "Cooked Chicken",
+      "Cooked Mutton"
+    ],
+    "answer": "Cooked Beef"
+  },
+  {
+    "question": "What is this mob called?",
+    "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/3/38/Stray_JE2_BE4.png/revision/latest?cb=20191001180649",
+    "choices": [
+      "Skeleton",
+      "Stray",
+      "Husk",
+      "Drowned"
+    ],
+    "answer": "Stray"
+  },
+  {
+    "question": "What is this structure called?",
+    "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/6/6c/Ocean_Monument.png/revision/latest?cb=20200107060922",
+    "choices": [
+      "Ocean Monument",
+      "Ocean Ruin",
+      "Stronghold",
+      "Village"
+    ],
+    "answer": "Ocean Monument"
+  },
+  {
+    "question": "What is this block called?",
+    "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/d/d1/Magma_Block_JE2_BE2.gif/revision/latest?cb=20200915183320",
+    "choices": [
+      "Netherrack",
+      "Magma Block",
+      "Basalt",
+      "Obsidian"
+    ],
+    "answer": "Magma Block"
+  },
+  {
+    "question": "What is this mob called?",
+    "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/5/57/Drowned.png/revision/latest?cb=20180626144030",
+    "choices": [
+      "Husk",
+      "Drowned",
+      "Zombie",
+      "Stray"
+    ],
+    "answer": "Drowned"
+  },
+  {
+    "question": "What is this structure called?",
+    "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/c/cc/Shipwreck_Oak_%28With_Mast%29.png/revision/latest?cb=20210418191213",
+    "choices": [
+      "Ocean Monument",
+      "Ocean Ruin",
+      "Shipwreck",
+      "Stronghold"
+    ],
+    "answer": "Shipwreck"
+  },
+  {
+    "question": "What is this block called?",
+    "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/2/28/Nether_Quartz_Ore_JE3_BE2.png/revision/latest?cb=20230811071028",
+    "choices": [
+      "Quartz Block",
+      "Nether Quartz Ore",
+      "White Concrete",
+      "Snow Block"
+    ],
+    "answer": "Nether Quartz Ore"
+  },
+  {
+    "question": "What is this item called?",
+    "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/b/b3/Brewing_Stand_%28empty%29_JE10.png/revision/latest?cb=20220502063418",
+    "choices": [
+      "Furnace",
+      "Crafting Table",
+      "Brewing Stand",
+      "Grindstone"
+    ],
+    "answer": "Brewing Stand"
+  },
+  {
+    "question": "What is this mob called?",
+    "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/6/6e/Endermite.gif/revision/latest?cb=20200126021254",
+    "choices": [
+      "Endermite",
+      "Silverfish",
+      "Phantom",
+      "Blaze"
+    ],
+    "answer": "Endermite"
+  },
+  {
+    "question": "What is this structure called?",
+    "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/5/5d/Woodland_Mansion.png/revision/latest?cb=20200226143945",
+    "choices": [
+      "Village",
+      "Witch Hut",
+      "Woodland Mansion",
+      "Stronghold"
+    ],
+    "answer": "Woodland Mansion"
+  },
+  {
+    "question": "What is this block called?",
+    "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/7/7e/Block_of_Iron_JE4_BE3.png/revision/latest?cb=20200226013546",
+    "choices": [
+      "Iron Block",
+      "Diamond Block",
+      "Gold Block",
+      "Emerald Block"
+    ],
+    "answer": "Iron Block"
+  },
+  {
+    "question": "What is this item called?",
+    "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/7/79/Crossbow.png/revision/latest?cb=20200512195207",
+    "choices": [
+      "Bow",
+      "Crossbow",
+      "Trident",
+      "Fishing Rod"
+    ],
+    "answer": "Crossbow"
+  },
+  {
+    "question": "What is this mob called?",
+    "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/c/c1/Evoker_JE2.png/revision/latest?cb=20220613062102",
+    "choices": [
+      "Evoker",
+      "Pillager",
+      "Vindicator",
+      "Illusioner"
+    ],
+    "answer": "Evoker"
+  },
+  {
+    "question": "What is this structure called?",
+    "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/8/8c/Pillager_outpost_watchtower.png/revision/latest?cb=20200221174633",
+    "choices": [
+      "Village",
+      "Pillager Outpost",
+      "Stronghold",
+      "Woodland Mansion"
+    ],
+    "answer": "Pillager Outpost"
+  },
+  {
+    "question": "What is this block called?",
+    "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/c/cd/Redstone_Ore_JE4_BE3.png/revision/latest?cb=20210226103025",
+    "choices": [
+      "Redstone Block",
+      "Nether Brick",
+      "Magma Block",
+      "Redstone Ore"
+    ],
+    "answer": "Redstone Ore"
+  },
+  {
+    "question": "What is this item called?",
+    "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/e/ea/End_Crystal_JE2.gif/revision/latest?cb=20200512200814",
+    "choices": [
+      "End Crystal",
+      "Ender Pearl",
+      "Eye of Ender",
+      "Dragon Egg"
+    ],
+    "answer": "End Crystal"
+  },
+  {
+    "question": "What is this mob called?",
+    "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/8/84/Vex_JE4.gif/revision/latest?cb=20221123024346",
+    "choices": [
+      "Phantom",
+      "Vex",
+      "Endermite",
+      "Silverfish"
+    ],
+    "answer": "Vex"
+  },
+  {
+    "question": "What is this structure called?",
+    "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/0/01/Plains_Small_House_3.png/revision/latest?cb=20190504112833",
+    "choices": [
+      "Village",
+      "Witch Hut",
+      "Woodland Mansion",
+      "Stronghold"
+    ],
+    "answer": "Village"
+  },
+  {
+    "question": "What is this block called?",
+    "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/c/c7/Grass_Block.png/revision/latest?cb=20230226144250",
+    "choices": [
+      "Grass Block",
+      "Dirt Block",
+      "Podzol",
+      "Mycelium"
+    ],
+    "answer": "Grass Block"
+  },
+  {
+    "question": "What is this item called?",
+    "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/b/b3/Compass_JE3_BE3.gif/revision/latest?cb=20201125191224",
+    "choices": [
+      "Clock",
+      "Compass",
+      "Map",
+      "Spyglass"
+    ],
+    "answer": "Compass"
+  },
+  {
+    "question": "What is this mob called?",
+    "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/e/ed/Magma_Cube.png/revision/latest?cb=20190805151823",
+    "choices": [
+      "Slime",
+      "Magma Cube",
+      "Blaze",
+      "Ghast"
+    ],
+    "answer": "Magma Cube"
+  },
+  {
+    "question": "What is this structure called?",
+    "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/0/03/Nether_portal_%28animated%29.png/revision/latest?cb=20191114182303",
+    "choices": [
+      "End Portal",
+      "Nether Portal",
+      "Stronghold",
+      "Village"
+    ],
+    "answer": "Nether Portal"
+  },
+  {
+    "question": "What is this block called?",
+    "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/7/72/Block_of_Gold_JE6_BE3.png/revision/latest?cb=20200226013525",
+    "choices": [
+      "Gold Block",
+      "Iron Block",
+      "Emerald Block",
+      "Diamond Block"
+    ],
+    "answer": "Gold Block"
+  },
+  {
+    "question": "What is this item called?",
+    "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/a/aa/Golden_Carrot_JE4_BE2.png/revision/latest?cb=20200430031437",
+    "choices": [
+      "Golden Apple",
+      "Golden Carrot",
+      "Golden Nugget",
+      "Golden Potato"
+    ],
+    "answer": "Golden Carrot"
   },
   {
     "question": "What is this mob called?",
     "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/b/b7/Vindicator_JE3.png/revision/latest?cb=20220611074851",
     "choices": [
       "Evoker",
-      "Vindicator",
       "Pillager",
-      "Illager"
+      "Vindicator",
+      "Illusioner"
     ],
     "answer": "Vindicator"
   },
   {
-    "question": "Which block is used to craft a smithing table?",
-    "choices": [
-      "Stone",
-      "Oak Planks",
-      "Iron Ingot",
-      "Obsidian"
-    ],
-    "answer": "Iron Ingot"
-  },
-  {
-    "question": "What is the main use of a brewing stand in Minecraft?",
-    "choices": [
-      "Repairing Tools",
-      "Smelting Ores",
-      "Cooking Food",
-      "Brewing Potions"
-    ],
-    "answer": "Brewing Potions"
-  },
-  {
-    "question": "Which of these items is used to create a potion of strength?",
-    "choices": [
-      "Ghast Tear",
-      "Blaze Powder",
-      "Magma Cream",
-      "Fermented Spider Eye"
-    ],
-    "answer": "Blaze Powder"
-  },
-  {
     "question": "What is this structure called?",
-    "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/6/6c/Ocean_Monument.png/revision/latest?cb=20200107060922",
+    "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/0/01/Plains_Small_House_3.png/revision/latest?cb=20190504112833",
     "choices": [
-      "Witch Hut",
-      "Stronghold",
-      "Ocean Monument",
-      "End City"
-    ],
-    "answer": "Ocean Monument"
-  },
-  {
-    "question": "Which block is used to create a blast furnace?",
-    "choices": [
-      "Iron Ingot",
-      "Furnace",
-      "Smoker",
-      "Smooth Stone"
-    ],
-    "answer": "Furnace"
-  },
-  {
-    "question": "What is the primary use of a lectern in Minecraft?",
-    "choices": [
-      "Storing Books",
-      "Reading Enchantments",
-      "Crafting Maps",
-      "Writing Books"
-    ],
-    "answer": "Reading Enchantments"
-  },
-  {
-    "question": "Which of these items is used to create a grindstone?",
-    "choices": [
-      "Smithing Table",
-      "Anvil",
-      "Stone",
-      "Wooden Planks"
-    ],
-    "answer": "Stone"
-  },
-  {
-    "question": "Which of these items is used to create a fletching table?",
-    "choices": [
-      "Feather",
-      "Arrow",
-      "String",
-      "Wooden Planks"
-    ],
-    "answer": "Wooden Planks"
-  },
-  {
-    "question": "What is the name of the item used to enchant tools and armor?",
-    "choices": [
-      "Enchanted Book",
-      "Bookshelf",
-      "Experience Bottle",
-      "Enchantment Table"
-    ],
-    "answer": "Enchantment Table"
-  },
-  {
-    "question": "Which of these items is used to create a loom?",
-    "choices": [
-      "String",
-      "Wool",
-      "Cotton",
-      "Silk"
-    ],
-    "answer": "String"
-  },
-  {
-    "question": "What is this structure called?",
-    "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/5/5d/Woodland_Mansion.png/revision/latest?cb=20200226143945",
-    "choices": [
-      "Jungle Temple",
       "Village",
-      "Woodland Mansion",
-      "Desert Temple"
+      "Pillager Outpost",
+      "Stronghold",
+      "Woodland Mansion"
     ],
-    "answer": "Woodland Mansion"
+    "answer": "Village"
   },
   {
-    "question": "Which block is used to create a cartography table?",
+    "question": "What is this block called?",
+    "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/9/99/Obsidian_JE3_BE2.png/revision/latest?cb=20200124042057",
     "choices": [
-      "Wooden Planks",
-      "Compass",
-      "Paper",
-      "Glass Pane"
+      "Obsidian",
+      "Blackstone",
+      "Bedrock",
+      "Coal Block"
     ],
-    "answer": "Wooden Planks"
+    "answer": "Obsidian"
   },
   {
-    "question": "What is the main use of a cartography table in Minecraft?",
+    "question": "What is this item called?",
+    "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/c/c6/Shield_JE2_BE1.png/revision/latest?cb=20190725172341",
     "choices": [
-      "Crafting Maps",
-      "Repairing Tools",
-      "Smelting Ores",
-      "Cooking Food"
+      "Bow",
+      "Crossbow",
+      "Trident",
+      "Shield"
     ],
-    "answer": "Crafting Maps"
+    "answer": "Shield"
   },
   {
-    "question": "Which of these items is used to create a fletching table?",
+    "question": "What is this mob called?",
+    "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/2/22/Silverfish_JE1_BE1.gif/revision/latest?cb=20200125235834",
     "choices": [
-      "Feather",
-      "Arrow",
-      "String",
-      "Wooden Planks"
+      "Endermite",
+      "Silverfish",
+      "Vex",
+      "Blaze"
     ],
-    "answer": "Wooden Planks"
+    "answer": "Silverfish"
   },
   {
     "question": "What is this structure called?",
-    "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/d/d2/Desert_pyramid_JE3_BE3.png/revision/latest?cb=20210711034046",
+    "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/e/e0/Igloo_top.png/revision/latest?cb=20230618223427",
     "choices": [
-      "Jungle Temple",
+      "Village",
+      "Witch Hut",
       "Igloo",
-      "Desert Pyramid",
-      "Ocean Monument"
+      "Stronghold"
     ],
-    "answer": "Desert Pyramid"
+    "answer": "Igloo"
   }
 ]

@@ -30,6 +30,13 @@ function getPage(url) {
     const output = [];
     
     let id = 1;
+    // for (const question of questions) {
+    //     if (question.image && question.image.length !== 0) {
+    //         question.image = "";
+    //         fs.writeFileSync(THEME+"/source.json", JSON.stringify(questions, null, 2));
+    //     }
+    // }
+    let imageQuestions = 0;
     for (const question of questions) {
         if (question.image === "") {
             const search = question.answer.replace(/ /g, "+");  
@@ -37,7 +44,14 @@ function getPage(url) {
             const searchPage = await getPage(url);
 
             const dom = new jsdom.JSDOM(searchPage);
-            const itemPage = dom.window.document.getElementsByClassName("unified-search__result__header").item(0).children[0].href;
+            const results = dom.window.document.getElementsByClassName("unified-search__result__header").item(0);
+            if (!results) {
+                console.log(question.question);
+                console.log(question.answer);
+                console.log("No search result")
+                continue;
+            }
+            const itemPage = results.children[0].href;
             const itemPageContent = await getPage(itemPage);
             const dom2 = new jsdom.JSDOM(itemPageContent);
             const underAnswer = question.answer.replace(/ /g, "_").toLowerCase();
@@ -57,15 +71,18 @@ function getPage(url) {
                 if (images.length > 0) {
                     const imageLink = images.item(0).children.item(0).href;
                     question.image = imageLink;
+                    imageQuestions++;
                 } else {
                     console.log(question.question);
                     console.log(question.answer);
                     console.log("  Item: " + itemPage);
                     console.log("  No images found: ");
                     console.log("\n-------");
-                }
+                } 
             }
             fs.writeFileSync(THEME+"/source.json", JSON.stringify(questions, null, 2));
+        } else if (question.image) {
+            imageQuestions++;
         }
         output.push({
             id: id++,
@@ -81,4 +98,5 @@ function getPage(url) {
     
     fs.writeFileSync(THEME+"/source.json", JSON.stringify(questions, null, 2));
     fs.writeFileSync(THEME+"/questions_en.json", JSON.stringify(output, null, 2));
+    console.log("Image questions: " + imageQuestions);
 })();

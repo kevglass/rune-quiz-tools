@@ -32,9 +32,6 @@ function download(url, filename, answer) {
 (async () => {
     const THEME = "minecraft";
 
-    // if (fs.existsSync(THEME+"/images")) {
-    //     fs.rmdirSync(THEME+"/images", { recursive: true, force: true });
-    // }
     if (!fs.existsSync(THEME+"/images")) {
         fs.mkdirSync(THEME+"/images");
     }
@@ -57,16 +54,5 @@ function download(url, filename, answer) {
         fs.writeFileSync(THEME+"/questions_"+lang+".json", JSON.stringify(questions, null, 2));
     }
 
-    // await processLang("en");
-    const questions = JSON.parse(fs.readFileSync(THEME+"/questions_en.json"));
-    const ru = JSON.parse(fs.readFileSync(THEME+"/questions_ru.json"));
-    const es = JSON.parse(fs.readFileSync(THEME+"/questions_es.json"));
-    const pt = JSON.parse(fs.readFileSync(THEME+"/questions_pt.json"));
-    console.log(questions.length, ru.length);
-    for (const q of questions) {
-        const index = questions.indexOf(q);
-        ru[index].image = questions[index].image;
-        pt[index].image = questions[index].image;
-        es[index].image = questions[index].image;
-    }
+    await processLang("en");
 })();
