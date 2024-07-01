@@ -1,7 +1,7 @@
 import * as fs from 'fs';
 import * as https from 'https';
 
-const THEME = "minecraft";
+const THEME = "pokemon";
 const TRANSLATE_ANSWERS = true;
 const translationKey2 = JSON.parse(fs.readFileSync("local.json").toString()).translate.key2;
 

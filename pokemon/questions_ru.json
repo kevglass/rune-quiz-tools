@@ -1,0 +1,2242 @@
+[
+  {
+    "id": 1,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Какой покемон известен как \"покемон-грязевик\"?",
+    "image": "pokemon/images/Swampert.png",
+    "incorrect_answers": [
+      "Мадкип",
+      "Марштомп",
+      "Wooper"
+    ],
+    "correct_answer": "Swampert"
+  },
+  {
+    "id": 2,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Определите этого легендарного покемона электрического типа.",
+    "image": "pokemon/images/Zapdos.png",
+    "incorrect_answers": [
+      "Райкоу",
+      "Джолтеон",
+      "Electivire"
+    ],
+    "correct_answer": "Запдос"
+  },
+  {
+    "id": 3,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Как называется этот покемон психического типа?",
+    "image": "pokemon/images/Abra.png",
+    "incorrect_answers": [
+      "Кадабра",
+      "Алаказам",
+      "Mewtwo"
+    ],
+    "correct_answer": "Абра"
+  },
+  {
+    "id": 4,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Этот покемон известен своей способностью к метаморфозам. Определите его.",
+    "image": "pokemon/images/Butterfree.png",
+    "incorrect_answers": [
+      "Metapod",
+      "Venonat",
+      "Silcoon"
+    ],
+    "correct_answer": "Без масла"
+  },
+  {
+    "id": 5,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Какой покемон является стартером огненного типа из региона Канто?",
+    "image": "pokemon/images/Charmander.png",
+    "incorrect_answers": [
+      "Синдакил",
+      "Torchic",
+      "Чимчар"
+    ],
+    "correct_answer": "Чармандер"
+  },
+  {
+    "id": 6,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Как называется этот покемон типа Фея?",
+    "image": "pokemon/images/Clefairy.png",
+    "incorrect_answers": [
+      "Clefable",
+      "Джиглипуфф",
+      "Тогепи"
+    ],
+    "correct_answer": "Clefairy"
+  },
+  {
+    "id": 7,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Определите этого покемона скального типа, известного своим твердым телом.",
+    "image": "pokemon/images/Onix.png",
+    "incorrect_answers": [
+      "Geodude",
+      "Рихорн",
+      "Кабуто"
+    ],
+    "correct_answer": "Оникс"
+  },
+  {
+    "id": 8,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Какой покемон относится к ледяному типу, известному как \"морозный покемон\"?",
+    "image": "pokemon/images/Articuno.png",
+    "incorrect_answers": [
+      "Glaceon",
+      "Фросласс",
+      "Риджис"
+    ],
+    "correct_answer": "Articuno"
+  },
+  {
+    "id": 9,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Как называется этот покемон призрачного/ядовитого типа?",
+    "image": "pokemon/images/Gengar.png",
+    "incorrect_answers": [
+      "Haunter",
+      "Gastly",
+      "Misdreavus"
+    ],
+    "correct_answer": "Генгар"
+  },
+  {
+    "id": 10,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Определите этого покемона наземного типа, известного своей скоростью.",
+    "image": "pokemon/images/Dugtrio.png",
+    "incorrect_answers": [
+      "Диглет",
+      "Сэндслэш",
+      "Голем"
+    ],
+    "correct_answer": "Dugtrio"
+  },
+  {
+    "id": 11,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Какой покемон нормального типа известен своим пением?",
+    "image": "pokemon/images/Wigglytuff.png",
+    "incorrect_answers": [
+      "Джиглипуфф",
+      "Clefable",
+      "Снорлакс"
+    ],
+    "correct_answer": "Виглитуф"
+  },
+  {
+    "id": 12,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Как называется этот стартовый покемон водного типа?",
+    "image": "pokemon/images/Squirtle.png",
+    "incorrect_answers": [
+      "Тотодил",
+      "Мадкип",
+      "Пиплуп"
+    ],
+    "correct_answer": "Сквиртл"
+  },
+  {
+    "id": 13,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Определите этого покемона ядовитого типа, известного своими многочисленными формами.",
+    "image": "pokemon/images/Muk.png",
+    "incorrect_answers": [
+      "Grimer",
+      "Коффинг",
+      "Weezing"
+    ],
+    "correct_answer": "Muk"
+  },
+  {
+    "id": 14,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Какой покемон относится к электрическому типу, известному своим высоким напряжением?",
+    "image": "pokemon/images/Electabuzz.png",
+    "incorrect_answers": [
+      "Electivire",
+      "Джолтеон",
+      "Запдос"
+    ],
+    "correct_answer": "Electabuzz"
+  },
+  {
+    "id": 15,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Как называется этот покемон типа жук/летун?",
+    "image": "pokemon/images/Scyther.png",
+    "incorrect_answers": [
+      "Без масла",
+      "Бидрилл",
+      "Yanmega"
+    ],
+    "correct_answer": "Scyther"
+  },
+  {
+    "id": 16,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Определите этого покемона психического типа, известного своим двойным мозгом.",
+    "image": "pokemon/images/Slowbro.png",
+    "incorrect_answers": [
+      "Slowpoke",
+      "Slowking",
+      "Экзеггутор"
+    ],
+    "correct_answer": "Slowbro"
+  },
+  {
+    "id": 17,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Какой покемон огненного типа известен своими жестокими сражениями?",
+    "image": "pokemon/images/Charizard.png",
+    "incorrect_answers": [
+      "Magmar",
+      "Блазикен",
+      "Moltres"
+    ],
+    "correct_answer": "Чаризард"
+  },
+  {
+    "id": 18,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Как называется этот покемон типа Дракон/Летающий?",
+    "image": "pokemon/images/Dragonite.png",
+    "incorrect_answers": [
+      "Саламенс",
+      "Rayquaza",
+      "Altaria"
+    ],
+    "correct_answer": "Драгонит"
+  },
+  {
+    "id": 19,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Определите этого покемона ледяного типа, известного своим грациозным плаванием.",
+    "image": "pokemon/images/Dewgong.png",
+    "incorrect_answers": [
+      "Лапрас",
+      "Seel",
+      "Клойстер"
+    ],
+    "correct_answer": "Дьюгонг"
+  },
+  {
+    "id": 20,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Какой покемон относится к стальному типу и известен своим магнитным телом?",
+    "image": "pokemon/images/Magnemite.png",
+    "incorrect_answers": [
+      "Магнетон",
+      "Steelix",
+      "Registeel"
+    ],
+    "correct_answer": "Магнемит"
+  },
+  {
+    "id": 21,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Как называется этот покемон водного/земляного типа?",
+    "image": "pokemon/images/Quagsire.png",
+    "incorrect_answers": [
+      "Wooper",
+      "Гастродон",
+      "Swampert"
+    ],
+    "correct_answer": "Квагсир"
+  },
+  {
+    "id": 22,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Определите этого покемона травянистого/ядовитого типа, известного своим цветком.",
+    "image": "pokemon/images/Vileplume.png",
+    "incorrect_answers": [
+      "Беллоссом",
+      "Roserade",
+      "Ивизавр"
+    ],
+    "correct_answer": "Vileplume"
+  },
+  {
+    "id": 23,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Какой покемон относится к наземному/каменистому типу, известному как \"бронированный покемон\"?",
+    "image": "pokemon/images/Onix.png",
+    "incorrect_answers": [
+      "Steelix",
+      "Райдон",
+      "Голем"
+    ],
+    "correct_answer": "Оникс"
+  },
+  {
+    "id": 24,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Как называется этот покемон призрачного/ядовитого типа?",
+    "image": "pokemon/images/Haunter.png",
+    "incorrect_answers": [
+      "Генгар",
+      "Gastly",
+      "Misdreavus"
+    ],
+    "correct_answer": "Haunter"
+  },
+  {
+    "id": 25,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Определите этого покемона нормального/летающего типа, известного своей скоростью.",
+    "image": "pokemon/images/Pidgey.png",
+    "incorrect_answers": [
+      "Pidgeotto",
+      "Pidgeot",
+      "Копье"
+    ],
+    "correct_answer": "Pidgey"
+  },
+  {
+    "id": 26,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Какой покемон относится к типу жуков, известных своей формой кокона?",
+    "image": "pokemon/images/Metapod.png",
+    "incorrect_answers": [
+      "Без масла",
+      "Какуна",
+      "Бидрилл"
+    ],
+    "correct_answer": "Metapod"
+  },
+  {
+    "id": 27,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Как называется этот покемон электрического типа, известный своими защечными мешочками?",
+    "image": "pokemon/images/Pikachu.png",
+    "incorrect_answers": [
+      "Райчу",
+      "Пачирису",
+      "Эмольга"
+    ],
+    "correct_answer": "Пикачу"
+  },
+  {
+    "id": 28,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Определите этого покемона психического типа, известного своим высоким интеллектом.",
+    "image": "pokemon/images/Mewtwo.png",
+    "incorrect_answers": [
+      "Алаказам",
+      "Эспеон",
+      "Celebi"
+    ],
+    "correct_answer": "Mewtwo"
+  },
+  {
+    "id": 29,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Какой покемон нормального типа известен своими многочисленными хвостами?",
+    "image": "pokemon/images/Raticate.png",
+    "incorrect_answers": [
+      "Rattata",
+      "Eevee",
+      "Furret"
+    ],
+    "correct_answer": "Ратикат"
+  },
+  {
+    "id": 30,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Как зовут этого покемона типа Фея, известного своей очаровательной внешностью?",
+    "image": "pokemon/images/Clefairy.png",
+    "incorrect_answers": [
+      "Clefable",
+      "Джиглипуфф",
+      "Виглитуф"
+    ],
+    "correct_answer": "Clefairy"
+  },
+  {
+    "id": 31,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Определите этого покемона драконьего типа, известного своими мистическими способностями.",
+    "image": "pokemon/images/Dragonite.png",
+    "incorrect_answers": [
+      "Дратини",
+      "Dragonair",
+      "Altaria"
+    ],
+    "correct_answer": "Драгонит"
+  },
+  {
+    "id": 32,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Какой покемон относится к рок-типу, известному своей панцирной броней?",
+    "image": "pokemon/images/Cloyster.png",
+    "incorrect_answers": [
+      "Шелдер",
+      "Кабуто",
+      "Кабутопс"
+    ],
+    "correct_answer": "Клойстер"
+  },
+  {
+    "id": 33,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Как называется этот покемон ледяного типа, известный своим холодным дыханием?",
+    "image": "pokemon/images/Jynx.png",
+    "incorrect_answers": [
+      "Articuno",
+      "Лапрас",
+      "Дьюгонг"
+    ],
+    "correct_answer": "Jynx"
+  },
+  {
+    "id": 34,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Определите этого покемона травянистого типа, известного своей атакой \"лист бритвы\".",
+    "image": "pokemon/images/Ivysaur.png",
+    "incorrect_answers": [
+      "Бульбасаур",
+      "Венузавр",
+      "Oddish"
+    ],
+    "correct_answer": "Ивизавр"
+  },
+  {
+    "id": 35,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Какой покемон водного типа известен своей реактивной тягой?",
+    "image": "pokemon/images/Blastoise.png",
+    "incorrect_answers": [
+      "Вартортл",
+      "Сквиртл",
+      "Psyduck"
+    ],
+    "correct_answer": "Blastoise"
+  },
+  {
+    "id": 36,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Как зовут этого покемона огненного типа, известного своим огненным хвостом?",
+    "image": "pokemon/images/Cyndaquil.png",
+    "incorrect_answers": [
+      "Килава",
+      "Typhlosion",
+      "Чармандер"
+    ],
+    "correct_answer": "Синдакил"
+  },
+  {
+    "id": 37,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Определите этого покемона типа \"жук\", известного своими метаморфозами.",
+    "image": "pokemon/images/Caterpie.png",
+    "incorrect_answers": [
+      "Metapod",
+      "Без масла",
+      "Прополка"
+    ],
+    "correct_answer": "Катерпи"
+  },
+  {
+    "id": 38,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Какой покемон наземного типа известен своими способностями к копанию?",
+    "image": "pokemon/images/Diglett.png",
+    "incorrect_answers": [
+      "Dugtrio",
+      "Sandshrew",
+      "Сэндслэш"
+    ],
+    "correct_answer": "Диглет"
+  },
+  {
+    "id": 39,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Как называется этот покемон призрачного типа, известный своими призраками?",
+    "image": "pokemon/images/Gengar.png",
+    "incorrect_answers": [
+      "Haunter",
+      "Gastly",
+      "Misdreavus"
+    ],
+    "correct_answer": "Генгар"
+  },
+  {
+    "id": 40,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Определите этого покемона ядовитого типа, известного своим токсичным газом.",
+    "image": "pokemon/images/Koffing.png",
+    "incorrect_answers": [
+      "Weezing",
+      "Grimer",
+      "Muk"
+    ],
+    "correct_answer": "Коффинг"
+  },
+  {
+    "id": 41,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Какой покемон электрического типа известен тем, что вырабатывает электричество?",
+    "image": "pokemon/images/Electabuzz.png",
+    "incorrect_answers": [
+      "Electivire",
+      "Пикачу",
+      "Джолтеон"
+    ],
+    "correct_answer": "Electabuzz"
+  },
+  {
+    "id": 42,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Как зовут этого покемона водного типа, известного своим мягким характером?",
+    "image": "pokemon/images/Vaporeon.png",
+    "incorrect_answers": [
+      "Джолтеон",
+      "Flareon",
+      "Эспеон"
+    ],
+    "correct_answer": "Вапореон"
+  },
+  {
+    "id": 43,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Определите этого покемона ледяного типа, известного своим ледяным дыханием.",
+    "image": "pokemon/images/Dewgong.png",
+    "incorrect_answers": [
+      "Seel",
+      "Клойстер",
+      "Лапрас"
+    ],
+    "correct_answer": "Дьюгонг"
+  },
+  {
+    "id": 44,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Какой покемон относится к типу травянистых и известен своим успокаивающим ароматом?",
+    "image": "pokemon/images/Oddish.png",
+    "incorrect_answers": [
+      "Мрак",
+      "Vileplume",
+      "Беллоссом"
+    ],
+    "correct_answer": "Oddish"
+  },
+  {
+    "id": 45,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Как называется этот покемон экстрасенсорного типа, известный своей высокой психической силой?",
+    "image": "pokemon/images/Alakazam.png",
+    "incorrect_answers": [
+      "Кадабра",
+      "Абра",
+      "Эспеон"
+    ],
+    "correct_answer": "Алаказам"
+  },
+  {
+    "id": 46,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Определите этого покемона нормального типа, известного своей высокой скоростью.",
+    "image": "pokemon/images/Pidgeot.png",
+    "incorrect_answers": [
+      "Pidgeotto",
+      "Pidgey",
+      "Копье"
+    ],
+    "correct_answer": "Pidgeot"
+  },
+  {
+    "id": 47,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Какой покемон огненного типа известен своей огненной гривой?",
+    "image": "pokemon/images/Arcanine.png",
+    "incorrect_answers": [
+      "Growlithe",
+      "Чаризард",
+      "Ninetales"
+    ],
+    "correct_answer": "Арканин"
+  },
+  {
+    "id": 48,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Как называется этот покемон типа \"жук\", известный своим острым жалом?",
+    "image": "pokemon/images/Beedrill.png",
+    "incorrect_answers": [
+      "Без масла",
+      "Какуна",
+      "Прополка"
+    ],
+    "correct_answer": "Бидрилл"
+  },
+  {
+    "id": 49,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Определите этого покемона типа Фея, известного своим чарующим певческим голосом.",
+    "image": "pokemon/images/Clefairy.png",
+    "incorrect_answers": [
+      "Clefable",
+      "Джиглипуфф",
+      "Виглитуф"
+    ],
+    "correct_answer": "Clefairy"
+  },
+  {
+    "id": 50,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Какой покемон относится к боевому типу, известному своими мощными ударами?",
+    "image": "pokemon/images/Hitmonchan.png",
+    "incorrect_answers": [
+      "Hitmonlee",
+      "Мачоп",
+      "Мачамп"
+    ],
+    "correct_answer": "Хитмончан"
+  },
+  {
+    "id": 51,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Как называется этот покемон электрического типа, известный своими электрическими мешками?",
+    "image": "pokemon/images/Electabuzz.png",
+    "incorrect_answers": [
+      "Электрод",
+      "Пикачу",
+      "Райчу"
+    ],
+    "correct_answer": "Electabuzz"
+  },
+  {
+    "id": 52,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Определите этого покемона травянистого типа, известного своими лозовыми хлыстами.",
+    "image": "pokemon/images/Venusaur.png",
+    "incorrect_answers": [
+      "Ивизавр",
+      "Бульбасаур",
+      "Oddish"
+    ],
+    "correct_answer": "Венузавр"
+  },
+  {
+    "id": 53,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Какой покемон относится к рок-типу, известному своим телом, похожим на валун?",
+    "image": "pokemon/images/Graveler.png",
+    "incorrect_answers": [
+      "Geodude",
+      "Оникс",
+      "Рихорн"
+    ],
+    "correct_answer": "Гравелер"
+  },
+  {
+    "id": 54,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Как называется этот покемон водного типа, известный своим быстрым плаванием?",
+    "image": "pokemon/images/Goldeen.png",
+    "incorrect_answers": [
+      "Seaking",
+      "Магикарп",
+      "Gyarados"
+    ],
+    "correct_answer": "Голдин"
+  },
+  {
+    "id": 55,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Определите этого покемона ядовитого типа, известного своими токсичными атаками.",
+    "image": "pokemon/images/Weezing.png",
+    "incorrect_answers": [
+      "Коффинг",
+      "Grimer",
+      "Muk"
+    ],
+    "correct_answer": "Weezing"
+  },
+  {
+    "id": 56,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Какой покемон наземного типа известен своими атаками землетрясения?",
+    "image": "pokemon/images/Rhydon.png",
+    "incorrect_answers": [
+      "Рихорн",
+      "Оникс",
+      "Голем"
+    ],
+    "correct_answer": "Райдон"
+  },
+  {
+    "id": 57,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Как называется этот покемон ледяного типа, известный своим морозным дыханием?",
+    "image": "pokemon/images/Dewgong.png",
+    "incorrect_answers": [
+      "Seel",
+      "Клойстер",
+      "Лапрас"
+    ],
+    "correct_answer": "Дьюгонг"
+  },
+  {
+    "id": 58,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Определите этого покемона экстрасенсорного типа, известного своими психическими способностями.",
+    "image": "pokemon/images/Drowzee.png",
+    "incorrect_answers": [
+      "Гипно",
+      "Абра",
+      "Кадабра"
+    ],
+    "correct_answer": "Drowzee"
+  },
+  {
+    "id": 59,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Какой покемон относится к типу жуков, известных своими шелковыми атаками?",
+    "image": "pokemon/images/Kakuna.png",
+    "incorrect_answers": [
+      "Бидрилл",
+      "Без масла",
+      "Прополка"
+    ],
+    "correct_answer": "Какуна"
+  },
+  {
+    "id": 60,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Как называется этот покемон нормального типа, известный своей ловкостью?",
+    "image": "pokemon/images/Rattata.png",
+    "incorrect_answers": [
+      "Ратикат",
+      "Копье",
+      "Pidgey"
+    ],
+    "correct_answer": "Rattata"
+  },
+  {
+    "id": 61,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Определите этого покемона огненного типа, известного своим палящим пламенем.",
+    "image": "pokemon/images/Charmeleon.png",
+    "incorrect_answers": [
+      "Чаризард",
+      "Vulpix",
+      "Ninetales"
+    ],
+    "correct_answer": "Чармелеон"
+  },
+  {
+    "id": 62,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Какой покемон водного типа известен своими струйными брызгами?",
+    "image": "pokemon/images/Squirtle.png",
+    "incorrect_answers": [
+      "Вартортл",
+      "Blastoise",
+      "Psyduck"
+    ],
+    "correct_answer": "Сквиртл"
+  },
+  {
+    "id": 63,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Как называется этот покемон электрического типа, известный своими шокирующими атаками?",
+    "image": "pokemon/images/Voltorb.png",
+    "incorrect_answers": [
+      "Электрод",
+      "Пикачу",
+      "Райчу"
+    ],
+    "correct_answer": "Voltorb"
+  },
+  {
+    "id": 64,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Определите этого покемона наземного типа, известного своей способностью зарываться в землю.",
+    "image": "pokemon/images/Diglett.png",
+    "incorrect_answers": [
+      "Dugtrio",
+      "Sandshrew",
+      "Сэндслэш"
+    ],
+    "correct_answer": "Диглет"
+  },
+  {
+    "id": 65,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Какой покемон относится к типу травянистых и известен своими атаками по листьям?",
+    "image": "pokemon/images/Ivysaur.png",
+    "incorrect_answers": [
+      "Венузавр",
+      "Бульбасаур",
+      "Беллспраут"
+    ],
+    "correct_answer": "Ивизавр"
+  },
+  {
+    "id": 66,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Как называется этот покемон экстрасенсорного типа, известный своими телекинетическими способностями?",
+    "image": "pokemon/images/Kadabra.png",
+    "incorrect_answers": [
+      "Алаказам",
+      "Абра",
+      "Эспеон"
+    ],
+    "correct_answer": "Кадабра"
+  },
+  {
+    "id": 68,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Какой покемон относится к рок-типу, известному своим твердым панцирем?",
+    "image": "pokemon/images/Geodude.png",
+    "incorrect_answers": [
+      "Гравелер",
+      "Голем",
+      "Оникс"
+    ],
+    "correct_answer": "Geodude"
+  },
+  {
+    "id": 69,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Как называется этот покемон водного типа, известный своей способностью плавать?",
+    "image": "pokemon/images/Horsea.png",
+    "incorrect_answers": [
+      "Сеадра",
+      "Голдин",
+      "Seaking"
+    ],
+    "correct_answer": "Хорса"
+  },
+  {
+    "id": 70,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Назовите этого покемона ядовитого типа, известного своей токсичностью.",
+    "image": "pokemon/images/Grimer.png",
+    "incorrect_answers": [
+      "Muk",
+      "Коффинг",
+      "Weezing"
+    ],
+    "correct_answer": "Grimer"
+  },
+  {
+    "id": 71,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Какой покемон огненного типа известен своим огненным дыханием?",
+    "image": "pokemon/images/Rapidash.png",
+    "incorrect_answers": [
+      "Ponyta",
+      "Чаризард",
+      "Арканин"
+    ],
+    "correct_answer": "Рапидаш"
+  },
+  {
+    "id": 72,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Как называется этот покемон ледяного типа, известный своим ледяным покрытием?",
+    "image": "pokemon/images/Cloyster.png",
+    "incorrect_answers": [
+      "Дьюгонг",
+      "Лапрас",
+      "Articuno"
+    ],
+    "correct_answer": "Клойстер"
+  },
+  {
+    "id": 73,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Определите этого покемона травянистого типа, известного своим успокаивающим ароматом.",
+    "image": "pokemon/images/Vileplume.png",
+    "incorrect_answers": [
+      "Oddish",
+      "Мрак",
+      "Беллоссом"
+    ],
+    "correct_answer": "Vileplume"
+  },
+  {
+    "id": 74,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Какой покемон относится к психическому типу, известному своими мистическими способностями?",
+    "image": "pokemon/images/Drowzee.png",
+    "incorrect_answers": [
+      "Гипно",
+      "Mewtwo",
+      "Алаказам"
+    ],
+    "correct_answer": "Drowzee"
+  },
+  {
+    "id": 75,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Как называется этот покемон типа \"жук\", известный своими жалящими атаками?",
+    "image": "pokemon/images/Beedrill.png",
+    "incorrect_answers": [
+      "Без масла",
+      "Какуна",
+      "Прополка"
+    ],
+    "correct_answer": "Бидрилл"
+  },
+  {
+    "id": 76,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Определите этого покемона огненного типа, известного своим сильным жаром.",
+    "image": "pokemon/images/Arcanine.png",
+    "incorrect_answers": [
+      "Growlithe",
+      "Чаризард",
+      "Ninetales"
+    ],
+    "correct_answer": "Арканин"
+  },
+  {
+    "id": 77,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Какой покемон водного типа известен своим элегантным плаванием?",
+    "image": "pokemon/images/Vaporeon.png",
+    "incorrect_answers": [
+      "Голдин",
+      "Seaking",
+      "Milotic"
+    ],
+    "correct_answer": "Вапореон"
+  },
+  {
+    "id": 78,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Как называется этот покемон электрического типа, известный своей потрясающей скоростью?",
+    "image": "pokemon/images/Pikachu.png",
+    "incorrect_answers": [
+      "Райчу",
+      "Electabuzz",
+      "Джолтеон"
+    ],
+    "correct_answer": "Пикачу"
+  },
+  {
+    "id": 79,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Определите этого покемона нормального типа, известного своими быстрыми движениями.",
+    "image": "pokemon/images/Rattata.png",
+    "incorrect_answers": [
+      "Ратикат",
+      "Pidgey",
+      "Копье"
+    ],
+    "correct_answer": "Rattata"
+  },
+  {
+    "id": 80,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Какой покемон наземного типа известен своим мощным копанием?",
+    "image": "pokemon/images/Diglett.png",
+    "incorrect_answers": [
+      "Dugtrio",
+      "Sandshrew",
+      "Сэндслэш"
+    ],
+    "correct_answer": "Диглет"
+  },
+  {
+    "id": 81,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Как зовут этого покемона типа Фея, известного своими магическими способностями?",
+    "image": "pokemon/images/Clefairy.png",
+    "incorrect_answers": [
+      "Clefable",
+      "Джиглипуфф",
+      "Виглитуф"
+    ],
+    "correct_answer": "Clefairy"
+  },
+  {
+    "id": 82,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Определите этого покемона скального типа, известного своим грубым телом.",
+    "image": "pokemon/images/Geodude.png",
+    "incorrect_answers": [
+      "Гравелер",
+      "Оникс",
+      "Рихорн"
+    ],
+    "correct_answer": "Geodude"
+  },
+  {
+    "id": 83,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Какой покемон относится к типу жуков, известных своим твердым панцирем?",
+    "image": "pokemon/images/Metapod.png",
+    "incorrect_answers": [
+      "Какуна",
+      "Без масла",
+      "Бидрилл"
+    ],
+    "correct_answer": "Metapod"
+  },
+  {
+    "id": 84,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Как называется этот покемон экстрасенсорного типа, известный своей невероятной психической силой?",
+    "image": "pokemon/images/Alakazam.png",
+    "incorrect_answers": [
+      "Кадабра",
+      "Абра",
+      "Эспеон"
+    ],
+    "correct_answer": "Алаказам"
+  },
+  {
+    "id": 85,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Определите этого покемона огненного типа, известного своим огненным хвостом.",
+    "image": "pokemon/images/Charmander.png",
+    "incorrect_answers": [
+      "Чармелеон",
+      "Чаризард",
+      "Vulpix"
+    ],
+    "correct_answer": "Чармандер"
+  },
+  {
+    "id": 86,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Какой покемон водного типа известен своим панцирем?",
+    "image": "pokemon/images/Squirtle.png",
+    "incorrect_answers": [
+      "Вартортл",
+      "Blastoise",
+      "Лапрас"
+    ],
+    "correct_answer": "Сквиртл"
+  },
+  {
+    "id": 87,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Как зовут этого покемона ледяного типа, известного своим холодным нравом?",
+    "image": "pokemon/images/Jynx.png",
+    "incorrect_answers": [
+      "Articuno",
+      "Лапрас",
+      "Дьюгонг"
+    ],
+    "correct_answer": "Jynx"
+  },
+  {
+    "id": 88,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Определите этого покемона травянистого типа, известного своим лиственным телом.",
+    "image": "pokemon/images/Bulbasaur.png",
+    "incorrect_answers": [
+      "Ивизавр",
+      "Венузавр",
+      "Oddish"
+    ],
+    "correct_answer": "Бульбасаур"
+  },
+  {
+    "id": 89,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Какой покемон наземного типа известен своими большими клыками?",
+    "image": "pokemon/images/Rhyhorn.png",
+    "incorrect_answers": [
+      "Райдон",
+      "Донфан",
+      "Мамосвайн"
+    ],
+    "correct_answer": "Рихорн"
+  },
+  {
+    "id": 90,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Как называется этот покемон электрического типа, известный своими электрическими разрядами?",
+    "image": "pokemon/images/Jolteon.png",
+    "incorrect_answers": [
+      "Electivire",
+      "Райчу",
+      "Запдос"
+    ],
+    "correct_answer": "Джолтеон"
+  },
+  {
+    "id": 91,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Определите этого покемона нормального типа, известного своей огромной скоростью.",
+    "image": "pokemon/images/Pidgeot.png",
+    "incorrect_answers": [
+      "Pidgeotto",
+      "Fearow",
+      "Копье"
+    ],
+    "correct_answer": "Pidgeot"
+  },
+  {
+    "id": 92,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Какой покемон относится к ядовитому типу, известному своим ядовитым жалом?",
+    "image": "pokemon/images/Beedrill.png",
+    "incorrect_answers": [
+      "Прополка",
+      "Какуна",
+      "Venomoth"
+    ],
+    "correct_answer": "Бидрилл"
+  },
+  {
+    "id": 93,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Как называется этот покемон огненного типа, известный своим сильным пламенем?",
+    "image": "pokemon/images/Charizard.png",
+    "incorrect_answers": [
+      "Чармелеон",
+      "Чармандер",
+      "Moltres"
+    ],
+    "correct_answer": "Чаризард"
+  },
+  {
+    "id": 94,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Определите этого покемона водного типа, известного своей мощной гидропомпой.",
+    "image": "pokemon/images/Blastoise.png",
+    "incorrect_answers": [
+      "Вартортл",
+      "Сквиртл",
+      "Gyarados"
+    ],
+    "correct_answer": "Blastoise"
+  },
+  {
+    "id": 95,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Какой покемон ледяного типа известен своим ледяным лучом?",
+    "image": "pokemon/images/Dewgong.png",
+    "incorrect_answers": [
+      "Клойстер",
+      "Лапрас",
+      "Articuno"
+    ],
+    "correct_answer": "Дьюгонг"
+  },
+  {
+    "id": 96,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Как называется этот покемон типа \"жук\", известный своей ловкостью?",
+    "image": "pokemon/images/Butterfree.png",
+    "incorrect_answers": [
+      "Бидрилл",
+      "Scyther",
+      "Venomoth"
+    ],
+    "correct_answer": "Без масла"
+  },
+  {
+    "id": 97,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Определите этого покемона травянистого типа, известного своими спорами.",
+    "image": "pokemon/images/Vileplume.png",
+    "incorrect_answers": [
+      "Oddish",
+      "Мрак",
+      "Беллоссом"
+    ],
+    "correct_answer": "Vileplume"
+  },
+  {
+    "id": 98,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Какой покемон относится к рок-типу, известному своим грубым телом?",
+    "image": "pokemon/images/Geodude.png",
+    "incorrect_answers": [
+      "Гравелер",
+      "Голем",
+      "Оникс"
+    ],
+    "correct_answer": "Geodude"
+  },
+  {
+    "id": 99,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Как называется этот покемон водного типа, известный своими быстрыми движениями?",
+    "image": "pokemon/images/Vaporeon.png",
+    "incorrect_answers": [
+      "Голдин",
+      "Seaking",
+      "Milotic"
+    ],
+    "correct_answer": "Вапореон"
+  },
+  {
+    "id": 100,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Определите этого покемона электрического типа, известного своей молниеносной скоростью.",
+    "image": "pokemon/images/Jolteon.png",
+    "incorrect_answers": [
+      "Electabuzz",
+      "Запдос",
+      "Райкоу"
+    ],
+    "correct_answer": "Джолтеон"
+  },
+  {
+    "id": 101,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Какой покемон относится к типу фей и известен своим чарующим голосом?",
+    "image": "pokemon/images/Jigglypuff.png",
+    "incorrect_answers": [
+      "Виглитуф",
+      "Clefairy",
+      "Clefable"
+    ],
+    "correct_answer": "Джиглипуфф"
+  },
+  {
+    "id": 102,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Как зовут этого покемона ледяного типа, известного своим холодным характером?",
+    "image": "pokemon/images/Jynx.png",
+    "incorrect_answers": [
+      "Articuno",
+      "Лапрас",
+      "Дьюгонг"
+    ],
+    "correct_answer": "Jynx"
+  },
+  {
+    "id": 103,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Определите этого покемона травянистого типа, известного своими лианами.",
+    "image": "pokemon/images/Venusaur.png",
+    "incorrect_answers": [
+      "Ивизавр",
+      "Бульбасаур",
+      "Беллспраут"
+    ],
+    "correct_answer": "Венузавр"
+  },
+  {
+    "id": 104,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Какой покемон наземного типа известен своими топающими атаками?",
+    "image": "pokemon/images/Rhydon.png",
+    "incorrect_answers": [
+      "Рихорн",
+      "Донфан",
+      "Мамосвайн"
+    ],
+    "correct_answer": "Райдон"
+  },
+  {
+    "id": 105,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Как называется этот покемон скального типа, известный своей защитной оболочкой?",
+    "image": "pokemon/images/Cloyster.png",
+    "incorrect_answers": [
+      "Шелдер",
+      "Кабуто",
+      "Кабутопс"
+    ],
+    "correct_answer": "Клойстер"
+  },
+  {
+    "id": 106,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Определите этого покемона нормального типа, известного своей быстротой.",
+    "image": "pokemon/images/Rattata.png",
+    "incorrect_answers": [
+      "Ратикат",
+      "Pidgey",
+      "Копье"
+    ],
+    "correct_answer": "Rattata"
+  },
+  {
+    "id": 107,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Какой покемон относится к электрическому типу, известному своими искровыми атаками?",
+    "image": "pokemon/images/Pikachu.png",
+    "incorrect_answers": [
+      "Райчу",
+      "Electabuzz",
+      "Джолтеон"
+    ],
+    "correct_answer": "Пикачу"
+  },
+  {
+    "id": 108,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Как называется этот покемон водного типа, известный своими брызгами?",
+    "image": "pokemon/images/Magikarp.png",
+    "incorrect_answers": [
+      "Gyarados",
+      "Feebas",
+      "Milotic"
+    ],
+    "correct_answer": "Магикарп"
+  },
+  {
+    "id": 109,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Определите этого покемона огненного типа, известного своим палящим пламенем.",
+    "image": "pokemon/images/Rapidash.png",
+    "incorrect_answers": [
+      "Ponyta",
+      "Чаризард",
+      "Арканин"
+    ],
+    "correct_answer": "Рапидаш"
+  },
+  {
+    "id": 110,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Какой покемон относится к ядовитому типу, известному своим ядом?",
+    "image": "pokemon/images/Grimer.png",
+    "incorrect_answers": [
+      "Muk",
+      "Коффинг",
+      "Weezing"
+    ],
+    "correct_answer": "Grimer"
+  },
+  {
+    "id": 111,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Как зовут этого покемона типа \"жук\", известного своими острыми клешнями?",
+    "image": "pokemon/images/Pinsir.png",
+    "incorrect_answers": [
+      "Scyther",
+      "Геракросс",
+      "Бидрилл"
+    ],
+    "correct_answer": "Пинсир"
+  },
+  {
+    "id": 112,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Определите этого покемона водного типа, известного своим мощным хвостом.",
+    "image": "pokemon/images/Gyarados.png",
+    "incorrect_answers": [
+      "Магикарп",
+      "Сеадра",
+      "Milotic"
+    ],
+    "correct_answer": "Gyarados"
+  },
+  {
+    "id": 113,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Какой покемон ледяного типа известен своей ледяной чешуей?",
+    "image": "pokemon/images/Dewgong.png",
+    "incorrect_answers": [
+      "Клойстер",
+      "Лапрас",
+      "Articuno"
+    ],
+    "correct_answer": "Дьюгонг"
+  },
+  {
+    "id": 114,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Как называется этот покемон электрического типа, известный своей электрической мощностью?",
+    "image": "pokemon/images/Voltorb.png",
+    "incorrect_answers": [
+      "Электрод",
+      "Магнемит",
+      "Магнетон"
+    ],
+    "correct_answer": "Voltorb"
+  },
+  {
+    "id": 115,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Определите этого покемона травянистого типа, известного своими листовидными придатками.",
+    "image": "pokemon/images/Bulbasaur.png",
+    "incorrect_answers": [
+      "Ивизавр",
+      "Венузавр",
+      "Oddish"
+    ],
+    "correct_answer": "Бульбасаур"
+  },
+  {
+    "id": 116,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Какой покемон относится к рок-типу, известному своим твердым телом?",
+    "image": "pokemon/images/Geodude.png",
+    "incorrect_answers": [
+      "Гравелер",
+      "Голем",
+      "Оникс"
+    ],
+    "correct_answer": "Geodude"
+  },
+  {
+    "id": 117,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Как называется этот покемон водного типа, известный своей ловкостью в воде?",
+    "image": "pokemon/images/Squirtle.png",
+    "incorrect_answers": [
+      "Вартортл",
+      "Blastoise",
+      "Лапрас"
+    ],
+    "correct_answer": "Сквиртл"
+  },
+  {
+    "id": 118,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Определите этого покемона ядовитого типа, известного своими токсичными способностями.",
+    "image": "pokemon/images/Muk.png",
+    "incorrect_answers": [
+      "Grimer",
+      "Коффинг",
+      "Weezing"
+    ],
+    "correct_answer": "Muk"
+  },
+  {
+    "id": 119,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Какой покемон огненного типа известен своей огненной гривой?",
+    "image": "pokemon/images/Growlithe.png",
+    "incorrect_answers": [
+      "Арканин",
+      "Vulpix",
+      "Ninetales"
+    ],
+    "correct_answer": "Growlithe"
+  },
+  {
+    "id": 120,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Как называется этот покемон ледяного типа, известный своими замораживающими способностями?",
+    "image": "pokemon/images/Jynx.png",
+    "incorrect_answers": [
+      "Articuno",
+      "Лапрас",
+      "Дьюгонг"
+    ],
+    "correct_answer": "Jynx"
+  },
+  {
+    "id": 121,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Определите этого покемона травяного типа, известного своими острыми листьями.",
+    "image": "pokemon/images/Ivysaur.png",
+    "incorrect_answers": [
+      "Венузавр",
+      "Бульбасаур",
+      "Беллспраут"
+    ],
+    "correct_answer": "Ивизавр"
+  },
+  {
+    "id": 122,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Какой покемон наземного типа известен своим каменно-твердым телом?",
+    "image": "pokemon/images/Onix.png",
+    "incorrect_answers": [
+      "Steelix",
+      "Geodude",
+      "Гравелер"
+    ],
+    "correct_answer": "Оникс"
+  },
+  {
+    "id": 123,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Как называется этот покемон электрического типа, известный своими электрическими разрядами?",
+    "image": "pokemon/images/Electabuzz.png",
+    "incorrect_answers": [
+      "Electivire",
+      "Пикачу",
+      "Райчу"
+    ],
+    "correct_answer": "Electabuzz"
+  },
+  {
+    "id": 124,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Определите этого покемона водного типа, известного своим обтекаемым телом.",
+    "image": "pokemon/images/Magikarp.png",
+    "incorrect_answers": [
+      "Gyarados",
+      "Milotic",
+      "Seaking"
+    ],
+    "correct_answer": "Магикарп"
+  },
+  {
+    "id": 125,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Какой покемон относится к типу Огня и известен своей сильной жарой?",
+    "image": "pokemon/images/Charizard.png",
+    "incorrect_answers": [
+      "Чармандер",
+      "Чармелеон",
+      "Moltres"
+    ],
+    "correct_answer": "Чаризард"
+  },
+  {
+    "id": 126,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Как называется этот покемон ледяного типа, известный своими ледяными движениями?",
+    "image": "pokemon/images/Dewgong.png",
+    "incorrect_answers": [
+      "Клойстер",
+      "Лапрас",
+      "Articuno"
+    ],
+    "correct_answer": "Дьюгонг"
+  },
+  {
+    "id": 127,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Определите этого покемона типа \"жук\", известного своими жалящими атаками.",
+    "image": "pokemon/images/Beedrill.png",
+    "incorrect_answers": [
+      "Без масла",
+      "Scyther",
+      "Пинсир"
+    ],
+    "correct_answer": "Бидрилл"
+  },
+  {
+    "id": 128,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Какой покемон относится к типу травянистых и известен своими лечебными способностями?",
+    "image": "pokemon/images/Venusaur.png",
+    "incorrect_answers": [
+      "Ивизавр",
+      "Бульбасаур",
+      "Беллоссом"
+    ],
+    "correct_answer": "Венузавр"
+  },
+  {
+    "id": 130,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Определите этого покемона электрического типа, известного своим высоким напряжением.",
+    "image": "pokemon/images/Jolteon.png",
+    "incorrect_answers": [
+      "Flareon",
+      "Вапореон",
+      "Эспеон"
+    ],
+    "correct_answer": "Джолтеон"
+  },
+  {
+    "id": 131,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Какой покемон относится к типу фей и известен своей очаровательной внешностью?",
+    "image": "pokemon/images/Clefairy.png",
+    "incorrect_answers": [
+      "Clefable",
+      "Джиглипуфф",
+      "Виглитуф"
+    ],
+    "correct_answer": "Clefairy"
+  },
+  {
+    "id": 132,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Как зовут этого покемона ледяного типа, известного своим морозным телом?",
+    "image": "pokemon/images/Jynx.png",
+    "incorrect_answers": [
+      "Articuno",
+      "Лапрас",
+      "Дьюгонг"
+    ],
+    "correct_answer": "Jynx"
+  },
+  {
+    "id": 133,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Определите этого покемона травянистого типа, известного своей лиственной кожей.",
+    "image": "pokemon/images/Bulbasaur.png",
+    "incorrect_answers": [
+      "Ивизавр",
+      "Венузавр",
+      "Oddish"
+    ],
+    "correct_answer": "Бульбасаур"
+  },
+  {
+    "id": 134,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Какой покемон относится к рок-типу, известному своим твердым телом?",
+    "image": "pokemon/images/Geodude.png",
+    "incorrect_answers": [
+      "Гравелер",
+      "Голем",
+      "Оникс"
+    ],
+    "correct_answer": "Geodude"
+  },
+  {
+    "id": 135,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Как называется этот покемон водного типа, известный своими водными качествами?",
+    "image": "pokemon/images/Squirtle.png",
+    "incorrect_answers": [
+      "Вартортл",
+      "Blastoise",
+      "Лапрас"
+    ],
+    "correct_answer": "Сквиртл"
+  },
+  {
+    "id": 136,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Определите этого покемона ядовитого типа, известного своими ядовитыми способностями.",
+    "image": "pokemon/images/Grimer.png",
+    "incorrect_answers": [
+      "Muk",
+      "Коффинг",
+      "Weezing"
+    ],
+    "correct_answer": "Grimer"
+  },
+  {
+    "id": 137,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Какой покемон огненного типа известен своей молниеносной скоростью?",
+    "image": "pokemon/images/Growlithe.png",
+    "incorrect_answers": [
+      "Арканин",
+      "Vulpix",
+      "Ninetales"
+    ],
+    "correct_answer": "Growlithe"
+  },
+  {
+    "id": 138,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Как называется этот покемон ледяного типа, известный своей ледяной шкурой?",
+    "image": "pokemon/images/Jynx.png",
+    "incorrect_answers": [
+      "Articuno",
+      "Лапрас",
+      "Дьюгонг"
+    ],
+    "correct_answer": "Jynx"
+  },
+  {
+    "id": 139,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Определите этого покемона травянистого типа, известного своими виноградоподобными придатками.",
+    "image": "pokemon/images/Ivysaur.png",
+    "incorrect_answers": [
+      "Венузавр",
+      "Бульбасаур",
+      "Беллспраут"
+    ],
+    "correct_answer": "Ивизавр"
+  },
+  {
+    "id": 140,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Какой покемон относится к рок-типу, известному своей выносливостью?",
+    "image": "pokemon/images/Onix.png",
+    "incorrect_answers": [
+      "Steelix",
+      "Geodude",
+      "Гравелер"
+    ],
+    "correct_answer": "Оникс"
+  },
+  {
+    "id": 141,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Как называется этот покемон электрического типа, известный своими электрическими разрядами?",
+    "image": "pokemon/images/Electabuzz.png",
+    "incorrect_answers": [
+      "Electivire",
+      "Пикачу",
+      "Райчу"
+    ],
+    "correct_answer": "Electabuzz"
+  },
+  {
+    "id": 142,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Определите этого покемона водного типа, известного своими мощными плавниками.",
+    "image": "pokemon/images/Magikarp.png",
+    "incorrect_answers": [
+      "Gyarados",
+      "Milotic",
+      "Seaking"
+    ],
+    "correct_answer": "Магикарп"
+  },
+  {
+    "id": 143,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Какой покемон огненного типа известен своим огненным характером?",
+    "image": "pokemon/images/Charizard.png",
+    "incorrect_answers": [
+      "Чармандер",
+      "Чармелеон",
+      "Moltres"
+    ],
+    "correct_answer": "Чаризард"
+  },
+  {
+    "id": 144,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Как зовут этого покемона ледяного типа, известного своим морозным видом?",
+    "image": "pokemon/images/Dewgong.png",
+    "incorrect_answers": [
+      "Клойстер",
+      "Лапрас",
+      "Articuno"
+    ],
+    "correct_answer": "Дьюгонг"
+  },
+  {
+    "id": 145,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Определите этого покемона типа \"жук\", известного своим ядовитым жалом.",
+    "image": "pokemon/images/Beedrill.png",
+    "incorrect_answers": [
+      "Без масла",
+      "Scyther",
+      "Пинсир"
+    ],
+    "correct_answer": "Бидрилл"
+  },
+  {
+    "id": 146,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Какой покемон относится к типу травянистых и известен своим цветочным ароматом?",
+    "image": "pokemon/images/Venusaur.png",
+    "incorrect_answers": [
+      "Ивизавр",
+      "Бульбасаур",
+      "Беллоссом"
+    ],
+    "correct_answer": "Венузавр"
+  },
+  {
+    "id": 147,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Как зовут этого покемона водного типа, известного своей безмятежной природой?",
+    "image": "pokemon/images/Vaporeon.png",
+    "incorrect_answers": [
+      "Джолтеон",
+      "Flareon",
+      "Эспеон"
+    ],
+    "correct_answer": "Вапореон"
+  },
+  {
+    "id": 148,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Определите этого покемона электрического типа, известного своей искрой.",
+    "image": "pokemon/images/Jolteon.png",
+    "incorrect_answers": [
+      "Flareon",
+      "Вапореон",
+      "Эспеон"
+    ],
+    "correct_answer": "Джолтеон"
+  },
+  {
+    "id": 149,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Какой покемон относится к типу фей и известен своей милой внешностью?",
+    "image": "pokemon/images/Clefairy.png",
+    "incorrect_answers": [
+      "Clefable",
+      "Джиглипуфф",
+      "Виглитуф"
+    ],
+    "correct_answer": "Clefairy"
+  },
+  {
+    "id": 150,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Как зовут этого покемона ледяного типа, известного своей холодной внешностью?",
+    "image": "pokemon/images/Jynx.png",
+    "incorrect_answers": [
+      "Articuno",
+      "Лапрас",
+      "Дьюгонг"
+    ],
+    "correct_answer": "Jynx"
+  },
+  {
+    "id": 151,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Назовите этого покемона травяного типа, известного своим фотосинтезом.",
+    "image": "pokemon/images/Bulbasaur.png",
+    "incorrect_answers": [
+      "Ивизавр",
+      "Венузавр",
+      "Oddish"
+    ],
+    "correct_answer": "Бульбасаур"
+  },
+  {
+    "id": 152,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Какой покемон относится к рок-типу, известному своей прочностью?",
+    "image": "pokemon/images/Geodude.png",
+    "incorrect_answers": [
+      "Гравелер",
+      "Голем",
+      "Оникс"
+    ],
+    "correct_answer": "Geodude"
+  },
+  {
+    "id": 153,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Как называется этот покемон водного типа, известный своими водяными струями?",
+    "image": "pokemon/images/Squirtle.png",
+    "incorrect_answers": [
+      "Вартортл",
+      "Blastoise",
+      "Лапрас"
+    ],
+    "correct_answer": "Сквиртл"
+  },
+  {
+    "id": 154,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Определите этого покемона ядовитого типа, известного своим ядовитым укусом.",
+    "image": "pokemon/images/Grimer.png",
+    "incorrect_answers": [
+      "Muk",
+      "Коффинг",
+      "Weezing"
+    ],
+    "correct_answer": "Grimer"
+  },
+  {
+    "id": 155,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Какой покемон огненного типа известен своим огненным дыханием?",
+    "image": "pokemon/images/Growlithe.png",
+    "incorrect_answers": [
+      "Арканин",
+      "Vulpix",
+      "Ninetales"
+    ],
+    "correct_answer": "Growlithe"
+  },
+  {
+    "id": 156,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Как называется этот покемон ледяного типа, известный своим ледяным телом?",
+    "image": "pokemon/images/Jynx.png",
+    "incorrect_answers": [
+      "Articuno",
+      "Лапрас",
+      "Дьюгонг"
+    ],
+    "correct_answer": "Jynx"
+  },
+  {
+    "id": 157,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Определите этого покемона травянистого типа, известного своей бурей листьев.",
+    "image": "pokemon/images/Ivysaur.png",
+    "incorrect_answers": [
+      "Венузавр",
+      "Бульбасаур",
+      "Беллспраут"
+    ],
+    "correct_answer": "Ивизавр"
+  },
+  {
+    "id": 158,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Какой покемон относится к рок-типу, известному своим крепким телосложением?",
+    "image": "pokemon/images/Onix.png",
+    "incorrect_answers": [
+      "Steelix",
+      "Geodude",
+      "Гравелер"
+    ],
+    "correct_answer": "Оникс"
+  },
+  {
+    "id": 159,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Как называется этот покемон электрического типа, известный своими электрическими разрядами?",
+    "image": "pokemon/images/Electabuzz.png",
+    "incorrect_answers": [
+      "Electivire",
+      "Пикачу",
+      "Райчу"
+    ],
+    "correct_answer": "Electabuzz"
+  },
+  {
+    "id": 160,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Назовите этого покемона водного типа, известного своей ловкостью в воде.",
+    "image": "pokemon/images/Magikarp.png",
+    "incorrect_answers": [
+      "Gyarados",
+      "Milotic",
+      "Seaking"
+    ],
+    "correct_answer": "Магикарп"
+  },
+  {
+    "id": 161,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Какой покемон огненного типа известен своим палящим огнем?",
+    "image": "pokemon/images/Charizard.png",
+    "incorrect_answers": [
+      "Чармандер",
+      "Чармелеон",
+      "Moltres"
+    ],
+    "correct_answer": "Чаризард"
+  },
+  {
+    "id": 162,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Как зовут этого покемона ледяного типа, известного своей холодной аурой?",
+    "image": "pokemon/images/Dewgong.png",
+    "incorrect_answers": [
+      "Клойстер",
+      "Лапрас",
+      "Articuno"
+    ],
+    "correct_answer": "Дьюгонг"
+  }
+]
