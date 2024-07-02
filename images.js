@@ -30,7 +30,8 @@ function download(url, filename, answer) {
 }
 
 (async () => {
-    const THEME = "pokemon";
+    const THEME = "    const THEME = "minecraft";
+";
 
     if (!fs.existsSync(THEME+"/images")) {
         fs.mkdirSync(THEME+"/images");

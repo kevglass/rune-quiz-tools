@@ -1,7 +1,7 @@
 import * as fs from 'fs';
 
 (async () => {
-    const THEME = "pokemon";
+    const THEME = "minecraft";
 
     async function processLang(lang) {
         const texts = [];

@@ -24,7 +24,8 @@ function getPage(url) {
 
 (async () => {
 
-    const THEME = "pokemon";
+    const THEME = "    const THEME = "minecraft";
+";
 
     const questions = JSON.parse(fs.readFileSync(THEME+"/source.json"));
     const output = [];
