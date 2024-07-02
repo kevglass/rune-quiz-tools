@@ -1932,20 +1932,6 @@
     "correct_answer": "Onix"
   },
   {
-    "id": 141,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "pokemon",
-    "question": "¿Cómo se llama este Pokémon de tipo eléctrico conocido por sus descargas eléctricas?",
-    "image": "pokemon/images/Electabuzz.png",
-    "incorrect_answers": [
-      "Electivire",
-      "Pikachu",
-      "Raichu"
-    ],
-    "correct_answer": "Electabuzz"
-  },
-  {
     "id": 142,
     "type": "multiple",
     "difficulty": "easy",
@@ -2142,20 +2128,6 @@
     "correct_answer": "Growlithe"
   },
   {
-    "id": 156,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "pokemon",
-    "question": "¿Cómo se llama este Pokémon de tipo Hielo conocido por su cuerpo helado?",
-    "image": "pokemon/images/Jynx.png",
-    "incorrect_answers": [
-      "Articuno",
-      "Lapras",
-      "Dewgong"
-    ],
-    "correct_answer": "Jynx"
-  },
-  {
     "id": 157,
     "type": "multiple",
     "difficulty": "easy",
@@ -2182,20 +2154,6 @@
       "Graveler"
     ],
     "correct_answer": "Onix"
-  },
-  {
-    "id": 159,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "pokemon",
-    "question": "¿Cómo se llama este Pokémon de tipo eléctrico conocido por sus descargas eléctricas?",
-    "image": "pokemon/images/Electabuzz.png",
-    "incorrect_answers": [
-      "Electivire",
-      "Pikachu",
-      "Raichu"
-    ],
-    "correct_answer": "Electabuzz"
   },
   {
     "id": 160,

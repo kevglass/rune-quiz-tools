@@ -1834,20 +1834,6 @@
     "correct_answer": "Бульбасаур"
   },
   {
-    "id": 134,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "pokemon",
-    "question": "Какой покемон относится к рок-типу, известному своим твердым телом?",
-    "image": "pokemon/images/Geodude.png",
-    "incorrect_answers": [
-      "Гравелер",
-      "Голем",
-      "Оникс"
-    ],
-    "correct_answer": "Geodude"
-  },
-  {
     "id": 135,
     "type": "multiple",
     "difficulty": "easy",
@@ -1930,20 +1916,6 @@
       "Гравелер"
     ],
     "correct_answer": "Оникс"
-  },
-  {
-    "id": 141,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "pokemon",
-    "question": "Как называется этот покемон электрического типа, известный своими электрическими разрядами?",
-    "image": "pokemon/images/Electabuzz.png",
-    "incorrect_answers": [
-      "Electivire",
-      "Пикачу",
-      "Райчу"
-    ],
-    "correct_answer": "Electabuzz"
   },
   {
     "id": 142,
@@ -2182,20 +2154,6 @@
       "Гравелер"
     ],
     "correct_answer": "Оникс"
-  },
-  {
-    "id": 159,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "pokemon",
-    "question": "Как называется этот покемон электрического типа, известный своими электрическими разрядами?",
-    "image": "pokemon/images/Electabuzz.png",
-    "incorrect_answers": [
-      "Electivire",
-      "Пикачу",
-      "Райчу"
-    ],
-    "correct_answer": "Electabuzz"
   },
   {
     "id": 160,

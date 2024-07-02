@@ -924,20 +924,6 @@
     "correct_answer": "Kadabra"
   },
   {
-    "id": 67,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "pokemon",
-    "question": "Identify this Bug-type Pokémon known for its metamorphosis.",
-    "image": "pokemon/images/Caterpie.png",
-    "incorrect_answers": [
-      "Metapod",
-      "Butterfree",
-      "Weedle"
-    ],
-    "correct_answer": "Caterpie"
-  },
-  {
     "id": 68,
     "type": "multiple",
     "difficulty": "easy",
@@ -1790,20 +1776,6 @@
       "Bellossom"
     ],
     "correct_answer": "Venusaur"
-  },
-  {
-    "id": 129,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "pokemon",
-    "question": "What is the name of this Water-type Pokémon known for its gentle nature?",
-    "image": "pokemon/images/Vaporeon.png",
-    "incorrect_answers": [
-      "Jolteon",
-      "Flareon",
-      "Espeon"
-    ],
-    "correct_answer": "Vaporeon"
   },
   {
     "id": 130,

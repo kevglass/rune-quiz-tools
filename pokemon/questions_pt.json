@@ -2142,20 +2142,6 @@
     "correct_answer": "Growlithe"
   },
   {
-    "id": 156,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "pokemon",
-    "question": "Qual é o nome deste Pokémon do tipo Gelo conhecido pelo seu corpo gelado?",
-    "image": "pokemon/images/Jynx.png",
-    "incorrect_answers": [
-      "Articuno",
-      "Lapras",
-      "Dewgong"
-    ],
-    "correct_answer": "Jynx"
-  },
-  {
     "id": 157,
     "type": "multiple",
     "difficulty": "easy",
