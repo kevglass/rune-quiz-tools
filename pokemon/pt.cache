@@ -1,2068 +1,1396 @@
 {
-  "Which Pokémon is known as the 'Mud Fish Pokémon'?-Swampert": {
+  "Which Pokémon is known as the 'Seed Pokémon'?-Bulbasaur": {
     "id": 1,
     "type": "multiple",
     "difficulty": "easy",
     "category": "pokemon",
-    "question": "Que Pokémon é conhecido como o \"Pokémon Peixe de Lama\"?",
-    "image": "pokemon/images/Swampert.png",
+    "question": "Que Pokémon é conhecido como o \"Pokémon Semente\"?",
+    "image": "pokemon/images/Bulbasaur.png",
     "incorrect_answers": [
-      "Lamaçal",
-      "Marshtomp",
-      "Wooper"
+      "Chikorita",
+      "Turtwig",
+      "Sunkern"
     ],
-    "correct_answer": "Swampert"
+    "correct_answer": "Bulbasaur"
   },
-  "Identify this Electric-type Legendary Pokémon.-Zapdos": {
+  "Identify this Fire-type Pokémon known for its fiery tail.-Charmander": {
     "id": 2,
     "type": "multiple",
     "difficulty": "easy",
     "category": "pokemon",
-    "question": "Identificar este Pokémon Lendário de tipo Elétrico.",
-    "image": "pokemon/images/Zapdos.png",
+    "question": "Identifique este Pokémon do tipo Fogo conhecido pela sua cauda ardente.",
+    "image": "pokemon/images/Charmander.png",
     "incorrect_answers": [
-      "Raikou",
-      "Jolteon",
-      "Electivire"
+      "Vulpix",
+      "Growlithe",
+      "Cyndaquil"
     ],
-    "correct_answer": "Zapdos"
+    "correct_answer": "Charmander"
   },
-  "What is the name of this Psychic-type Pokémon?-Abra": {
+  "What is the name of this Water-type Pokémon known for its shell?-Squirtle": {
     "id": 3,
     "type": "multiple",
     "difficulty": "easy",
     "category": "pokemon",
-    "question": "Qual é o nome deste Pokémon do tipo Psíquico?",
-    "image": "pokemon/images/Abra.png",
-    "incorrect_answers": [
-      "Kadabra",
-      "Alakazam",
-      "Mewtwo"
-    ],
-    "correct_answer": "Abra"
-  },
-  "This Pokémon is known for its ability to metamorphose. Identify it.-Butterfree": {
-    "id": 4,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "pokemon",
-    "question": "Este Pokémon é conhecido pela sua capacidade de se metamorfosear. Identifica-o.",
-    "image": "pokemon/images/Butterfree.png",
-    "incorrect_answers": [
-      "Metápode",
-      "Venonat",
-      "Silcoon"
-    ],
-    "correct_answer": "Sem manteiga"
-  },
-  "Which Pokémon is this Fire-type starter from the Kanto region?-Charmander": {
-    "id": 5,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "pokemon",
-    "question": "Qual é o Pokémon que dá origem a este tipo de fogo da região de Kanto?",
-    "image": "pokemon/images/Charmander.png",
-    "incorrect_answers": [
-      "Cyndaquil",
-      "Torchic",
-      "Chimchar"
-    ],
-    "correct_answer": "Charmander"
-  },
-  "What is the name of this Fairy-type Pokémon?-Clefairy": {
-    "id": 6,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "pokemon",
-    "question": "Qual é o nome deste Pokémon do tipo Fada?",
-    "image": "pokemon/images/Clefairy.png",
-    "incorrect_answers": [
-      "Clefable",
-      "Jigglypuff",
-      "Togepi"
-    ],
-    "correct_answer": "Clefairy"
-  },
-  "Identify this Rock-type Pokémon known for its hard body.-Onix": {
-    "id": 7,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "pokemon",
-    "question": "Identifica este Pokémon do tipo rocha conhecido pelo seu corpo duro.",
-    "image": "pokemon/images/Onix.png",
-    "incorrect_answers": [
-      "Geodude",
-      "Rhyhorn",
-      "Kabuto"
-    ],
-    "correct_answer": "Onix"
-  },
-  "Which Pokémon is this Ice-type, known as the 'Freeze Pokémon'?-Articuno": {
-    "id": 8,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "pokemon",
-    "question": "Que Pokémon é este tipo de gelo, conhecido como o \"Pokémon Congelante\"?",
-    "image": "pokemon/images/Articuno.png",
-    "incorrect_answers": [
-      "Glaceon",
-      "Bola de vidro",
-      "Regice"
-    ],
-    "correct_answer": "Articuno"
-  },
-  "What is the name of this Ghost/Poison-type Pokémon?-Gengar": {
-    "id": 9,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "pokemon",
-    "question": "Qual é o nome deste Pokémon do tipo Fantasma/Envenenado?",
-    "image": "pokemon/images/Gengar.png",
-    "incorrect_answers": [
-      "Assombração",
-      "Gastly",
-      "Misdreavus"
-    ],
-    "correct_answer": "Gengar"
-  },
-  "Identify this Ground-type Pokémon known for its speed.-Dugtrio": {
-    "id": 10,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "pokemon",
-    "question": "Identifica este Pokémon de tipo terrestre conhecido pela sua velocidade.",
-    "image": "pokemon/images/Dugtrio.png",
-    "incorrect_answers": [
-      "Diglett",
-      "Faixa de areia",
-      "Golem"
-    ],
-    "correct_answer": "Dugtrio"
-  },
-  "Which Pokémon is this Normal-type known for its singing?-Wigglytuff": {
-    "id": 11,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "pokemon",
-    "question": "Que Pokémon é este tipo Normal conhecido pelo seu canto?",
-    "image": "pokemon/images/Wigglytuff.png",
-    "incorrect_answers": [
-      "Jigglypuff",
-      "Clefable",
-      "Snorlax"
-    ],
-    "correct_answer": "Wigglytuff"
-  },
-  "What is the name of this Water-type starter Pokémon?-Squirtle": {
-    "id": 12,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "pokemon",
-    "question": "Qual é o nome deste Pokémon inicial do tipo Água?",
+    "question": "Qual é o nome deste Pokémon do tipo Água conhecido pela sua carapaça?",
     "image": "pokemon/images/Squirtle.png",
     "incorrect_answers": [
+      "Oshawott",
       "Totodilo",
-      "Lamaçal",
       "Piplup"
     ],
     "correct_answer": "Esquilo"
   },
-  "Identify this Poison-type Pokémon known for its multiple forms.-Muk": {
+  "This Pokémon is known for its ability to clone itself. Identify it.-Ditto": {
+    "id": 4,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Este Pokémon é conhecido pela sua capacidade de se clonar a si próprio. Identifica-o.",
+    "image": "pokemon/images/Ditto.png",
+    "incorrect_answers": [
+      "Mew",
+      "Eevee",
+      "Zorua"
+    ],
+    "correct_answer": "Idem"
+  },
+  "Which Pokémon is this Electric-type, known as the 'Mouse Pokémon'?-Pikachu": {
+    "id": 5,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Que Pokémon é este tipo elétrico, conhecido como o \"Pokémon Rato\"?",
+    "image": "pokemon/images/Pikachu.png",
+    "incorrect_answers": [
+      "Raichu",
+      "Pichu",
+      "Plusle"
+    ],
+    "correct_answer": "Pikachu"
+  },
+  "What is the name of this Rock-type Pokémon known for its hardness?-Geodude": {
+    "id": 6,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Qual é o nome deste Pokémon do tipo rocha conhecido pela sua dureza?",
+    "image": "pokemon/images/Geodude.png",
+    "incorrect_answers": [
+      "Onix",
+      "Rhyhorn",
+      "Larvitar"
+    ],
+    "correct_answer": "Geodude"
+  },
+  "Identify this Grass-type Pokémon known for its flower.-Venusaur": {
+    "id": 7,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Identifica este Pokémon do tipo erva conhecido pela sua flor.",
+    "image": "pokemon/images/Venusaur.png",
+    "incorrect_answers": [
+      "Ivysaur",
+      "Meganium",
+      "Sunflora"
+    ],
+    "correct_answer": "Venusauro"
+  },
+  "Which Pokémon is this Ghost-type known for its Shadow Tag ability?-Shedinja": {
+    "id": 8,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Que Pokémon é este tipo Fantasma conhecido pela sua habilidade de Etiqueta de Sombra?",
+    "image": "pokemon/images/Shedinja.png",
+    "incorrect_answers": [
+      "Gengar",
+      "Banquete",
+      "Misdreavus"
+    ],
+    "correct_answer": "Shedinja"
+  },
+  "What is the name of this Ice-type Pokémon known for its Ice Beam attack?-Dewgong": {
+    "id": 9,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Qual é o nome deste Pokémon do tipo Gelo conhecido pelo seu ataque Raio de Gelo?",
+    "image": "pokemon/images/Dewgong.png",
+    "incorrect_answers": [
+      "Cloyster",
+      "Lapras",
+      "Articuno"
+    ],
+    "correct_answer": "Dewgong"
+  },
+  "Identify this Dark-type Pokémon known for its Illusion ability.-Zoroark": {
+    "id": 10,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Identifica este Pokémon do tipo Dark conhecido pela sua habilidade Illusion.",
+    "image": "pokemon/images/Zoroark.png",
+    "incorrect_answers": [
+      "Umbreão",
+      "Absol",
+      "Houndoom"
+    ],
+    "correct_answer": "Zoroarque"
+  },
+  "Which Pokémon is this Steel-type known for its Iron Tail move?-Steelix": {
+    "id": 11,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Que Pokémon é este tipo Aço conhecido pelo seu movimento Cauda de Ferro?",
+    "image": "pokemon/images/Steelix.png",
+    "incorrect_answers": [
+      "Aggron",
+      "Metagrama",
+      "Scizor"
+    ],
+    "correct_answer": "Steelix"
+  },
+  "What is the name of this Dragon-type Pokémon known for its Dragon Rage attack?-Dratini": {
+    "id": 12,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Qual é o nome deste Pokémon do tipo Dragão conhecido pelo seu ataque Fúria do Dragão?",
+    "image": "pokemon/images/Dratini.png",
+    "incorrect_answers": [
+      "Dragonair",
+      "Dragonite",
+      "Salamência"
+    ],
+    "correct_answer": "Dratini"
+  },
+  "Identify this Fairy-type Pokémon known for its Metronome ability.-Togepi": {
     "id": 13,
     "type": "multiple",
     "difficulty": "easy",
     "category": "pokemon",
-    "question": "Identifique este Pokémon do tipo venenoso conhecido pelas suas múltiplas formas.",
-    "image": "pokemon/images/Muk.png",
+    "question": "Identifica este Pokémon do tipo Fada conhecido pela sua habilidade Metrónomo.",
+    "image": "pokemon/images/Togepi.png",
     "incorrect_answers": [
-      "Grimer",
-      "Koffing",
-      "Weezing"
+      "Clefairy",
+      "Tartaruga",
+      "Ralts"
     ],
-    "correct_answer": "Muk"
+    "correct_answer": "Togepi"
   },
-  "Which Pokémon is this Electric-type known for its high voltage?-Electabuzz": {
+  "Which Pokémon is this Normal-type known for its Rest move?-Snorlax": {
     "id": 14,
     "type": "multiple",
     "difficulty": "easy",
     "category": "pokemon",
-    "question": "Que Pokémon é este tipo elétrico conhecido pela sua alta voltagem?",
-    "image": "pokemon/images/Electabuzz.png",
+    "question": "Qual é o Pokémon do tipo Normal conhecido pelo seu movimento Rest?",
+    "image": "pokemon/images/Snorlax.png",
     "incorrect_answers": [
-      "Electivire",
-      "Jolteon",
-      "Zapdos"
+      "Escravização",
+      "Blissey",
+      "Ursar"
     ],
-    "correct_answer": "Electabuzz"
+    "correct_answer": "Snorlax"
   },
-  "What is the name of this Bug/Flying-type Pokémon?-Scyther": {
+  "What is the name of this Bug-type Pokémon known for its Sticky Web ability?-Spinarak": {
     "id": 15,
     "type": "multiple",
     "difficulty": "easy",
     "category": "pokemon",
-    "question": "Qual é o nome deste Pokémon do tipo inseto/voador?",
-    "image": "pokemon/images/Scyther.png",
+    "question": "Qual é o nome deste Pokémon do tipo Inseto conhecido pela sua habilidade Sticky Web?",
+    "image": "pokemon/images/Spinarak.png",
     "incorrect_answers": [
-      "Sem manteiga",
-      "Beedrill",
-      "Yanmega"
+      "Ariados",
+      "Galvantula",
+      "Salsicha"
     ],
-    "correct_answer": "Scyther"
+    "correct_answer": "Spinarak"
   },
-  "Identify this Psychic-type Pokémon known for its dual brain.-Slowbro": {
+  "Identify this Poison-type Pokémon known for its Toxic ability.-Grimer": {
     "id": 16,
     "type": "multiple",
     "difficulty": "easy",
     "category": "pokemon",
-    "question": "Identifica este Pokémon do tipo Psíquico conhecido pelo seu cérebro duplo.",
-    "image": "pokemon/images/Slowbro.png",
+    "question": "Identifica este Pokémon do tipo Venenoso conhecido pela sua capacidade Tóxica.",
+    "image": "pokemon/images/Grimer.png",
     "incorrect_answers": [
-      "Lento",
-      "Slowking",
-      "Exeggutor"
+      "Muk",
+      "Koffing",
+      "Nidorina"
     ],
-    "correct_answer": "Slowbro"
+    "correct_answer": "Grimer"
   },
-  "Which Pokémon is this Fire-type known for its fierce battles?-Charizard": {
+  "Which Pokémon is this Water-type known for its Hydro Pump move?-Blastoise": {
     "id": 17,
     "type": "multiple",
     "difficulty": "easy",
     "category": "pokemon",
-    "question": "Que Pokémon é este tipo Fogo conhecido pelas suas batalhas ferozes?",
-    "image": "pokemon/images/Charizard.png",
+    "question": "Qual é o Pokémon do tipo Água conhecido pelo seu movimento Hydro Pump?",
+    "image": "pokemon/images/Blastoise.png",
     "incorrect_answers": [
-      "Magmar",
-      "Blaziken",
-      "Moltres"
+      "Gyarados",
+      "Vaporeão",
+      "Starmie"
     ],
-    "correct_answer": "Charizard"
+    "correct_answer": "Blastoise"
   },
-  "What is the name of this Dragon/Flying-type Pokémon?-Dragonite": {
-    "id": 18,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "pokemon",
-    "question": "Qual é o nome deste Pokémon do tipo Dragão/voador?",
-    "image": "pokemon/images/Dragonite.png",
-    "incorrect_answers": [
-      "Salamência",
-      "Rayquaza",
-      "Altaria"
-    ],
-    "correct_answer": "Dragonite"
-  },
-  "Identify this Ice-type Pokémon known for its graceful swimming.-Dewgong": {
+  "Identify this Ground-type Pokémon known for its Earthquake move.-Onix": {
     "id": 19,
     "type": "multiple",
     "difficulty": "easy",
     "category": "pokemon",
-    "question": "Identifica este Pokémon do tipo Gelo conhecido pelo seu gracioso nado.",
-    "image": "pokemon/images/Dewgong.png",
+    "question": "Identifique este Pokémon de tipo terrestre conhecido pelo seu movimento Terramoto.",
+    "image": "pokemon/images/Onix.png",
     "incorrect_answers": [
-      "Lapras",
-      "Seel",
-      "Cloyster"
+      "Steelix",
+      "Golem",
+      "Rhydon"
     ],
-    "correct_answer": "Dewgong"
+    "correct_answer": "Onix"
   },
-  "Which Pokémon is this Steel-type known for its magnetic body?-Magnemite": {
+  "Which Pokémon is this Fire-type known for its Flamethrower move?-Charizard": {
     "id": 20,
     "type": "multiple",
     "difficulty": "easy",
     "category": "pokemon",
-    "question": "Que Pokémon é este tipo Aço conhecido pelo seu corpo magnético?",
-    "image": "pokemon/images/Magnemite.png",
+    "question": "Que Pokémon é este tipo Fogo conhecido pelo seu movimento Lança-chamas?",
+    "image": "pokemon/images/Charizard.png",
     "incorrect_answers": [
-      "Magneton",
-      "Steelix",
-      "Registeel"
+      "Arcanina",
+      "Flareon",
+      "Moltres"
     ],
-    "correct_answer": "Magnemite"
+    "correct_answer": "Charizard"
   },
-  "What is the name of this Water/Ground-type Pokémon?-Quagsire": {
+  "What is the name of this Psychic-type Pokémon known for its Psychic move?-Alakazam": {
     "id": 21,
     "type": "multiple",
     "difficulty": "easy",
     "category": "pokemon",
-    "question": "Qual é o nome deste Pokémon do tipo Água/Terra?",
-    "image": "pokemon/images/Quagsire.png",
+    "question": "Qual é o nome deste Pokémon do tipo Psíquico conhecido pelo seu movimento Psíquico?",
+    "image": "pokemon/images/Alakazam.png",
     "incorrect_answers": [
-      "Wooper",
-      "Gastrodon",
-      "Swampert"
+      "Espeão",
+      "Mewtwo",
+      "Gardevoir"
     ],
-    "correct_answer": "Quagsire"
+    "correct_answer": "Alakazam"
   },
-  "Identify this Grass/Poison-type Pokémon known for its flower.-Vileplume": {
+  "Identify this Fighting-type Pokémon known for its Karate Chop move.-Hitmonlee": {
     "id": 22,
     "type": "multiple",
     "difficulty": "easy",
     "category": "pokemon",
-    "question": "Identifica este Pokémon do tipo erva/veneno conhecido pela sua flor.",
-    "image": "pokemon/images/Vileplume.png",
+    "question": "Identifica este Pokémon do tipo Lutador conhecido pelo seu movimento Karate Chop.",
+    "image": "pokemon/images/Hitmonlee.png",
     "incorrect_answers": [
-      "Bellossom",
-      "Roserade",
-      "Ivysaur"
+      "Hitmonchan",
+      "Machop",
+      "Macaco"
     ],
-    "correct_answer": "Vileplume"
+    "correct_answer": "Hitmonlee"
   },
-  "Which Pokémon is this Ground/Rock-type known as the 'Armor Pokémon'?-Onix": {
-    "id": 23,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "pokemon",
-    "question": "Que Pokémon é este tipo Terra/Rocha conhecido como o \"Pokémon Armadura\"?",
-    "image": "pokemon/images/Onix.png",
-    "incorrect_answers": [
-      "Steelix",
-      "Rhydon",
-      "Golem"
-    ],
-    "correct_answer": "Onix"
-  },
-  "What is the name of this Ghost/Poison-type Pokémon?-Haunter": {
+  "What is the name of this Water-type Pokémon known for its Surf move?-Gyarados": {
     "id": 24,
     "type": "multiple",
     "difficulty": "easy",
     "category": "pokemon",
-    "question": "Qual é o nome deste Pokémon do tipo Fantasma/Envenenado?",
-    "image": "pokemon/images/Haunter.png",
+    "question": "Qual é o nome deste Pokémon do tipo Água conhecido pelo seu movimento Surf?",
+    "image": "pokemon/images/Gyarados.png",
     "incorrect_answers": [
-      "Gengar",
-      "Gastly",
-      "Misdreavus"
+      "Lapras",
+      "Blastoise",
+      "Swampert"
     ],
-    "correct_answer": "Assombração"
+    "correct_answer": "Gyarados"
   },
-  "Identify this Normal/Flying-type Pokémon known for its speed.-Pidgey": {
-    "id": 25,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "pokemon",
-    "question": "Identifica este Pokémon do tipo Normal/ Voador conhecido pela sua velocidade.",
-    "image": "pokemon/images/Pidgey.png",
-    "incorrect_answers": [
-      "Pidgeotto",
-      "Pidgeot",
-      "Lança"
-    ],
-    "correct_answer": "Pombo-gigante"
-  },
-  "Which Pokémon is this Bug-type known for its cocoon form?-Metapod": {
+  "Which Pokémon is this Bug-type known for its X-Scissor move?-Scizor": {
     "id": 26,
     "type": "multiple",
     "difficulty": "easy",
     "category": "pokemon",
-    "question": "Que Pokémon é este tipo de inseto conhecido pela sua forma de casulo?",
-    "image": "pokemon/images/Metapod.png",
+    "question": "Que Pokémon é este tipo Inseto conhecido pelo seu movimento X-Scissor?",
+    "image": "pokemon/images/Scizor.png",
     "incorrect_answers": [
-      "Sem manteiga",
-      "Kakuna",
+      "Pinsir",
+      "Heracruz",
       "Beedrill"
     ],
-    "correct_answer": "Metápode"
+    "correct_answer": "Scizor"
   },
-  "What is the name of this Electric-type Pokémon known for its cheek pouches?-Pikachu": {
+  "What is the name of this Rock-type Pokémon known for its Stone Edge move?-Tyranitar": {
     "id": 27,
     "type": "multiple",
     "difficulty": "easy",
     "category": "pokemon",
-    "question": "Qual é o nome deste Pokémon de tipo elétrico conhecido pelas suas bolsas nas bochechas?",
-    "image": "pokemon/images/Pikachu.png",
+    "question": "Qual é o nome deste Pokémon do tipo rocha conhecido pelo seu movimento Borda de Pedra?",
+    "image": "pokemon/images/Tyranitar.png",
     "incorrect_answers": [
-      "Raichu",
-      "Pachirisu",
-      "Emolga"
+      "Aerodáctilo",
+      "Kabutops",
+      "Rampardos"
     ],
-    "correct_answer": "Pikachu"
+    "correct_answer": "Tyranitar"
   },
-  "Identify this Psychic-type Pokémon known for its high intelligence.-Mewtwo": {
+  "Identify this Ice-type Pokémon known for its Blizzard move.-Articuno": {
     "id": 28,
     "type": "multiple",
     "difficulty": "easy",
     "category": "pokemon",
-    "question": "Identifica este Pokémon do tipo Psíquico conhecido pela sua elevada inteligência.",
-    "image": "pokemon/images/Mewtwo.png",
+    "question": "Identifica este Pokémon do tipo Gelo conhecido pelo seu movimento Blizzard.",
+    "image": "pokemon/images/Articuno.png",
     "incorrect_answers": [
-      "Alakazam",
-      "Espeão",
-      "Celebi"
+      "Abomasnow",
+      "Glaceon",
+      "Bola de vidro"
     ],
-    "correct_answer": "Mewtwo"
+    "correct_answer": "Articuno"
   },
-  "Which Pokémon is this Normal-type known for its multiple tails?-Raticate": {
+  "Which Pokémon is this Ghost-type known for its Shadow Ball move?-Gengar": {
     "id": 29,
     "type": "multiple",
     "difficulty": "easy",
     "category": "pokemon",
-    "question": "Que Pokémon é este tipo Normal conhecido pelas suas múltiplas caudas?",
-    "image": "pokemon/images/Raticate.png",
+    "question": "Que Pokémon é este tipo Fantasma conhecido pelo seu movimento Shadow Ball?",
+    "image": "pokemon/images/Gengar.png",
     "incorrect_answers": [
-      "Rattata",
-      "Eevee",
-      "Furret"
+      "Mismagius",
+      "Túmulo espiritual",
+      "Dusknoir"
     ],
-    "correct_answer": "Raticate"
+    "correct_answer": "Gengar"
   },
-  "What is the name of this Fairy-type Pokémon known for its charming appearance?-Clefairy": {
+  "What is the name of this Dragon-type Pokémon known for its Outrage move?-Dragonite": {
     "id": 30,
     "type": "multiple",
     "difficulty": "easy",
     "category": "pokemon",
-    "question": "Qual é o nome deste Pokémon do tipo Fada conhecido pela sua aparência encantadora?",
-    "image": "pokemon/images/Clefairy.png",
-    "incorrect_answers": [
-      "Clefable",
-      "Jigglypuff",
-      "Wigglytuff"
-    ],
-    "correct_answer": "Clefairy"
-  },
-  "Identify this Dragon-type Pokémon known for its mystic powers.-Dragonite": {
-    "id": 31,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "pokemon",
-    "question": "Identifica este Pokémon do tipo Dragão conhecido pelos seus poderes místicos.",
+    "question": "Qual é o nome deste Pokémon do tipo Dragão conhecido pelo seu movimento Ultraje?",
     "image": "pokemon/images/Dragonite.png",
     "incorrect_answers": [
-      "Dratini",
-      "Dragonair",
-      "Altaria"
+      "Haxorus",
+      "Garchomp",
+      "Salamência"
     ],
     "correct_answer": "Dragonite"
   },
-  "Which Pokémon is this Rock-type known for its shell armor?-Cloyster": {
+  "Which Pokémon is this Poison-type known for its Sludge Bomb move?-Muk": {
     "id": 32,
     "type": "multiple",
     "difficulty": "easy",
     "category": "pokemon",
-    "question": "Que Pokémon é este tipo de rocha conhecido pela sua armadura de concha?",
-    "image": "pokemon/images/Cloyster.png",
+    "question": "Que Pokémon é este tipo venenoso conhecido pelo seu movimento Sludge Bomb?",
+    "image": "pokemon/images/Muk.png",
     "incorrect_answers": [
-      "Abrigo",
-      "Kabuto",
-      "Kabutops"
+      "Weezing",
+      "Nidoking",
+      "Gengar"
     ],
-    "correct_answer": "Cloyster"
+    "correct_answer": "Muk"
   },
-  "What is the name of this Ice-type Pokémon known for its cold breath?-Jynx": {
+  "What is the name of this Flying-type Pokémon known for its Aerial Ace move?-Pidgeot": {
     "id": 33,
     "type": "multiple",
     "difficulty": "easy",
     "category": "pokemon",
-    "question": "Qual é o nome deste Pokémon do tipo Gelo conhecido pelo seu hálito frio?",
-    "image": "pokemon/images/Jynx.png",
+    "question": "Qual é o nome deste Pokémon do tipo Voador conhecido pelo seu movimento Aerial Ace?",
+    "image": "pokemon/images/Pidgeot.png",
     "incorrect_answers": [
-      "Articuno",
-      "Lapras",
-      "Dewgong"
+      "Caçador de estrelas",
+      "Aerodáctilo",
+      "Suave"
     ],
-    "correct_answer": "Jynx"
+    "correct_answer": "Pidgeot"
   },
-  "Identify this Grass-type Pokémon known for its razor leaf attack.-Ivysaur": {
+  "Identify this Ground-type Pokémon known for its Dig move.-Diglett": {
     "id": 34,
     "type": "multiple",
     "difficulty": "easy",
     "category": "pokemon",
-    "question": "Identifica este Pokémon do tipo erva, conhecido pelo seu ataque de folha de lâmina.",
-    "image": "pokemon/images/Ivysaur.png",
+    "question": "Identifica este Pokémon de tipo terrestre conhecido pelo seu movimento Dig.",
+    "image": "pokemon/images/Diglett.png",
     "incorrect_answers": [
-      "Bulbasaur",
-      "Venusauro",
-      "Oddish"
+      "Sandshrew",
+      "Dugtrio",
+      "Nidoking"
     ],
-    "correct_answer": "Ivysaur"
+    "correct_answer": "Diglett"
   },
-  "Which Pokémon is this Water-type known for its jet propulsion?-Blastoise": {
-    "id": 35,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "pokemon",
-    "question": "Que Pokémon é este tipo Água conhecido pela sua propulsão a jato?",
-    "image": "pokemon/images/Blastoise.png",
-    "incorrect_answers": [
-      "Wartortle",
-      "Esquilo",
-      "Psyduck"
-    ],
-    "correct_answer": "Blastoise"
-  },
-  "What is the name of this Fire-type Pokémon known for its fiery tail?-Cyndaquil": {
-    "id": 36,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "pokemon",
-    "question": "Qual é o nome deste Pokémon do tipo Fogo conhecido pela sua cauda ardente?",
-    "image": "pokemon/images/Cyndaquil.png",
-    "incorrect_answers": [
-      "Quilava",
-      "Tiflosão",
-      "Charmander"
-    ],
-    "correct_answer": "Cyndaquil"
-  },
-  "Identify this Bug-type Pokémon known for its metamorphosis.-Caterpie": {
-    "id": 37,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "pokemon",
-    "question": "Identifica este Pokémon do tipo Inseto conhecido pela sua metamorfose.",
-    "image": "pokemon/images/Caterpie.png",
-    "incorrect_answers": [
-      "Metápode",
-      "Sem manteiga",
-      "Erva daninha"
-    ],
-    "correct_answer": "Lagarta"
-  },
-  "Which Pokémon is this Ground-type known for its digging abilities?-Diglett": {
+  "Which Pokémon is this Fighting-type known for its Close Combat move?-Lucario": {
     "id": 38,
     "type": "multiple",
     "difficulty": "easy",
     "category": "pokemon",
-    "question": "Que Pokémon é este tipo terrestre conhecido pelas suas capacidades de escavação?",
-    "image": "pokemon/images/Diglett.png",
+    "question": "Que Pokémon é este tipo de luta conhecido pelo seu movimento de combate corpo a corpo?",
+    "image": "pokemon/images/Lucario.png",
     "incorrect_answers": [
-      "Dugtrio",
-      "Sandshrew",
-      "Faixa de areia"
+      "Machamp",
+      "Infernape",
+      "Blaziken"
     ],
-    "correct_answer": "Diglett"
+    "correct_answer": "Lucário"
   },
-  "What is the name of this Ghost-type Pokémon known for its haunting?-Gengar": {
+  "What is the name of this Bug-type Pokémon known for its Bug Buzz move?-Beautifly": {
     "id": 39,
     "type": "multiple",
     "difficulty": "easy",
     "category": "pokemon",
-    "question": "Qual é o nome deste Pokémon do tipo Fantasma conhecido pelas suas assombrações?",
-    "image": "pokemon/images/Gengar.png",
+    "question": "Qual é o nome deste Pokémon do tipo Inseto conhecido pelo seu movimento Bug Buzz?",
+    "image": "pokemon/images/Beautifly.png",
     "incorrect_answers": [
-      "Assombração",
-      "Gastly",
-      "Misdreavus"
+      "Sem manteiga",
+      "Vivillon",
+      "Yanmega"
     ],
-    "correct_answer": "Gengar"
+    "correct_answer": "Beautifly"
   },
-  "Identify this Poison-type Pokémon known for its toxic gas.-Koffing": {
+  "Identify this Rock-type Pokémon known for its Rock Slide move.-Golem": {
     "id": 40,
     "type": "multiple",
     "difficulty": "easy",
     "category": "pokemon",
-    "question": "Identifica este Pokémon do tipo venenoso conhecido pelo seu gás tóxico.",
-    "image": "pokemon/images/Koffing.png",
+    "question": "Identifica este Pokémon de tipo Rocha conhecido pelo seu movimento Rock Slide.",
+    "image": "pokemon/images/Golem.png",
     "incorrect_answers": [
-      "Weezing",
-      "Grimer",
-      "Muk"
+      "Rhyperior",
+      "Terrakion",
+      "Tyranitar"
     ],
-    "correct_answer": "Koffing"
+    "correct_answer": "Golem"
   },
-  "Which Pokémon is this Electric-type known for generating electricity?-Electabuzz": {
+  "Which Pokémon is this Ice-type known for its Frost Breath move?-Lapras": {
     "id": 41,
     "type": "multiple",
     "difficulty": "easy",
     "category": "pokemon",
-    "question": "Que Pokémon é este tipo Elétrico conhecido por gerar eletricidade?",
-    "image": "pokemon/images/Electabuzz.png",
+    "question": "Qual é o Pokémon do tipo Gelo conhecido pelo seu movimento Sopro de Gelo?",
+    "image": "pokemon/images/Lapras.png",
     "incorrect_answers": [
-      "Electivire",
-      "Pikachu",
-      "Jolteon"
+      "Articuno",
+      "Avalugg",
+      "Vanilluxe"
     ],
-    "correct_answer": "Electabuzz"
+    "correct_answer": "Lapras"
   },
-  "What is the name of this Water-type Pokémon known for its gentle nature?-Vaporeon": {
+  "What is the name of this Ghost-type Pokémon known for its Hex move?-Haunter": {
     "id": 42,
     "type": "multiple",
     "difficulty": "easy",
     "category": "pokemon",
-    "question": "Qual é o nome deste Pokémon do tipo Água conhecido pela sua natureza gentil?",
-    "image": "pokemon/images/Vaporeon.png",
+    "question": "Qual é o nome deste Pokémon do tipo Fantasma conhecido pelo seu movimento Hex?",
+    "image": "pokemon/images/Haunter.png",
     "incorrect_answers": [
-      "Jolteon",
-      "Flareon",
-      "Espeão"
+      "Gengar",
+      "Mismagius",
+      "Cofagrigus"
     ],
-    "correct_answer": "Vaporeão"
+    "correct_answer": "Assombração"
   },
-  "Identify this Ice-type Pokémon known for its icy breath.-Dewgong": {
+  "Identify this Dragon-type Pokémon known for its Dragon Claw move.-Salamence": {
     "id": 43,
     "type": "multiple",
     "difficulty": "easy",
     "category": "pokemon",
-    "question": "Identificar este Pokémon do tipo Gelo conhecido pelo seu hálito gelado.",
-    "image": "pokemon/images/Dewgong.png",
+    "question": "Identifique este Pokémon do tipo Dragão conhecido pelo seu movimento Dragon Claw.",
+    "image": "pokemon/images/Salamence.png",
     "incorrect_answers": [
-      "Seel",
-      "Cloyster",
-      "Lapras"
+      "Dragonite",
+      "Garchomp",
+      "Haxorus"
     ],
-    "correct_answer": "Dewgong"
+    "correct_answer": "Salamência"
   },
-  "Which Pokémon is this Grass-type known for its soothing aroma?-Oddish": {
-    "id": 44,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "pokemon",
-    "question": "Que Pokémon é este tipo de erva conhecido pelo seu aroma calmante?",
-    "image": "pokemon/images/Oddish.png",
-    "incorrect_answers": [
-      "Sombrio",
-      "Vileplume",
-      "Bellossom"
-    ],
-    "correct_answer": "Oddish"
-  },
-  "What is the name of this Psychic-type Pokémon known for its high psychic power?-Alakazam": {
+  "What is the name of this Poison-type Pokémon known for its Venoshock move?-Crobat": {
     "id": 45,
     "type": "multiple",
     "difficulty": "easy",
     "category": "pokemon",
-    "question": "Qual é o nome deste Pokémon do tipo Psíquico conhecido pelo seu elevado poder psíquico?",
-    "image": "pokemon/images/Alakazam.png",
+    "question": "Qual é o nome deste Pokémon do tipo venenoso conhecido pelo seu movimento Venoshock?",
+    "image": "pokemon/images/Crobat.png",
     "incorrect_answers": [
-      "Kadabra",
-      "Abra",
-      "Espeão"
+      "Toxicroak",
+      "Drapion",
+      "Nidoking"
     ],
-    "correct_answer": "Alakazam"
+    "correct_answer": "Crobat"
   },
-  "Identify this Normal-type Pokémon known for its high speed.-Pidgeot": {
+  "Identify this Flying-type Pokémon known for its Brave Bird move.-Skarmory": {
     "id": 46,
     "type": "multiple",
     "difficulty": "easy",
     "category": "pokemon",
-    "question": "Identifica este Pokémon de tipo Normal conhecido pela sua grande velocidade.",
-    "image": "pokemon/images/Pidgeot.png",
+    "question": "Identifica este Pokémon do tipo Voador conhecido pelo seu movimento Brave Bird.",
+    "image": "pokemon/images/Skarmory.png",
     "incorrect_answers": [
-      "Pidgeotto",
-      "Pombo-gigante",
-      "Lança"
+      "Caçador de estrelas",
+      "Braviário",
+      "Talonflame"
     ],
-    "correct_answer": "Pidgeot"
+    "correct_answer": "Skarmory"
   },
-  "Which Pokémon is this Fire-type known for its mane of flames?-Arcanine": {
+  "Which Pokémon is this Ground-type known for its Mud Shot move?-Swampert": {
     "id": 47,
     "type": "multiple",
     "difficulty": "easy",
     "category": "pokemon",
-    "question": "Que Pokémon é este tipo Fogo conhecido pela sua juba de chamas?",
-    "image": "pokemon/images/Arcanine.png",
+    "question": "Que Pokémon é este tipo terrestre conhecido pelo seu movimento Mud Shot?",
+    "image": "pokemon/images/Swampert.png",
     "incorrect_answers": [
-      "Growlithe",
-      "Charizard",
-      "Ninetales"
+      "Gastrodon",
+      "Quagsire",
+      "Mudsdale"
     ],
-    "correct_answer": "Arcanina"
+    "correct_answer": "Swampert"
   },
-  "What is the name of this Bug-type Pokémon known for its sharp stinger?-Beedrill": {
+  "What is the name of this Fire-type Pokémon known for its Lava Plume move?-Moltres": {
     "id": 48,
     "type": "multiple",
     "difficulty": "easy",
     "category": "pokemon",
-    "question": "Qual é o nome deste Pokémon do tipo inseto conhecido pelo seu ferrão afiado?",
-    "image": "pokemon/images/Beedrill.png",
+    "question": "Qual é o nome deste Pokémon do tipo Fogo conhecido pelo seu movimento Pluma de Lava?",
+    "image": "pokemon/images/Moltres.png",
     "incorrect_answers": [
-      "Sem manteiga",
-      "Kakuna",
-      "Erva daninha"
+      "Heatran",
+      "Entei",
+      "Magmortar"
     ],
-    "correct_answer": "Beedrill"
+    "correct_answer": "Moltres"
   },
-  "Identify this Fairy-type Pokémon known for its enchanting singing voice.-Clefairy": {
+  "Identify this Electric-type Pokémon known for its Wild Charge move.-Luxray": {
     "id": 49,
     "type": "multiple",
     "difficulty": "easy",
     "category": "pokemon",
-    "question": "Identifica este Pokémon do tipo Fada conhecido pela sua encantadora voz cantante.",
-    "image": "pokemon/images/Clefairy.png",
+    "question": "Identifique este Pokémon do tipo Elétrico conhecido pelo seu movimento Carga Selvagem.",
+    "image": "pokemon/images/Luxray.png",
     "incorrect_answers": [
-      "Clefable",
-      "Jigglypuff",
-      "Wigglytuff"
+      "Zebstrika",
+      "Electivire",
+      "Raikou"
     ],
-    "correct_answer": "Clefairy"
+    "correct_answer": "Luxray"
   },
-  "Which Pokémon is this Fighting-type known for its powerful punches?-Hitmonchan": {
+  "Which Pokémon is this Psychic-type known for its Psycho Cut move?-Kadabra": {
     "id": 50,
     "type": "multiple",
     "difficulty": "easy",
     "category": "pokemon",
-    "question": "Que Pokémon é este tipo Lutador conhecido pelos seus poderosos murros?",
-    "image": "pokemon/images/Hitmonchan.png",
+    "question": "Que Pokémon é este tipo Psíquico conhecido pelo seu movimento Psycho Cut?",
+    "image": "pokemon/images/Kadabra.png",
     "incorrect_answers": [
-      "Hitmonlee",
-      "Machop",
-      "Machamp"
+      "Alakazam",
+      "Gallade",
+      "Mewtwo"
     ],
-    "correct_answer": "Hitmonchan"
+    "correct_answer": "Kadabra"
   },
-  "What is the name of this Electric-type Pokémon known for its electric sacs?-Electabuzz": {
-    "id": 51,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "pokemon",
-    "question": "Qual é o nome deste Pokémon de tipo elétrico conhecido pelos seus sacos eléctricos?",
-    "image": "pokemon/images/Electabuzz.png",
-    "incorrect_answers": [
-      "Elétrodo",
-      "Pikachu",
-      "Raichu"
-    ],
-    "correct_answer": "Electabuzz"
-  },
-  "Identify this Grass-type Pokémon known for its vine whips.-Venusaur": {
+  "Identify this Normal-type Pokémon known for its Double-Edge move.-Tauros": {
     "id": 52,
     "type": "multiple",
     "difficulty": "easy",
     "category": "pokemon",
-    "question": "Identificar este Pokémon do tipo Erva conhecido pelos seus chicotes de videira.",
-    "image": "pokemon/images/Venusaur.png",
+    "question": "Identifica este Pokémon de tipo Normal conhecido pelo seu movimento Double-Edge.",
+    "image": "pokemon/images/Tauros.png",
     "incorrect_answers": [
-      "Ivysaur",
-      "Bulbasaur",
-      "Oddish"
+      "Snorlax",
+      "Ursar",
+      "Bouffalant"
     ],
-    "correct_answer": "Venusauro"
+    "correct_answer": "Tauros"
   },
-  "Which Pokémon is this Rock-type known for its boulder-like body?-Graveler": {
-    "id": 53,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "pokemon",
-    "question": "Que Pokémon é este tipo rochoso conhecido pelo seu corpo semelhante a um pedregulho?",
-    "image": "pokemon/images/Graveler.png",
-    "incorrect_answers": [
-      "Geodude",
-      "Onix",
-      "Rhyhorn"
-    ],
-    "correct_answer": "Cascalho"
-  },
-  "What is the name of this Water-type Pokémon known for its swift swimming?-Goldeen": {
+  "What is the name of this Dragon-type Pokémon known for its Dragon Pulse move?-Altaria": {
     "id": 54,
     "type": "multiple",
     "difficulty": "easy",
     "category": "pokemon",
-    "question": "Qual é o nome deste Pokémon do tipo Água conhecido pela sua natação rápida?",
-    "image": "pokemon/images/Goldeen.png",
+    "question": "Qual é o nome deste Pokémon do tipo Dragão conhecido pelo seu movimento Pulso de Dragão?",
+    "image": "pokemon/images/Altaria.png",
     "incorrect_answers": [
-      "Vedação",
-      "Magikarp",
-      "Gyarados"
+      "Dragonair",
+      "Salamência",
+      "Latios"
     ],
-    "correct_answer": "Goldeen"
+    "correct_answer": "Altaria"
   },
-  "Identify this Poison-type Pokémon known for its toxic attacks.-Weezing": {
+  "Identify this Bug-type Pokémon known for its Signal Beam move.-Venomoth": {
     "id": 55,
     "type": "multiple",
     "difficulty": "easy",
     "category": "pokemon",
-    "question": "Identifica este Pokémon do tipo venenoso conhecido pelos seus ataques tóxicos.",
-    "image": "pokemon/images/Weezing.png",
+    "question": "Identifica este Pokémon do tipo Inseto conhecido pelo seu movimento Signal Beam.",
+    "image": "pokemon/images/Venomoth.png",
     "incorrect_answers": [
-      "Koffing",
-      "Grimer",
-      "Muk"
+      "Sem manteiga",
+      "Beautifly",
+      "Vivillon"
     ],
-    "correct_answer": "Weezing"
+    "correct_answer": "Venomoth"
   },
-  "Which Pokémon is this Ground-type known for its earthquake attacks?-Rhydon": {
-    "id": 56,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "pokemon",
-    "question": "Que Pokémon é este tipo terrestre conhecido pelos seus ataques de terramoto?",
-    "image": "pokemon/images/Rhydon.png",
-    "incorrect_answers": [
-      "Rhyhorn",
-      "Onix",
-      "Golem"
-    ],
-    "correct_answer": "Rhydon"
-  },
-  "What is the name of this Ice-type Pokémon known for its frosty breath?-Dewgong": {
+  "What is the name of this Fairy-type Pokémon known for its Moonblast move?-Sylveon": {
     "id": 57,
     "type": "multiple",
     "difficulty": "easy",
     "category": "pokemon",
-    "question": "Qual é o nome deste Pokémon do tipo Gelo conhecido pelo seu hálito gelado?",
-    "image": "pokemon/images/Dewgong.png",
+    "question": "Qual é o nome deste Pokémon do tipo Fada conhecido pelo seu movimento Moonblast?",
+    "image": "pokemon/images/Sylveon.png",
     "incorrect_answers": [
-      "Seel",
-      "Cloyster",
-      "Lapras"
+      "Clefable",
+      "Gardevoir",
+      "Togekiss"
     ],
-    "correct_answer": "Dewgong"
+    "correct_answer": "Sylveon"
   },
-  "Identify this Psychic-type Pokémon known for its mental powers.-Drowzee": {
-    "id": 58,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "pokemon",
-    "question": "Identifica este Pokémon do tipo Psíquico conhecido pelos seus poderes mentais.",
-    "image": "pokemon/images/Drowzee.png",
-    "incorrect_answers": [
-      "Hypno",
-      "Abra",
-      "Kadabra"
-    ],
-    "correct_answer": "Drowzee"
-  },
-  "Which Pokémon is this Bug-type known for its silk attacks?-Kakuna": {
-    "id": 59,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "pokemon",
-    "question": "Que Pokémon é este tipo de inseto conhecido pelos seus ataques de seda?",
-    "image": "pokemon/images/Kakuna.png",
-    "incorrect_answers": [
-      "Beedrill",
-      "Sem manteiga",
-      "Erva daninha"
-    ],
-    "correct_answer": "Kakuna"
-  },
-  "What is the name of this Normal-type Pokémon known for its agility?-Rattata": {
+  "What is the name of this Ground-type Pokémon known for its Sand Tomb move?-Dugtrio": {
     "id": 60,
     "type": "multiple",
     "difficulty": "easy",
     "category": "pokemon",
-    "question": "Qual é o nome deste Pokémon de tipo Normal conhecido pela sua agilidade?",
-    "image": "pokemon/images/Rattata.png",
+    "question": "Qual é o nome deste Pokémon de tipo terrestre conhecido pelo seu movimento Túmulo de Areia?",
+    "image": "pokemon/images/Dugtrio.png",
     "incorrect_answers": [
-      "Raticate",
-      "Lança",
-      "Pombo-gigante"
+      "Trapinch",
+      "Garchomp",
+      "Faixa de areia"
     ],
-    "correct_answer": "Rattata"
+    "correct_answer": "Dugtrio"
   },
-  "Identify this Fire-type Pokémon known for its scorching flames.-Charmeleon": {
-    "id": 61,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "pokemon",
-    "question": "Identifica este Pokémon do tipo Fogo conhecido pelas suas chamas abrasadoras.",
-    "image": "pokemon/images/Charmeleon.png",
-    "incorrect_answers": [
-      "Charizard",
-      "Vulpix",
-      "Ninetales"
-    ],
-    "correct_answer": "Carmeleão"
-  },
-  "Which Pokémon is this Water-type known for its jet spray?-Squirtle": {
-    "id": 62,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "pokemon",
-    "question": "Que Pokémon é este tipo Água conhecido pelo seu jato de água?",
-    "image": "pokemon/images/Squirtle.png",
-    "incorrect_answers": [
-      "Wartortle",
-      "Blastoise",
-      "Psyduck"
-    ],
-    "correct_answer": "Esquilo"
-  },
-  "What is the name of this Electric-type Pokémon known for its shocking attacks?-Voltorb": {
-    "id": 63,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "pokemon",
-    "question": "Qual é o nome deste Pokémon de tipo elétrico conhecido pelos seus ataques chocantes?",
-    "image": "pokemon/images/Voltorb.png",
-    "incorrect_answers": [
-      "Elétrodo",
-      "Pikachu",
-      "Raichu"
-    ],
-    "correct_answer": "Voltorb"
-  },
-  "Identify this Ground-type Pokémon known for its burrowing ability.-Diglett": {
+  "Identify this Ghost-type Pokémon known for its Shadow Sneak move.-Banette": {
     "id": 64,
     "type": "multiple",
     "difficulty": "easy",
     "category": "pokemon",
-    "question": "Identifica este Pokémon de tipo terrestre conhecido pela sua capacidade de escavação.",
-    "image": "pokemon/images/Diglett.png",
+    "question": "Identifica este Pokémon do tipo Fantasma conhecido pelo seu movimento Shadow Sneak.",
+    "image": "pokemon/images/Banette.png",
     "incorrect_answers": [
-      "Dugtrio",
-      "Sandshrew",
-      "Faixa de areia"
+      "Mimikyu",
+      "Gengar",
+      "Shuppet"
     ],
-    "correct_answer": "Diglett"
+    "correct_answer": "Banquete"
   },
-  "Which Pokémon is this Grass-type known for its leaf attacks?-Ivysaur": {
-    "id": 65,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "pokemon",
-    "question": "Que Pokémon é este tipo Erva conhecido pelos seus ataques de folha?",
-    "image": "pokemon/images/Ivysaur.png",
-    "incorrect_answers": [
-      "Venusauro",
-      "Bulbasaur",
-      "Broto de Sinos"
-    ],
-    "correct_answer": "Ivysaur"
-  },
-  "What is the name of this Psychic-type Pokémon known for its telekinetic abilities?-Kadabra": {
-    "id": 66,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "pokemon",
-    "question": "Qual é o nome deste Pokémon do tipo Psíquico conhecido pelas suas capacidades telecinéticas?",
-    "image": "pokemon/images/Kadabra.png",
-    "incorrect_answers": [
-      "Alakazam",
-      "Abra",
-      "Espeão"
-    ],
-    "correct_answer": "Kadabra"
-  },
-  "Which Pokémon is this Rock-type known for its hard shell?-Geodude": {
-    "id": 68,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "pokemon",
-    "question": "Que Pokémon é este tipo de rocha conhecido pela sua carapaça dura?",
-    "image": "pokemon/images/Geodude.png",
-    "incorrect_answers": [
-      "Cascalho",
-      "Golem",
-      "Onix"
-    ],
-    "correct_answer": "Geodude"
-  },
-  "What is the name of this Water-type Pokémon known for its swimming ability?-Horsea": {
+  "What is the name of this Dragon-type Pokémon known for its Spacial Rend move?-Palkia": {
     "id": 69,
     "type": "multiple",
     "difficulty": "easy",
     "category": "pokemon",
-    "question": "Qual é o nome deste Pokémon do tipo Água conhecido pela sua capacidade de natação?",
-    "image": "pokemon/images/Horsea.png",
+    "question": "Qual é o nome deste Pokémon do tipo Dragão conhecido pelo seu movimento Spacial Rend?",
+    "image": "pokemon/images/Palkia.png",
     "incorrect_answers": [
-      "Seadra",
-      "Goldeen",
-      "Vedação"
+      "Dialga",
+      "Giratina",
+      "Arceus"
     ],
-    "correct_answer": "Horsea"
+    "correct_answer": "Palkia"
   },
-  "Identify this Poison-type Pokémon known for its toxicity.-Grimer": {
+  "Identify this Electric-type Pokémon known for its Zap Cannon move.-Electrode": {
     "id": 70,
     "type": "multiple",
     "difficulty": "easy",
     "category": "pokemon",
-    "question": "Identifica este Pokémon do tipo venenoso conhecido pela sua toxicidade.",
-    "image": "pokemon/images/Grimer.png",
+    "question": "Identifique este Pokémon do tipo Elétrico conhecido pelo seu movimento Zap Cannon.",
+    "image": "pokemon/images/Electrode.png",
     "incorrect_answers": [
-      "Muk",
-      "Koffing",
-      "Weezing"
+      "Voltorb",
+      "Zapdos",
+      "Magnezona"
     ],
-    "correct_answer": "Grimer"
+    "correct_answer": "Elétrodo"
   },
-  "Which Pokémon is this Fire-type known for its fiery breath?-Rapidash": {
+  "Which Pokémon is this Normal-type known for its Hyper Voice move?-Exploud": {
     "id": 71,
     "type": "multiple",
     "difficulty": "easy",
     "category": "pokemon",
-    "question": "Que Pokémon é este tipo Fogo conhecido pelo seu sopro ardente?",
-    "image": "pokemon/images/Rapidash.png",
+    "question": "Que Pokémon é este tipo Normal conhecido pelo seu movimento Hyper Voice?",
+    "image": "pokemon/images/Exploud.png",
     "incorrect_answers": [
-      "Ponyta",
-      "Charizard",
-      "Arcanina"
+      "Noivern",
+      "Suave",
+      "Ursar"
     ],
-    "correct_answer": "Rapidash"
+    "correct_answer": "Explosão"
   },
-  "What is the name of this Ice-type Pokémon known for its icy coating?-Cloyster": {
+  "What is the name of this Fire-type Pokémon known for its Flare Blitz move?-Infernape": {
     "id": 72,
     "type": "multiple",
     "difficulty": "easy",
     "category": "pokemon",
-    "question": "Qual é o nome deste Pokémon do tipo Gelo conhecido pelo seu revestimento gelado?",
-    "image": "pokemon/images/Cloyster.png",
+    "question": "Qual é o nome deste Pokémon do tipo Fogo conhecido pelo seu movimento Flare Blitz?",
+    "image": "pokemon/images/Infernape.png",
     "incorrect_answers": [
-      "Dewgong",
-      "Lapras",
-      "Articuno"
+      "Blaziken",
+      "Charizard",
+      "Arcanina"
     ],
-    "correct_answer": "Cloyster"
+    "correct_answer": "Infernape"
   },
-  "Identify this Grass-type Pokémon known for its soothing scent.-Vileplume": {
+  "Identify this Water-type Pokémon known for its Crabhammer move.-Kingler": {
     "id": 73,
     "type": "multiple",
     "difficulty": "easy",
     "category": "pokemon",
-    "question": "Identifica este Pokémon do tipo Erva conhecido pelo seu aroma calmante.",
-    "image": "pokemon/images/Vileplume.png",
+    "question": "Identifica este Pokémon de tipo Água conhecido pelo seu movimento Crabhammer.",
+    "image": "pokemon/images/Kingler.png",
     "incorrect_answers": [
-      "Oddish",
-      "Sombrio",
-      "Bellossom"
+      "Crawdaunt",
+      "Corphish",
+      "Krabby"
     ],
-    "correct_answer": "Vileplume"
+    "correct_answer": "Kingler"
   },
-  "Which Pokémon is this Psychic-type known for its mystical powers?-Drowzee": {
+  "Which Pokémon is this Bug-type known for its Megahorn move?-Heracross": {
     "id": 74,
     "type": "multiple",
     "difficulty": "easy",
     "category": "pokemon",
-    "question": "Que Pokémon é este tipo Psíquico conhecido pelos seus poderes místicos?",
-    "image": "pokemon/images/Drowzee.png",
+    "question": "Que Pokémon é este tipo Inseto conhecido pelo seu movimento Megahorn?",
+    "image": "pokemon/images/Heracross.png",
     "incorrect_answers": [
-      "Hypno",
-      "Mewtwo",
-      "Alakazam"
+      "Escavalier",
+      "Rhyhorn",
+      "Beedrill"
     ],
-    "correct_answer": "Drowzee"
+    "correct_answer": "Heracruz"
   },
-  "What is the name of this Bug-type Pokémon known for its stinging attacks?-Beedrill": {
+  "What is the name of this Psychic-type Pokémon known for its Mind Reader move?-Slowking": {
     "id": 75,
     "type": "multiple",
     "difficulty": "easy",
     "category": "pokemon",
-    "question": "Qual é o nome deste Pokémon do tipo Inseto conhecido pelos seus ataques com ferrões?",
-    "image": "pokemon/images/Beedrill.png",
+    "question": "Qual é o nome deste Pokémon do tipo Psíquico conhecido pelo seu movimento Leitor de Mentes?",
+    "image": "pokemon/images/Slowking.png",
     "incorrect_answers": [
-      "Sem manteiga",
-      "Kakuna",
-      "Erva daninha"
+      "Xatu",
+      "Gardevoir",
+      "Alakazam"
     ],
-    "correct_answer": "Beedrill"
+    "correct_answer": "Slowking"
   },
-  "Identify this Fire-type Pokémon known for its intense heat.-Arcanine": {
+  "Identify this Rock-type Pokémon known for its Ancient Power move.-Lileep": {
     "id": 76,
     "type": "multiple",
     "difficulty": "easy",
     "category": "pokemon",
-    "question": "Identifica este Pokémon do tipo Fogo conhecido pelo seu calor intenso.",
-    "image": "pokemon/images/Arcanine.png",
+    "question": "Identifica este Pokémon do tipo Rocha conhecido pelo seu movimento Poder Antigo.",
+    "image": "pokemon/images/Lileep.png",
     "incorrect_answers": [
-      "Growlithe",
-      "Charizard",
-      "Ninetales"
+      "Cradily",
+      "Omastar",
+      "Kabutops"
     ],
-    "correct_answer": "Arcanina"
+    "correct_answer": "Lileep"
   },
-  "Which Pokémon is this Water-type known for its elegant swimming?-Vaporeon": {
+  "Which Pokémon is this Grass-type known for its Leaf Storm move?-Leafeon": {
     "id": 77,
     "type": "multiple",
     "difficulty": "easy",
     "category": "pokemon",
-    "question": "Que Pokémon é este tipo Água conhecido pela sua natação elegante?",
-    "image": "pokemon/images/Vaporeon.png",
+    "question": "Que Pokémon é este tipo Erva conhecido pelo seu movimento Tempestade de Folhas?",
+    "image": "pokemon/images/Leafeon.png",
     "incorrect_answers": [
-      "Goldeen",
-      "Vedação",
-      "Milotic"
+      "Torterra",
+      "Serperior",
+      "Trópico"
     ],
-    "correct_answer": "Vaporeão"
+    "correct_answer": "Leafeon"
   },
-  "What is the name of this Electric-type Pokémon known for its shocking speed?-Pikachu": {
+  "What is the name of this Ground-type Pokémon known for its Earth Power move?-Groudon": {
     "id": 78,
     "type": "multiple",
     "difficulty": "easy",
     "category": "pokemon",
-    "question": "Qual é o nome deste Pokémon de tipo elétrico conhecido pela sua velocidade chocante?",
-    "image": "pokemon/images/Pikachu.png",
+    "question": "Qual é o nome deste Pokémon de tipo terrestre conhecido pelo seu movimento Poder da Terra?",
+    "image": "pokemon/images/Groudon.png",
     "incorrect_answers": [
-      "Raichu",
-      "Electabuzz",
-      "Jolteon"
+      "Nidoking",
+      "Flygon",
+      "Quagsire"
     ],
-    "correct_answer": "Pikachu"
+    "correct_answer": "Groudon"
   },
-  "Identify this Normal-type Pokémon known for its quick movements.-Rattata": {
+  "Identify this Dark-type Pokémon known for its Foul Play move.-Absol": {
     "id": 79,
     "type": "multiple",
     "difficulty": "easy",
     "category": "pokemon",
-    "question": "Identifica este Pokémon de tipo Normal conhecido pelos seus movimentos rápidos.",
-    "image": "pokemon/images/Rattata.png",
+    "question": "Identifica este Pokémon do tipo Dark conhecido pelo seu movimento Foul Play.",
+    "image": "pokemon/images/Absol.png",
     "incorrect_answers": [
-      "Raticate",
-      "Pombo-gigante",
-      "Lança"
+      "Umbreão",
+      "Mandibuzz",
+      "Sableye"
     ],
-    "correct_answer": "Rattata"
+    "correct_answer": "Absol"
   },
-  "Which Pokémon is this Ground-type known for its powerful digging?-Diglett": {
-    "id": 80,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "pokemon",
-    "question": "Que Pokémon é este tipo terrestre conhecido pela sua poderosa escavação?",
-    "image": "pokemon/images/Diglett.png",
-    "incorrect_answers": [
-      "Dugtrio",
-      "Sandshrew",
-      "Faixa de areia"
-    ],
-    "correct_answer": "Diglett"
-  },
-  "What is the name of this Fairy-type Pokémon known for its magical powers?-Clefairy": {
+  "What is the name of this Fire-type Pokémon known for its Incinerate move?-Emboar": {
     "id": 81,
     "type": "multiple",
     "difficulty": "easy",
     "category": "pokemon",
-    "question": "Qual é o nome deste Pokémon do tipo Fada conhecido pelos seus poderes mágicos?",
-    "image": "pokemon/images/Clefairy.png",
+    "question": "Qual é o nome deste Pokémon do tipo Fogo conhecido pelo seu movimento Incinerar?",
+    "image": "pokemon/images/Emboar.png",
     "incorrect_answers": [
-      "Clefable",
-      "Jigglypuff",
-      "Wigglytuff"
+      "Incineroar",
+      "Blaziken",
+      "Tepig"
     ],
-    "correct_answer": "Clefairy"
+    "correct_answer": "Emboar"
   },
-  "Identify this Rock-type Pokémon known for its rugged body.-Geodude": {
+  "Identify this Electric-type Pokémon known for its Discharge move.-Magnezone": {
     "id": 82,
     "type": "multiple",
     "difficulty": "easy",
     "category": "pokemon",
-    "question": "Identifica este Pokémon do tipo rocha conhecido pelo seu corpo robusto.",
-    "image": "pokemon/images/Geodude.png",
+    "question": "Identifique este Pokémon do tipo Elétrico conhecido pelo seu movimento de Descarga.",
+    "image": "pokemon/images/Magnezone.png",
     "incorrect_answers": [
-      "Cascalho",
-      "Onix",
-      "Rhyhorn"
+      "Electivire",
+      "Zapdos",
+      "Jolteon"
     ],
-    "correct_answer": "Geodude"
+    "correct_answer": "Magnezona"
   },
-  "Which Pokémon is this Bug-type known for its hard shell?-Metapod": {
-    "id": 83,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "pokemon",
-    "question": "Que Pokémon é este tipo de inseto conhecido pela sua carapaça dura?",
-    "image": "pokemon/images/Metapod.png",
-    "incorrect_answers": [
-      "Kakuna",
-      "Sem manteiga",
-      "Beedrill"
-    ],
-    "correct_answer": "Metápode"
-  },
-  "What is the name of this Psychic-type Pokémon known for its incredible psychic power?-Alakazam": {
+  "What is the name of this Bug-type Pokémon known for its Quiver Dance move?-Volcarona": {
     "id": 84,
     "type": "multiple",
     "difficulty": "easy",
     "category": "pokemon",
-    "question": "Qual é o nome deste Pokémon do tipo Psíquico conhecido pelo seu incrível poder psíquico?",
-    "image": "pokemon/images/Alakazam.png",
+    "question": "Qual é o nome deste Pokémon do tipo Inseto conhecido pelo seu movimento Quiver Dance?",
+    "image": "pokemon/images/Volcarona.png",
     "incorrect_answers": [
-      "Kadabra",
-      "Abra",
-      "Espeão"
+      "Sem manteiga",
+      "Venomoth",
+      "Beautifly"
     ],
-    "correct_answer": "Alakazam"
+    "correct_answer": "Volcarona"
   },
-  "Identify this Fire-type Pokémon known for its flaming tail.-Charmander": {
+  "Identify this Normal-type Pokémon known for its Last Resort move.-Eevee": {
     "id": 85,
     "type": "multiple",
     "difficulty": "easy",
     "category": "pokemon",
-    "question": "Identifica este Pokémon do tipo Fogo conhecido pela sua cauda flamejante.",
-    "image": "pokemon/images/Charmander.png",
+    "question": "Identifica este Pokémon de tipo Normal conhecido pelo seu movimento Last Resort.",
+    "image": "pokemon/images/Eevee.png",
     "incorrect_answers": [
-      "Carmeleão",
-      "Charizard",
-      "Vulpix"
+      "Snorlax",
+      "Blissey",
+      "Escravização"
     ],
-    "correct_answer": "Charmander"
+    "correct_answer": "Eevee"
   },
-  "Which Pokémon is this Water-type known for its shell?-Squirtle": {
+  "Which Pokémon is this Rock-type known for its Power Gem move?-Boldore": {
     "id": 86,
     "type": "multiple",
     "difficulty": "easy",
     "category": "pokemon",
-    "question": "Que Pokémon é este tipo Água conhecido pela sua carapaça?",
-    "image": "pokemon/images/Squirtle.png",
+    "question": "Que Pokémon é este tipo Rocha conhecido pelo seu movimento Power Gem?",
+    "image": "pokemon/images/Boldore.png",
     "incorrect_answers": [
-      "Wartortle",
-      "Blastoise",
-      "Lapras"
+      "Roggenrola",
+      "Carbink",
+      "Starmie"
     ],
-    "correct_answer": "Esquilo"
+    "correct_answer": "Boldore"
   },
-  "What is the name of this Ice-type Pokémon known for its chilly disposition?-Jynx": {
+  "What is the name of this Ice-type Pokémon known for its Icy Wind move?-Glalie": {
     "id": 87,
     "type": "multiple",
     "difficulty": "easy",
     "category": "pokemon",
-    "question": "Qual é o nome deste Pokémon do tipo Gelo conhecido pela sua disposição fria?",
-    "image": "pokemon/images/Jynx.png",
+    "question": "Qual é o nome deste Pokémon do tipo Gelo conhecido pelo seu movimento Vento Gélido?",
+    "image": "pokemon/images/Glalie.png",
     "incorrect_answers": [
+      "Bola de vidro",
       "Articuno",
-      "Lapras",
-      "Dewgong"
+      "Walrein"
     ],
-    "correct_answer": "Jynx"
+    "correct_answer": "Glalie"
   },
-  "Identify this Grass-type Pokémon known for its leafy body.-Bulbasaur": {
+  "Identify this Ghost-type Pokémon known for its Ominous Wind move.-Misdreavus": {
     "id": 88,
     "type": "multiple",
     "difficulty": "easy",
     "category": "pokemon",
-    "question": "Identifica este Pokémon do tipo erva, conhecido pelo seu corpo frondoso.",
-    "image": "pokemon/images/Bulbasaur.png",
+    "question": "Identifica este Pokémon do tipo Fantasma conhecido pelo seu movimento Ominous Wind.",
+    "image": "pokemon/images/Misdreavus.png",
     "incorrect_answers": [
-      "Ivysaur",
-      "Venusauro",
-      "Oddish"
+      "Drifloon",
+      "Gastly",
+      "Giratina"
     ],
-    "correct_answer": "Bulbasaur"
+    "correct_answer": "Misdreavus"
   },
-  "Which Pokémon is this Ground-type known for its large tusks?-Rhyhorn": {
-    "id": 89,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "pokemon",
-    "question": "Que Pokémon é este tipo terrestre conhecido pelas suas grandes presas?",
-    "image": "pokemon/images/Rhyhorn.png",
-    "incorrect_answers": [
-      "Rhydon",
-      "Donatário",
-      "Mamoswine"
-    ],
-    "correct_answer": "Rhyhorn"
-  },
-  "What is the name of this Electric-type Pokémon known for its electrical discharges?-Jolteon": {
-    "id": 90,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "pokemon",
-    "question": "Qual é o nome deste Pokémon do tipo elétrico conhecido pelas suas descargas eléctricas?",
-    "image": "pokemon/images/Jolteon.png",
-    "incorrect_answers": [
-      "Electivire",
-      "Raichu",
-      "Zapdos"
-    ],
-    "correct_answer": "Jolteon"
-  },
-  "Identify this Normal-type Pokémon known for its extreme speed.-Pidgeot": {
+  "Identify this Poison-type Pokémon known for its Cross Poison move.-Drapion": {
     "id": 91,
     "type": "multiple",
     "difficulty": "easy",
     "category": "pokemon",
-    "question": "Identifica este Pokémon de tipo Normal conhecido pela sua velocidade extrema.",
-    "image": "pokemon/images/Pidgeot.png",
+    "question": "Identifique este Pokémon do tipo venenoso conhecido pelo seu movimento Cross Poison.",
+    "image": "pokemon/images/Drapion.png",
     "incorrect_answers": [
-      "Pidgeotto",
-      "Fearow",
-      "Lança"
+      "Crobat",
+      "Roserade",
+      "Toxicroak"
     ],
-    "correct_answer": "Pidgeot"
+    "correct_answer": "Drapion"
   },
-  "Which Pokémon is this Poison-type known for its venomous sting?-Beedrill": {
-    "id": 92,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "pokemon",
-    "question": "Que Pokémon é este tipo Venenoso conhecido pelo seu ferrão venenoso?",
-    "image": "pokemon/images/Beedrill.png",
-    "incorrect_answers": [
-      "Erva daninha",
-      "Kakuna",
-      "Venomoth"
-    ],
-    "correct_answer": "Beedrill"
-  },
-  "What is the name of this Fire-type Pokémon known for its intense flames?-Charizard": {
-    "id": 93,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "pokemon",
-    "question": "Qual é o nome deste Pokémon do tipo Fogo conhecido pelas suas chamas intensas?",
-    "image": "pokemon/images/Charizard.png",
-    "incorrect_answers": [
-      "Carmeleão",
-      "Charmander",
-      "Moltres"
-    ],
-    "correct_answer": "Charizard"
-  },
-  "Identify this Water-type Pokémon known for its powerful hydro pump.-Blastoise": {
-    "id": 94,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "pokemon",
-    "question": "Identifica este Pokémon de tipo Água conhecido pela sua poderosa bomba hidráulica.",
-    "image": "pokemon/images/Blastoise.png",
-    "incorrect_answers": [
-      "Wartortle",
-      "Esquilo",
-      "Gyarados"
-    ],
-    "correct_answer": "Blastoise"
-  },
-  "Which Pokémon is this Ice-type known for its ice beam?-Dewgong": {
+  "Which Pokémon is this Water-type known for its Rain Dance move?-Vaporeon": {
     "id": 95,
     "type": "multiple",
     "difficulty": "easy",
     "category": "pokemon",
-    "question": "Que Pokémon é este tipo de gelo conhecido pelo seu raio de gelo?",
-    "image": "pokemon/images/Dewgong.png",
+    "question": "Que Pokémon é este tipo Água conhecido pelo seu movimento Dança da Chuva?",
+    "image": "pokemon/images/Vaporeon.png",
     "incorrect_answers": [
-      "Cloyster",
-      "Lapras",
-      "Articuno"
+      "Politoed",
+      "Lanturno",
+      "Kyogre"
     ],
-    "correct_answer": "Dewgong"
+    "correct_answer": "Vaporeão"
   },
-  "What is the name of this Bug-type Pokémon known for its agility?-Butterfree": {
+  "What is the name of this Bug-type Pokémon known for its Sticky Web move?-Ariados": {
     "id": 96,
     "type": "multiple",
     "difficulty": "easy",
     "category": "pokemon",
-    "question": "Qual é o nome deste Pokémon do tipo Inseto conhecido pela sua agilidade?",
-    "image": "pokemon/images/Butterfree.png",
+    "question": "Qual é o nome deste Pokémon do tipo Inseto conhecido pelo seu movimento Sticky Web?",
+    "image": "pokemon/images/Ariados.png",
     "incorrect_answers": [
-      "Beedrill",
-      "Scyther",
-      "Venomoth"
+      "Spinarak",
+      "Galvantula",
+      "Salsicha"
     ],
-    "correct_answer": "Sem manteiga"
+    "correct_answer": "Ariados"
   },
-  "Identify this Grass-type Pokémon known for its spores.-Vileplume": {
+  "Identify this Fire-type Pokémon known for its Sunny Day move.-Ninetales": {
     "id": 97,
     "type": "multiple",
     "difficulty": "easy",
     "category": "pokemon",
-    "question": "Identifica este Pokémon do tipo Erva conhecido pelos seus esporos.",
-    "image": "pokemon/images/Vileplume.png",
+    "question": "Identifique este Pokémon do tipo Fogo conhecido pelo seu movimento Sunny Day.",
+    "image": "pokemon/images/Ninetales.png",
     "incorrect_answers": [
-      "Oddish",
-      "Sombrio",
-      "Bellossom"
+      "Ponyta",
+      "Rapidash",
+      "Torkoal"
     ],
-    "correct_answer": "Vileplume"
+    "correct_answer": "Ninetales"
   },
-  "Which Pokémon is this Rock-type known for its rugged body?-Geodude": {
+  "Which Pokémon is this Ground-type known for its Bulldoze move?-Nidoqueen": {
     "id": 98,
     "type": "multiple",
     "difficulty": "easy",
     "category": "pokemon",
-    "question": "Que Pokémon é este tipo de rocha conhecido pelo seu corpo robusto?",
-    "image": "pokemon/images/Geodude.png",
+    "question": "Que Pokémon é este tipo terrestre conhecido pelo seu movimento Bulldoze?",
+    "image": "pokemon/images/Nidoqueen.png",
     "incorrect_answers": [
-      "Cascalho",
       "Golem",
-      "Onix"
+      "Rhydon",
+      "Krookodile"
     ],
-    "correct_answer": "Geodude"
+    "correct_answer": "Nidoqueen"
   },
-  "What is the name of this Water-type Pokémon known for its swift movements?-Vaporeon": {
-    "id": 99,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "pokemon",
-    "question": "Qual é o nome deste Pokémon do tipo Água conhecido pelos seus movimentos rápidos?",
-    "image": "pokemon/images/Vaporeon.png",
-    "incorrect_answers": [
-      "Goldeen",
-      "Vedação",
-      "Milotic"
-    ],
-    "correct_answer": "Vaporeão"
-  },
-  "Identify this Electric-type Pokémon known for its lightning speed.-Jolteon": {
+  "Identify this Psychic-type Pokémon known for its Hypnosis move.-Drowzee": {
     "id": 100,
     "type": "multiple",
     "difficulty": "easy",
     "category": "pokemon",
-    "question": "Identifique este Pokémon do tipo elétrico conhecido pela sua velocidade relâmpago.",
-    "image": "pokemon/images/Jolteon.png",
+    "question": "Identifica este Pokémon do tipo Psíquico conhecido pelo seu movimento Hypnosis.",
+    "image": "pokemon/images/Drowzee.png",
     "incorrect_answers": [
-      "Electabuzz",
-      "Zapdos",
-      "Raikou"
+      "Hypno",
+      "Gothita",
+      "Munna"
     ],
-    "correct_answer": "Jolteon"
+    "correct_answer": "Drowzee"
   },
-  "Which Pokémon is this Fairy-type known for its charming voice?-Jigglypuff": {
+  "Which Pokémon is this Normal-type known for its Play Rough move?-Jigglypuff": {
     "id": 101,
     "type": "multiple",
     "difficulty": "easy",
     "category": "pokemon",
-    "question": "Que Pokémon é este tipo de Fada conhecido pela sua voz encantadora?",
+    "question": "Que Pokémon é este tipo Normal conhecido pelo seu movimento Play Rough?",
     "image": "pokemon/images/Jigglypuff.png",
     "incorrect_answers": [
-      "Wigglytuff",
-      "Clefairy",
-      "Clefable"
+      "Tartaruga",
+      "Miltank",
+      "Stufful"
     ],
     "correct_answer": "Jigglypuff"
   },
-  "What is the name of this Ice-type Pokémon known for its cold nature?-Jynx": {
+  "What is the name of this Water-type Pokémon known for its Whirlpool move?-Horsea": {
     "id": 102,
     "type": "multiple",
     "difficulty": "easy",
     "category": "pokemon",
-    "question": "Qual é o nome deste Pokémon do tipo Gelo, conhecido pela sua natureza fria?",
-    "image": "pokemon/images/Jynx.png",
+    "question": "Qual é o nome deste Pokémon do tipo Água conhecido pelo seu movimento Whirlpool?",
+    "image": "pokemon/images/Horsea.png",
     "incorrect_answers": [
-      "Articuno",
-      "Lapras",
-      "Dewgong"
+      "Kingdra",
+      "Seadra",
+      "Goldeen"
     ],
-    "correct_answer": "Jynx"
+    "correct_answer": "Horsea"
   },
-  "Identify this Grass-type Pokémon known for its vines.-Venusaur": {
+  "Identify this Ice-type Pokémon known for its Avalanche move.-Snorunt": {
     "id": 103,
     "type": "multiple",
     "difficulty": "easy",
     "category": "pokemon",
-    "question": "Identifica este Pokémon do tipo erva, conhecido pelas suas vinhas.",
-    "image": "pokemon/images/Venusaur.png",
+    "question": "Identifique este Pokémon do tipo Gelo conhecido pelo seu movimento Avalanche.",
+    "image": "pokemon/images/Snorunt.png",
     "incorrect_answers": [
-      "Ivysaur",
-      "Bulbasaur",
-      "Broto de Sinos"
+      "Glalie",
+      "Bola de vidro",
+      "Avalugg"
     ],
-    "correct_answer": "Venusauro"
+    "correct_answer": "Snorunt"
   },
-  "Which Pokémon is this Ground-type known for its stomping attacks?-Rhydon": {
+  "Which Pokémon is this Bug-type known for its Infestation move?-Volbeat": {
     "id": 104,
     "type": "multiple",
     "difficulty": "easy",
     "category": "pokemon",
-    "question": "Qual é o Pokémon deste tipo terrestre conhecido pelos seus ataques de pisar?",
-    "image": "pokemon/images/Rhydon.png",
+    "question": "Que Pokémon é este tipo de inseto conhecido pelo seu movimento Infestação?",
+    "image": "pokemon/images/Volbeat.png",
     "incorrect_answers": [
-      "Rhyhorn",
-      "Donatário",
-      "Mamoswine"
+      "Iluminar",
+      "Salsicha",
+      "Combee"
     ],
-    "correct_answer": "Rhydon"
+    "correct_answer": "Volbeat"
   },
-  "What is the name of this Rock-type Pokémon known for its protective shell?-Cloyster": {
-    "id": 105,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "pokemon",
-    "question": "Qual é o nome deste Pokémon do tipo rocha conhecido pela sua carapaça protetora?",
-    "image": "pokemon/images/Cloyster.png",
-    "incorrect_answers": [
-      "Abrigo",
-      "Kabuto",
-      "Kabutops"
-    ],
-    "correct_answer": "Cloyster"
-  },
-  "Identify this Normal-type Pokémon known for its quickness.-Rattata": {
-    "id": 106,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "pokemon",
-    "question": "Identifica este Pokémon de tipo Normal conhecido pela sua rapidez.",
-    "image": "pokemon/images/Rattata.png",
-    "incorrect_answers": [
-      "Raticate",
-      "Pombo-gigante",
-      "Lança"
-    ],
-    "correct_answer": "Rattata"
-  },
-  "Which Pokémon is this Electric-type known for its spark attacks?-Pikachu": {
+  "Which Pokémon is this Poison-type known for its Toxic Spikes move?-Roselia": {
     "id": 107,
     "type": "multiple",
     "difficulty": "easy",
     "category": "pokemon",
-    "question": "Que Pokémon é este tipo elétrico conhecido pelos seus ataques de faísca?",
-    "image": "pokemon/images/Pikachu.png",
+    "question": "Que Pokémon é este tipo Venenoso conhecido pelo seu movimento Toxic Spikes?",
+    "image": "pokemon/images/Roselia.png",
     "incorrect_answers": [
-      "Raichu",
-      "Electabuzz",
-      "Jolteon"
+      "Roserade",
+      "Nidorina",
+      "Qwilfish"
     ],
-    "correct_answer": "Pikachu"
+    "correct_answer": "Rosélia"
   },
-  "What is the name of this Water-type Pokémon known for its splashing?-Magikarp": {
+  "What is the name of this Fire-type Pokémon known for its Flame Charge move?-Rapidash": {
     "id": 108,
     "type": "multiple",
     "difficulty": "easy",
     "category": "pokemon",
-    "question": "Qual é o nome deste Pokémon do tipo Água conhecido pelos seus salpicos?",
-    "image": "pokemon/images/Magikarp.png",
+    "question": "Qual é o nome deste Pokémon do tipo Fogo conhecido pelo seu movimento Carga de Chamas?",
+    "image": "pokemon/images/Rapidash.png",
     "incorrect_answers": [
-      "Gyarados",
-      "Feebas",
-      "Milotic"
+      "Blaziken",
+      "Infernape",
+      "Pyroar"
     ],
-    "correct_answer": "Magikarp"
+    "correct_answer": "Rapidash"
   },
-  "Identify this Fire-type Pokémon known for its scorching flames.-Rapidash": {
+  "Identify this Water-type Pokémon known for its Bubble Beam move.-Tentacool": {
     "id": 109,
     "type": "multiple",
     "difficulty": "easy",
     "category": "pokemon",
-    "question": "Identifica este Pokémon do tipo Fogo conhecido pelas suas chamas abrasadoras.",
-    "image": "pokemon/images/Rapidash.png",
+    "question": "Identifique este Pokémon do tipo Água conhecido pelo seu movimento Bubble Beam.",
+    "image": "pokemon/images/Tentacool.png",
     "incorrect_answers": [
-      "Ponyta",
-      "Charizard",
-      "Arcanina"
+      "Esquilo",
+      "Psyduck",
+      "Seel"
     ],
-    "correct_answer": "Rapidash"
+    "correct_answer": "Tentacool"
   },
-  "Which Pokémon is this Poison-type known for its venom?-Grimer": {
+  "Which Pokémon is this Bug-type known for its X-Scissor move?-Scyther": {
     "id": 110,
     "type": "multiple",
     "difficulty": "easy",
     "category": "pokemon",
-    "question": "Que Pokémon é este tipo venenoso conhecido pelo seu veneno?",
-    "image": "pokemon/images/Grimer.png",
+    "question": "Que Pokémon é este tipo de inseto conhecido pelo seu movimento X-Scissor?",
+    "image": "pokemon/images/Scyther.png",
     "incorrect_answers": [
-      "Muk",
-      "Koffing",
-      "Weezing"
+      "Pinsir",
+      "Leavanny",
+      "Galvantula"
     ],
-    "correct_answer": "Grimer"
+    "correct_answer": "Scyther"
   },
-  "What is the name of this Bug-type Pokémon known for its sharp pincers?-Pinsir": {
+  "What is the name of this Psychic-type Pokémon known for its Zen Headbutt move?-Metagross": {
     "id": 111,
     "type": "multiple",
     "difficulty": "easy",
     "category": "pokemon",
-    "question": "Qual é o nome deste Pokémon do tipo Inseto conhecido pelas suas pinças afiadas?",
-    "image": "pokemon/images/Pinsir.png",
+    "question": "Qual é o nome deste Pokémon do tipo Psíquico conhecido pelo seu movimento Zen Headbutt?",
+    "image": "pokemon/images/Metagross.png",
     "incorrect_answers": [
-      "Scyther",
-      "Heracruz",
-      "Beedrill"
+      "Alakazam",
+      "Gallade",
+      "Espeão"
     ],
-    "correct_answer": "Pinsir"
+    "correct_answer": "Metagrama"
   },
-  "Identify this Water-type Pokémon known for its powerful tail.-Gyarados": {
-    "id": 112,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "pokemon",
-    "question": "Identifica este Pokémon do tipo Água conhecido pela sua poderosa cauda.",
-    "image": "pokemon/images/Gyarados.png",
-    "incorrect_answers": [
-      "Magikarp",
-      "Seadra",
-      "Milotic"
-    ],
-    "correct_answer": "Gyarados"
-  },
-  "Which Pokémon is this Ice-type known for its icy scales?-Dewgong": {
-    "id": 113,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "pokemon",
-    "question": "Que Pokémon é este tipo de gelo conhecido pelas suas escamas geladas?",
-    "image": "pokemon/images/Dewgong.png",
-    "incorrect_answers": [
-      "Cloyster",
-      "Lapras",
-      "Articuno"
-    ],
-    "correct_answer": "Dewgong"
-  },
-  "What is the name of this Electric-type Pokémon known for its electrical output?-Voltorb": {
-    "id": 114,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "pokemon",
-    "question": "Qual é o nome deste Pokémon do tipo elétrico conhecido pela sua potência eléctrica?",
-    "image": "pokemon/images/Voltorb.png",
-    "incorrect_answers": [
-      "Elétrodo",
-      "Magnemite",
-      "Magneton"
-    ],
-    "correct_answer": "Voltorb"
-  },
-  "Identify this Grass-type Pokémon known for its leafy appendages.-Bulbasaur": {
-    "id": 115,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "pokemon",
-    "question": "Identifica este Pokémon do tipo erva, conhecido pelos seus apêndices folhosos.",
-    "image": "pokemon/images/Bulbasaur.png",
-    "incorrect_answers": [
-      "Ivysaur",
-      "Venusauro",
-      "Oddish"
-    ],
-    "correct_answer": "Bulbasaur"
-  },
-  "Which Pokémon is this Rock-type known for its hard body?-Geodude": {
-    "id": 116,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "pokemon",
-    "question": "Que Pokémon é este tipo de rocha conhecido pelo seu corpo duro?",
-    "image": "pokemon/images/Geodude.png",
-    "incorrect_answers": [
-      "Cascalho",
-      "Golem",
-      "Onix"
-    ],
-    "correct_answer": "Geodude"
-  },
-  "What is the name of this Water-type Pokémon known for its aquatic agility?-Squirtle": {
-    "id": 117,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "pokemon",
-    "question": "Qual é o nome deste Pokémon do tipo Água conhecido pela sua agilidade aquática?",
-    "image": "pokemon/images/Squirtle.png",
-    "incorrect_answers": [
-      "Wartortle",
-      "Blastoise",
-      "Lapras"
-    ],
-    "correct_answer": "Esquilo"
-  },
-  "Identify this Poison-type Pokémon known for its toxic abilities.-Muk": {
-    "id": 118,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "pokemon",
-    "question": "Identifique este Pokémon do tipo venenoso conhecido pelas suas capacidades tóxicas.",
-    "image": "pokemon/images/Muk.png",
-    "incorrect_answers": [
-      "Grimer",
-      "Koffing",
-      "Weezing"
-    ],
-    "correct_answer": "Muk"
-  },
-  "Which Pokémon is this Fire-type known for its fiery mane?-Growlithe": {
+  "Which Pokémon is this Flying-type known for its Gust move?-Butterfree": {
     "id": 119,
     "type": "multiple",
     "difficulty": "easy",
     "category": "pokemon",
-    "question": "Que Pokémon é este tipo Fogo conhecido pela sua juba ardente?",
-    "image": "pokemon/images/Growlithe.png",
+    "question": "Que Pokémon é este tipo Voador conhecido pelo seu movimento Gust?",
+    "image": "pokemon/images/Butterfree.png",
     "incorrect_answers": [
-      "Arcanina",
-      "Vulpix",
-      "Ninetales"
+      "Pidgeotto",
+      "Lança",
+      "Caçador de estrelas"
     ],
-    "correct_answer": "Growlithe"
+    "correct_answer": "Sem manteiga"
   },
-  "What is the name of this Ice-type Pokémon known for its freezing abilities?-Jynx": {
+  "What is the name of this Dragon-type Pokémon known for its Dual Chop move?-Fraxure": {
     "id": 120,
     "type": "multiple",
     "difficulty": "easy",
     "category": "pokemon",
-    "question": "Qual é o nome deste Pokémon do tipo Gelo conhecido pelas suas capacidades de congelamento?",
-    "image": "pokemon/images/Jynx.png",
+    "question": "Qual é o nome deste Pokémon do tipo Dragão conhecido pelo seu movimento Dual Chop?",
+    "image": "pokemon/images/Fraxure.png",
     "incorrect_answers": [
-      "Articuno",
-      "Lapras",
-      "Dewgong"
+      "Axew",
+      "Haxorus",
+      "Dragonite"
     ],
-    "correct_answer": "Jynx"
+    "correct_answer": "Fraxure"
   },
-  "Identify this Grass-type Pokémon known for its sharp leaves.-Ivysaur": {
+  "Identify this Steel-type Pokémon known for its Metal Sound move.-Aron": {
     "id": 121,
     "type": "multiple",
     "difficulty": "easy",
     "category": "pokemon",
-    "question": "Identifica este Pokémon do tipo erva, conhecido pelas suas folhas afiadas.",
-    "image": "pokemon/images/Ivysaur.png",
+    "question": "Identifique este Pokémon do tipo Aço conhecido pelo seu movimento Metal Sound.",
+    "image": "pokemon/images/Aron.png",
     "incorrect_answers": [
-      "Venusauro",
-      "Bulbasaur",
-      "Broto de Sinos"
+      "Lairon",
+      "Aggron",
+      "Steelix"
     ],
-    "correct_answer": "Ivysaur"
+    "correct_answer": "Aron"
   },
-  "Which Pokémon is this Ground-type known for its rock-hard body?-Onix": {
+  "Which Pokémon is this Poison-type known for its Poison Sting move?-Weedle": {
     "id": 122,
     "type": "multiple",
     "difficulty": "easy",
     "category": "pokemon",
-    "question": "Que Pokémon é este tipo terrestre conhecido pelo seu corpo duro como uma rocha?",
-    "image": "pokemon/images/Onix.png",
+    "question": "Que Pokémon é este tipo venenoso conhecido pelo seu movimento Poison Sting?",
+    "image": "pokemon/images/Weedle.png",
     "incorrect_answers": [
-      "Steelix",
-      "Geodude",
-      "Cascalho"
+      "Ekans",
+      "Nidoran♀",
+      "Zubat"
     ],
-    "correct_answer": "Onix"
+    "correct_answer": "Erva daninha"
   },
-  "What is the name of this Electric-type Pokémon known for its electric shocks?-Electabuzz": {
+  "What is the name of this Fire-type Pokémon known for its Flame Wheel move?-Cyndaquil": {
     "id": 123,
     "type": "multiple",
     "difficulty": "easy",
     "category": "pokemon",
-    "question": "Qual é o nome deste Pokémon de tipo elétrico conhecido pelos seus choques eléctricos?",
-    "image": "pokemon/images/Electabuzz.png",
+    "question": "Qual é o nome deste Pokémon do tipo Fogo conhecido pelo seu movimento Roda de Chamas?",
+    "image": "pokemon/images/Cyndaquil.png",
     "incorrect_answers": [
-      "Electivire",
-      "Pikachu",
-      "Raichu"
+      "Quilava",
+      "Tiflosão",
+      "Ponyta"
     ],
-    "correct_answer": "Electabuzz"
+    "correct_answer": "Cyndaquil"
   },
-  "Identify this Water-type Pokémon known for its streamlined body.-Magikarp": {
+  "Identify this Water-type Pokémon known for its Aqua Jet move.-Buizel": {
     "id": 124,
     "type": "multiple",
     "difficulty": "easy",
     "category": "pokemon",
-    "question": "Identifica este Pokémon do tipo Água conhecido pelo seu corpo aerodinâmico.",
-    "image": "pokemon/images/Magikarp.png",
+    "question": "Identifique este Pokémon do tipo Água conhecido pelo seu movimento Aqua Jet.",
+    "image": "pokemon/images/Buizel.png",
     "incorrect_answers": [
-      "Gyarados",
-      "Milotic",
-      "Vedação"
+      "Floatzel",
+      "Blastoise",
+      "Dewott"
     ],
-    "correct_answer": "Magikarp"
+    "correct_answer": "Buizel"
   },
-  "Which Pokémon is this Fire-type known for its intense heat?-Charizard": {
+  "Which Pokémon is this Bug-type known for its Bug Bite move?-Venipede": {
     "id": 125,
     "type": "multiple",
     "difficulty": "easy",
     "category": "pokemon",
-    "question": "Que Pokémon é este tipo Fogo conhecido pelo seu calor intenso?",
-    "image": "pokemon/images/Charizard.png",
+    "question": "Que Pokémon é este tipo Inseto conhecido pelo seu movimento Bug Bite?",
+    "image": "pokemon/images/Venipede.png",
     "incorrect_answers": [
-      "Charmander",
-      "Carmeleão",
-      "Moltres"
+      "Scolípede",
+      "Whirlipede",
+      "Forretress"
     ],
-    "correct_answer": "Charizard"
+    "correct_answer": "Venípede"
   },
-  "What is the name of this Ice-type Pokémon known for its glacial movement?-Dewgong": {
+  "What is the name of this Psychic-type Pokémon known for its Extrasensory move?-Xatu": {
     "id": 126,
     "type": "multiple",
     "difficulty": "easy",
     "category": "pokemon",
-    "question": "Qual é o nome deste Pokémon do tipo Gelo conhecido pelo seu movimento glaciar?",
-    "image": "pokemon/images/Dewgong.png",
+    "question": "Qual é o nome deste Pokémon do tipo Psíquico conhecido pelo seu movimento Extrasensorial?",
+    "image": "pokemon/images/Xatu.png",
     "incorrect_answers": [
-      "Cloyster",
-      "Lapras",
-      "Articuno"
+      "Natu",
+      "Espeão",
+      "Girafarig"
     ],
-    "correct_answer": "Dewgong"
+    "correct_answer": "Xatu"
   },
-  "Identify this Bug-type Pokémon known for its stinging attacks.-Beedrill": {
+  "Identify this Ground-type Pokémon known for its Sandstorm move.-Larvitar": {
     "id": 127,
     "type": "multiple",
     "difficulty": "easy",
     "category": "pokemon",
-    "question": "Identifica este Pokémon do tipo Inseto conhecido pelos seus ataques com ferrões.",
-    "image": "pokemon/images/Beedrill.png",
+    "question": "Identifique este Pokémon de tipo terrestre conhecido pelo seu movimento Sandstorm.",
+    "image": "pokemon/images/Larvitar.png",
     "incorrect_answers": [
-      "Sem manteiga",
-      "Scyther",
-      "Pinsir"
+      "Pupitar",
+      "Tyranitar",
+      "Trapinch"
     ],
-    "correct_answer": "Beedrill"
+    "correct_answer": "Larvitar"
   },
-  "Which Pokémon is this Grass-type known for its healing abilities?-Venusaur": {
-    "id": 128,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "pokemon",
-    "question": "Que Pokémon é este tipo Erva conhecido pelas suas capacidades de cura?",
-    "image": "pokemon/images/Venusaur.png",
-    "incorrect_answers": [
-      "Ivysaur",
-      "Bulbasaur",
-      "Bellossom"
-    ],
-    "correct_answer": "Venusauro"
-  },
-  "Identify this Electric-type Pokémon known for its high voltage.-Jolteon": {
-    "id": 130,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "pokemon",
-    "question": "Identifique este Pokémon do tipo elétrico conhecido pela sua alta voltagem.",
-    "image": "pokemon/images/Jolteon.png",
-    "incorrect_answers": [
-      "Flareon",
-      "Vaporeão",
-      "Espeão"
-    ],
-    "correct_answer": "Jolteon"
-  },
-  "Which Pokémon is this Fairy-type known for its enchanting appearance?-Clefairy": {
-    "id": 131,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "pokemon",
-    "question": "Que Pokémon é este tipo Fada conhecido pela sua aparência encantadora?",
-    "image": "pokemon/images/Clefairy.png",
-    "incorrect_answers": [
-      "Clefable",
-      "Jigglypuff",
-      "Wigglytuff"
-    ],
-    "correct_answer": "Clefairy"
-  },
-  "What is the name of this Ice-type Pokémon known for its frosty body?-Jynx": {
+  "What is the name of this Steel-type Pokémon known for its Magnet Rise move?-Magneton": {
     "id": 132,
     "type": "multiple",
     "difficulty": "easy",
     "category": "pokemon",
-    "question": "Qual é o nome deste Pokémon do tipo Gelo conhecido pelo seu corpo gelado?",
-    "image": "pokemon/images/Jynx.png",
+    "question": "Qual é o nome deste Pokémon do tipo Aço conhecido pelo seu movimento Magnet Rise?",
+    "image": "pokemon/images/Magneton.png",
     "incorrect_answers": [
-      "Articuno",
-      "Lapras",
-      "Dewgong"
+      "Magnezona",
+      "Skarmory",
+      "Steelix"
     ],
-    "correct_answer": "Jynx"
+    "correct_answer": "Magneton"
   },
-  "Identify this Grass-type Pokémon known for its leafy skin.-Bulbasaur": {
+  "Identify this Poison-type Pokémon known for its Venom Drench move.-Whirlipede": {
     "id": 133,
     "type": "multiple",
     "difficulty": "easy",
     "category": "pokemon",
-    "question": "Identifica este Pokémon do tipo erva, conhecido pela sua pele folhosa.",
-    "image": "pokemon/images/Bulbasaur.png",
+    "question": "Identifica este Pokémon de tipo Venenoso conhecido pelo seu movimento Venom Drench.",
+    "image": "pokemon/images/Whirlipede.png",
     "incorrect_answers": [
-      "Ivysaur",
-      "Venusauro",
-      "Oddish"
+      "Scolípede",
+      "Venípede",
+      "Seviper"
     ],
-    "correct_answer": "Bulbasaur"
+    "correct_answer": "Whirlipede"
   },
-  "Which Pokémon is this Rock-type known for its solid body?-Geodude": {
+  "Which Pokémon is this Flying-type known for its Peck move?-Spearow": {
     "id": 134,
     "type": "multiple",
     "difficulty": "easy",
     "category": "pokemon",
-    "question": "Que Pokémon é este tipo de rocha conhecido pelo seu corpo sólido?",
-    "image": "pokemon/images/Geodude.png",
+    "question": "Que Pokémon é este tipo Voador conhecido pelo seu movimento Peck?",
+    "image": "pokemon/images/Spearow.png",
     "incorrect_answers": [
-      "Cascalho",
-      "Golem",
-      "Onix"
+      "Fearow",
+      "Pombo-gigante",
+      "Estrelas"
     ],
-    "correct_answer": "Geodude"
+    "correct_answer": "Lança"
   },
-  "What is the name of this Water-type Pokémon known for its aquatic prowess?-Squirtle": {
+  "What is the name of this Dragon-type Pokémon known for its Outrage move?-Haxorus": {
     "id": 135,
     "type": "multiple",
     "difficulty": "easy",
     "category": "pokemon",
-    "question": "Qual é o nome deste Pokémon do tipo Água conhecido pelas suas proezas aquáticas?",
-    "image": "pokemon/images/Squirtle.png",
+    "question": "Qual é o nome deste Pokémon do tipo Dragão conhecido pelo seu movimento Ultraje?",
+    "image": "pokemon/images/Haxorus.png",
     "incorrect_answers": [
-      "Wartortle",
-      "Blastoise",
-      "Lapras"
+      "Dragonite",
+      "Garchomp",
+      "Salamência"
     ],
-    "correct_answer": "Esquilo"
+    "correct_answer": "Haxorus"
   },
-  "Identify this Poison-type Pokémon known for its noxious abilities.-Grimer": {
-    "id": 136,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "pokemon",
-    "question": "Identifique este Pokémon do tipo venenoso conhecido pelas suas capacidades nocivas.",
-    "image": "pokemon/images/Grimer.png",
-    "incorrect_answers": [
-      "Muk",
-      "Koffing",
-      "Weezing"
-    ],
-    "correct_answer": "Grimer"
-  },
-  "Which Pokémon is this Fire-type known for its blazing speed?-Growlithe": {
-    "id": 137,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "pokemon",
-    "question": "Que Pokémon é este tipo Fogo, conhecido pela sua velocidade ardente?",
-    "image": "pokemon/images/Growlithe.png",
-    "incorrect_answers": [
-      "Arcanina",
-      "Vulpix",
-      "Ninetales"
-    ],
-    "correct_answer": "Growlithe"
-  },
-  "What is the name of this Ice-type Pokémon known for its icy hide?-Jynx": {
-    "id": 138,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "pokemon",
-    "question": "Qual é o nome deste Pokémon do tipo Gelo conhecido pela sua pele gelada?",
-    "image": "pokemon/images/Jynx.png",
-    "incorrect_answers": [
-      "Articuno",
-      "Lapras",
-      "Dewgong"
-    ],
-    "correct_answer": "Jynx"
-  },
-  "Identify this Grass-type Pokémon known for its vine-like appendages.-Ivysaur": {
+  "Identify this Water-type Pokémon known for its Water Pulse move.-Seaking": {
     "id": 139,
     "type": "multiple",
     "difficulty": "easy",
     "category": "pokemon",
-    "question": "Identifica este Pokémon do tipo erva, conhecido pelos seus apêndices parecidos com videiras.",
-    "image": "pokemon/images/Ivysaur.png",
+    "question": "Identifica este Pokémon de tipo Água conhecido pelo seu movimento Water Pulse.",
+    "image": "pokemon/images/Seaking.png",
     "incorrect_answers": [
-      "Venusauro",
-      "Bulbasaur",
-      "Broto de Sinos"
+      "Goldeen",
+      "Milotic",
+      "Gyarados"
     ],
-    "correct_answer": "Ivysaur"
+    "correct_answer": "Vedação"
   },
-  "Which Pokémon is this Rock-type known for its sturdy nature?-Onix": {
+  "Which Pokémon is this Bug-type known for its Struggle Bug move?-Joltik": {
     "id": 140,
     "type": "multiple",
     "difficulty": "easy",
     "category": "pokemon",
-    "question": "Que Pokémon é este tipo de rocha conhecido pela sua natureza robusta?",
-    "image": "pokemon/images/Onix.png",
+    "question": "Que Pokémon é este tipo de inseto conhecido pelo seu movimento Struggle Bug?",
+    "image": "pokemon/images/Joltik.png",
     "incorrect_answers": [
-      "Steelix",
-      "Geodude",
-      "Cascalho"
+      "Galvantula",
+      "Dwebble",
+      "Crosta"
     ],
-    "correct_answer": "Onix"
+    "correct_answer": "Joltik"
   },
-  "What is the name of this Electric-type Pokémon known for its electric discharges?-Electabuzz": {
+  "What is the name of this Psychic-type Pokémon known for its Telekinesis move?-Gothitelle": {
     "id": 141,
     "type": "multiple",
     "difficulty": "easy",
     "category": "pokemon",
-    "question": "Qual é o nome deste Pokémon de tipo elétrico conhecido pelas suas descargas eléctricas?",
-    "image": "pokemon/images/Electabuzz.png",
+    "question": "Qual é o nome deste Pokémon do tipo Psíquico conhecido pelo seu movimento Telecinesia?",
+    "image": "pokemon/images/Gothitelle.png",
     "incorrect_answers": [
-      "Electivire",
-      "Pikachu",
-      "Raichu"
+      "Reuniclus",
+      "Solose",
+      "Elgyem"
     ],
-    "correct_answer": "Electabuzz"
+    "correct_answer": "Gothitelle"
   },
-  "Identify this Water-type Pokémon known for its powerful fins.-Magikarp": {
+  "Identify this Ground-type Pokémon known for its Bulldoze move.-Nidoking": {
     "id": 142,
     "type": "multiple",
     "difficulty": "easy",
     "category": "pokemon",
-    "question": "Identifica este Pokémon do tipo Água conhecido pelas suas poderosas barbatanas.",
-    "image": "pokemon/images/Magikarp.png",
+    "question": "Identifica este Pokémon de tipo terrestre conhecido pelo seu movimento Bulldoze.",
+    "image": "pokemon/images/Nidoking.png",
     "incorrect_answers": [
-      "Gyarados",
-      "Milotic",
-      "Vedação"
+      "Rhydon",
+      "Golem",
+      "Donatário"
     ],
-    "correct_answer": "Magikarp"
+    "correct_answer": "Nidoking"
   },
-  "Which Pokémon is this Fire-type known for its fiery nature?-Charizard": {
+  "Which Pokémon is this Rock-type known for its Rock Polish move?-Rhyhorn": {
     "id": 143,
     "type": "multiple",
     "difficulty": "easy",
     "category": "pokemon",
-    "question": "Que Pokémon é este tipo Fogo conhecido pela sua natureza ardente?",
-    "image": "pokemon/images/Charizard.png",
+    "question": "Que Pokémon é este tipo Rocha conhecido pelo seu movimento Polaco da Rocha?",
+    "image": "pokemon/images/Rhyhorn.png",
     "incorrect_answers": [
-      "Charmander",
-      "Carmeleão",
-      "Moltres"
+      "Geodude",
+      "Onix",
+      "Larvitar"
     ],
-    "correct_answer": "Charizard"
+    "correct_answer": "Rhyhorn"
   },
-  "What is the name of this Ice-type Pokémon known for its frosty appearance?-Dewgong": {
+  "What is the name of this Ice-type Pokémon known for its Ice Beam move?-Jynx": {
     "id": 144,
     "type": "multiple",
     "difficulty": "easy",
     "category": "pokemon",
-    "question": "Qual é o nome deste Pokémon do tipo Gelo conhecido pela sua aparência gelada?",
-    "image": "pokemon/images/Dewgong.png",
-    "incorrect_answers": [
-      "Cloyster",
-      "Lapras",
-      "Articuno"
-    ],
-    "correct_answer": "Dewgong"
-  },
-  "Identify this Bug-type Pokémon known for its poisonous stinger.-Beedrill": {
-    "id": 145,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "pokemon",
-    "question": "Identifica este Pokémon do tipo Inseto conhecido pelo seu ferrão venenoso.",
-    "image": "pokemon/images/Beedrill.png",
-    "incorrect_answers": [
-      "Sem manteiga",
-      "Scyther",
-      "Pinsir"
-    ],
-    "correct_answer": "Beedrill"
-  },
-  "Which Pokémon is this Grass-type known for its floral aroma?-Venusaur": {
-    "id": 146,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "pokemon",
-    "question": "Que Pokémon é este tipo de erva conhecido pelo seu aroma floral?",
-    "image": "pokemon/images/Venusaur.png",
-    "incorrect_answers": [
-      "Ivysaur",
-      "Bulbasaur",
-      "Bellossom"
-    ],
-    "correct_answer": "Venusauro"
-  },
-  "What is the name of this Water-type Pokémon known for its serene nature?-Vaporeon": {
-    "id": 147,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "pokemon",
-    "question": "Qual é o nome deste Pokémon do tipo Água conhecido pela sua natureza serena?",
-    "image": "pokemon/images/Vaporeon.png",
-    "incorrect_answers": [
-      "Jolteon",
-      "Flareon",
-      "Espeão"
-    ],
-    "correct_answer": "Vaporeão"
-  },
-  "Identify this Electric-type Pokémon known for its spark.-Jolteon": {
-    "id": 148,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "pokemon",
-    "question": "Identifique este Pokémon do tipo elétrico conhecido pela sua faísca.",
-    "image": "pokemon/images/Jolteon.png",
-    "incorrect_answers": [
-      "Flareon",
-      "Vaporeão",
-      "Espeão"
-    ],
-    "correct_answer": "Jolteon"
-  },
-  "Which Pokémon is this Fairy-type known for its cute appearance?-Clefairy": {
-    "id": 149,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "pokemon",
-    "question": "Qual é o Pokémon deste tipo de Fada conhecido pela sua aparência fofa?",
-    "image": "pokemon/images/Clefairy.png",
-    "incorrect_answers": [
-      "Clefable",
-      "Jigglypuff",
-      "Wigglytuff"
-    ],
-    "correct_answer": "Clefairy"
-  },
-  "What is the name of this Ice-type Pokémon known for its cold exterior?-Jynx": {
-    "id": 150,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "pokemon",
-    "question": "Qual é o nome deste Pokémon do tipo Gelo conhecido pelo seu exterior frio?",
+    "question": "Qual é o nome deste Pokémon do tipo Gelo conhecido pelo seu movimento Ice Beam?",
     "image": "pokemon/images/Jynx.png",
     "incorrect_answers": [
       "Articuno",
@@ -2071,172 +1399,438 @@
     ],
     "correct_answer": "Jynx"
   },
-  "Identify this Grass-type Pokémon known for its photosynthesis.-Bulbasaur": {
-    "id": 151,
+  "What is the name of this Water-type Pokémon known for its Scald move?-Golduck": {
+    "id": 202,
     "type": "multiple",
     "difficulty": "easy",
     "category": "pokemon",
-    "question": "Identifica este Pokémon do tipo erva conhecido pela sua fotossíntese.",
-    "image": "pokemon/images/Bulbasaur.png",
+    "question": "Qual é o nome deste Pokémon do tipo Água conhecido pelo seu movimento Escaldante?",
+    "image": "pokemon/images/Golduck.png",
     "incorrect_answers": [
-      "Ivysaur",
-      "Venusauro",
-      "Oddish"
-    ],
-    "correct_answer": "Bulbasaur"
-  },
-  "Which Pokémon is this Rock-type known for its durability?-Geodude": {
-    "id": 152,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "pokemon",
-    "question": "Que Pokémon é este tipo de rocha conhecido pela sua durabilidade?",
-    "image": "pokemon/images/Geodude.png",
-    "incorrect_answers": [
-      "Cascalho",
-      "Golem",
-      "Onix"
-    ],
-    "correct_answer": "Geodude"
-  },
-  "What is the name of this Water-type Pokémon known for its water jets?-Squirtle": {
-    "id": 153,
-    "type": "multiple",
-    "difficulty": "easy",
-    "category": "pokemon",
-    "question": "Qual é o nome deste Pokémon do tipo Água conhecido pelos seus jactos de água?",
-    "image": "pokemon/images/Squirtle.png",
-    "incorrect_answers": [
-      "Wartortle",
+      "Starmie",
       "Blastoise",
-      "Lapras"
+      "Vaporeão"
     ],
-    "correct_answer": "Esquilo"
+    "correct_answer": "Pato dourado"
   },
-  "Identify this Poison-type Pokémon known for its venomous bite.-Grimer": {
-    "id": 154,
+  "What is the name of this Dragon-type Pokémon known for its Dragon Tail move?-Dragonair": {
+    "id": 205,
     "type": "multiple",
     "difficulty": "easy",
     "category": "pokemon",
-    "question": "Identifica este Pokémon do tipo Venenoso conhecido pela sua mordida venenosa.",
-    "image": "pokemon/images/Grimer.png",
+    "question": "Qual é o nome deste Pokémon do tipo Dragão conhecido pelo seu movimento Cauda de Dragão?",
+    "image": "pokemon/images/Dragonair.png",
     "incorrect_answers": [
-      "Muk",
-      "Koffing",
-      "Weezing"
+      "Dragonite",
+      "Dratini",
+      "Salamência"
     ],
-    "correct_answer": "Grimer"
+    "correct_answer": "Dragonair"
   },
-  "Which Pokémon is this Fire-type known for its fiery breath?-Growlithe": {
-    "id": 155,
+  "Which Pokémon is this Dragon-type known for its Dragon Pulse move?-Flygon": {
+    "id": 216,
     "type": "multiple",
     "difficulty": "easy",
     "category": "pokemon",
-    "question": "Que Pokémon é este tipo Fogo conhecido pelo seu sopro ardente?",
-    "image": "pokemon/images/Growlithe.png",
+    "question": "Que Pokémon é este tipo Dragão conhecido pelo seu movimento Pulso de Dragão?",
+    "image": "pokemon/images/Flygon.png",
     "incorrect_answers": [
-      "Arcanina",
-      "Vulpix",
-      "Ninetales"
+      "Altaria",
+      "Garchomp",
+      "Dragonite"
     ],
-    "correct_answer": "Growlithe"
+    "correct_answer": "Flygon"
   },
-  "What is the name of this Ice-type Pokémon known for its icy body?-Jynx": {
-    "id": 156,
+  "What is the name of this Psychic-type Pokémon known for its Confusion move?-Abra": {
+    "id": 226,
     "type": "multiple",
     "difficulty": "easy",
     "category": "pokemon",
-    "question": "Qual é o nome deste Pokémon do tipo Gelo conhecido pelo seu corpo gelado?",
-    "image": "pokemon/images/Jynx.png",
+    "question": "Qual é o nome deste Pokémon do tipo Psíquico conhecido pelo seu movimento Confusão?",
+    "image": "pokemon/images/Abra.png",
     "incorrect_answers": [
-      "Articuno",
-      "Lapras",
-      "Dewgong"
+      "Kadabra",
+      "Alakazam",
+      "Espeão"
     ],
-    "correct_answer": "Jynx"
+    "correct_answer": "Abra"
   },
-  "Identify this Grass-type Pokémon known for its leaf storm.-Ivysaur": {
-    "id": 157,
+  "Identify this Ground-type Pokémon known for its Sand Tomb move.-Trapinch": {
+    "id": 227,
     "type": "multiple",
     "difficulty": "easy",
     "category": "pokemon",
-    "question": "Identifique este Pokémon do tipo Erva conhecido pela sua tempestade de folhas.",
-    "image": "pokemon/images/Ivysaur.png",
+    "question": "Identifique este Pokémon de tipo terrestre conhecido pelo seu movimento Túmulo de Areia.",
+    "image": "pokemon/images/Trapinch.png",
     "incorrect_answers": [
-      "Venusauro",
-      "Bulbasaur",
-      "Broto de Sinos"
+      "Vibrava",
+      "Flygon",
+      "Gible"
     ],
-    "correct_answer": "Ivysaur"
+    "correct_answer": "Trapinch"
   },
-  "Which Pokémon is this Rock-type known for its sturdy build?-Onix": {
-    "id": 158,
+  "What is the name of this Steel-type Pokémon known for its Heavy Slam move?-Aggron": {
+    "id": 232,
     "type": "multiple",
     "difficulty": "easy",
     "category": "pokemon",
-    "question": "Que Pokémon é este tipo de rocha conhecido pela sua construção robusta?",
-    "image": "pokemon/images/Onix.png",
+    "question": "Qual é o nome deste Pokémon do tipo Aço conhecido pelo seu movimento Heavy Slam?",
+    "image": "pokemon/images/Aggron.png",
+    "incorrect_answers": [
+      "Aron",
+      "Lairon",
+      "Steelix"
+    ],
+    "correct_answer": "Aggron"
+  },
+  "Identify this Poison-type Pokémon known for its Acid Spray move.-Skorupi": {
+    "id": 233,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Identifica este Pokémon do tipo Venenoso conhecido pelo seu movimento Acid Spray.",
+    "image": "pokemon/images/Skorupi.png",
+    "incorrect_answers": [
+      "Drapion",
+      "Gulpin",
+      "Seviper"
+    ],
+    "correct_answer": "Skorupi"
+  },
+  "Identify this Steel-type Pokémon known for its Mirror Shot move.-Forretress": {
+    "id": 236,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Identifique este Pokémon do tipo Aço conhecido pelo seu movimento Mirror Shot.",
+    "image": "pokemon/images/Forretress.png",
     "incorrect_answers": [
       "Steelix",
-      "Geodude",
-      "Cascalho"
+      "Magnezona",
+      "Escavalier"
     ],
-    "correct_answer": "Onix"
+    "correct_answer": "Forretress"
   },
-  "What is the name of this Electric-type Pokémon known for its electrical surges?-Electabuzz": {
-    "id": 159,
+  "Which Pokémon is this Poison-type known for its Venom Drench move?-Skrelp": {
+    "id": 237,
     "type": "multiple",
     "difficulty": "easy",
     "category": "pokemon",
-    "question": "Qual é o nome deste Pokémon de tipo elétrico conhecido pelos seus surtos eléctricos?",
-    "image": "pokemon/images/Electabuzz.png",
+    "question": "Que Pokémon é este tipo Venenoso conhecido pelo seu movimento Venom Drench?",
+    "image": "pokemon/images/Skrelp.png",
     "incorrect_answers": [
-      "Electivire",
-      "Pikachu",
-      "Raichu"
+      "Dragalge",
+      "Seviper",
+      "Toxicroak"
     ],
-    "correct_answer": "Electabuzz"
+    "correct_answer": "Skrelp"
   },
-  "Identify this Water-type Pokémon known for its agility in water.-Magikarp": {
-    "id": 160,
+  "What is the name of this Psychic-type Pokémon known for its Dream Eater move?-Hypno": {
+    "id": 241,
     "type": "multiple",
     "difficulty": "easy",
     "category": "pokemon",
-    "question": "Identifica este Pokémon do tipo Água conhecido pela sua agilidade na água.",
-    "image": "pokemon/images/Magikarp.png",
+    "question": "Qual é o nome deste Pokémon do tipo Psíquico conhecido pelo seu movimento Devorador de Sonhos?",
+    "image": "pokemon/images/Hypno.png",
     "incorrect_answers": [
-      "Gyarados",
-      "Milotic",
-      "Vedação"
+      "Drowzee",
+      "Munna",
+      "Musharna"
     ],
-    "correct_answer": "Magikarp"
+    "correct_answer": "Hypno"
   },
-  "Which Pokémon is this Fire-type known for its scorching fire?-Charizard": {
-    "id": 161,
+  "Which Pokémon is this Flying-type known for its Air Slash move?-Aerodactyl": {
+    "id": 249,
     "type": "multiple",
     "difficulty": "easy",
     "category": "pokemon",
-    "question": "Que Pokémon é este tipo Fogo, conhecido pelo seu fogo abrasador?",
-    "image": "pokemon/images/Charizard.png",
+    "question": "Que Pokémon é este tipo Voador conhecido pelo seu movimento Air Slash?",
+    "image": "pokemon/images/Aerodactyl.png",
     "incorrect_answers": [
-      "Charmander",
-      "Carmeleão",
-      "Moltres"
+      "Skarmory",
+      "Caçador de estrelas",
+      "Noivern"
     ],
-    "correct_answer": "Charizard"
+    "correct_answer": "Aerodáctilo"
   },
-  "What is the name of this Ice-type Pokémon known for its chilly aura?-Dewgong": {
-    "id": 162,
+  "Identify this Ghost-type Pokémon known for its Astonish move.-Shuppet": {
+    "id": 280,
     "type": "multiple",
     "difficulty": "easy",
     "category": "pokemon",
-    "question": "Qual é o nome deste Pokémon do tipo Gelo conhecido pela sua aura gelada?",
-    "image": "pokemon/images/Dewgong.png",
+    "question": "Identifica este Pokémon do tipo Fantasma conhecido pelo seu movimento Astonish.",
+    "image": "pokemon/images/Shuppet.png",
     "incorrect_answers": [
-      "Cloyster",
-      "Lapras",
-      "Articuno"
+      "Banquete",
+      "Misdreavus",
+      "Assombração"
     ],
-    "correct_answer": "Dewgong"
+    "correct_answer": "Shuppet"
+  },
+  "What is the name of this Dragon-type Pokémon known for its Dragon Hammer move?-Alolan Exeggutor": {
+    "id": 285,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Qual é o nome deste Pokémon do tipo Dragão conhecido pelo seu movimento Dragon Hammer?",
+    "image": "pokemon/images/Alolan Exeggutor.png",
+    "incorrect_answers": [
+      "Kommo-o",
+      "Haxorus",
+      "Dragonite"
+    ],
+    "correct_answer": "Exeggutor de Alola"
+  },
+  "Which Pokémon is this Poison-type known for its Baneful Bunker move?-Toxapex": {
+    "id": 287,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Que Pokémon é este tipo Venenoso conhecido pelo seu movimento Baneful Bunker?",
+    "image": "pokemon/images/Toxapex.png",
+    "incorrect_answers": [
+      "Mareanie",
+      "Skrelp",
+      "Qwilfish"
+    ],
+    "correct_answer": "Toxapex"
+  },
+  "What is the name of this Fire-type Pokémon known for its Fire Lash move?-Heatmor": {
+    "id": 288,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Qual é o nome deste Pokémon do tipo Fogo conhecido pelo seu movimento Fire Lash?",
+    "image": "pokemon/images/Heatmor.png",
+    "incorrect_answers": [
+      "Salandit",
+      "Salazzle",
+      "Incineroar"
+    ],
+    "correct_answer": "Heatmor"
+  },
+  "Identify this Water-type Pokémon known for its Liquidation move.-Golisopod": {
+    "id": 289,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Identifica este Pokémon de tipo Água conhecido pela sua jogada Liquidation.",
+    "image": "pokemon/images/Golisopod.png",
+    "incorrect_answers": [
+      "Pyukumuku",
+      "Araquanídeo",
+      "Bruxês"
+    ],
+    "correct_answer": "Golisópode"
+  },
+  "Which Pokémon is this Bug-type known for its Lunge move?-Araquanid": {
+    "id": 290,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Que Pokémon é este tipo Inseto conhecido pelo seu movimento Lunge?",
+    "image": "pokemon/images/Araquanid.png",
+    "incorrect_answers": [
+      "Vikavolt",
+      "Golisópode",
+      "Grubbin"
+    ],
+    "correct_answer": "Araquanídeo"
+  },
+  "What is the name of this Psychic-type Pokémon known for its Prismatic Laser move?-Necrozma": {
+    "id": 291,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Qual é o nome deste Pokémon do tipo Psíquico conhecido pelo seu movimento Laser Prismático?",
+    "image": "pokemon/images/Necrozma.png",
+    "incorrect_answers": [
+      "Solgaleo",
+      "Lunala",
+      "Espeão"
+    ],
+    "correct_answer": "Necrozma"
+  },
+  "Identify this Ground-type Pokémon known for its High Horsepower move.-Mudsdale": {
+    "id": 292,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Identifica este Pokémon de tipo terrestre conhecido pelo seu movimento High Horsepower.",
+    "image": "pokemon/images/Mudsdale.png",
+    "incorrect_answers": [
+      "Donatário",
+      "Garchomp",
+      "Rhyperior"
+    ],
+    "correct_answer": "Mudsdale"
+  },
+  "Which Pokémon is this Rock-type known for its Continental Crush move?-Lycanroc": {
+    "id": 293,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Que Pokémon é este tipo Rocha conhecido pelo seu movimento Esmagamento Continental?",
+    "image": "pokemon/images/Lycanroc.png",
+    "incorrect_answers": [
+      "Rampardos",
+      "Tyrantrum",
+      "Terrakion"
+    ],
+    "correct_answer": "Licantropo"
+  },
+  "Identify this Ghost-type Pokémon known for its Moongeist Beam move.-Lunala": {
+    "id": 295,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Identifica este Pokémon do tipo Fantasma conhecido pelo seu movimento Moongeist Beam.",
+    "image": "pokemon/images/Lunala.png",
+    "incorrect_answers": [
+      "Gengar",
+      "Mismagius",
+      "Sableye"
+    ],
+    "correct_answer": "Lunala"
+  },
+  "Which Pokémon is this Dragon-type known for its Clanging Scales move?-Kommo-o": {
+    "id": 296,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Que Pokémon é este tipo de Dragão conhecido pelo seu movimento Escamas Estrondosas?",
+    "image": "pokemon/images/Kommo-o.png",
+    "incorrect_answers": [
+      "Jangmo-o",
+      "Hakamo-o",
+      "Dragalge"
+    ],
+    "correct_answer": "Kommo-o"
+  },
+  "Which Pokémon is this Poison-type known for its Gunk Shot move?-Garbodor": {
+    "id": 307,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Que Pokémon é este tipo Venenoso conhecido pelo seu movimento Gunk Shot?",
+    "image": "pokemon/images/Garbodor.png",
+    "incorrect_answers": [
+      "Muk",
+      "Weezing",
+      "Nidoking"
+    ],
+    "correct_answer": "Garbodor"
+  },
+  "What is the name of this Fire-type Pokémon known for its Fire Fang move?-Arcanine": {
+    "id": 308,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Qual é o nome deste Pokémon do tipo Fogo conhecido pelo seu movimento Fire Fang?",
+    "image": "pokemon/images/Arcanine.png",
+    "incorrect_answers": [
+      "Houndoom",
+      "Charizard",
+      "Flareon"
+    ],
+    "correct_answer": "Arcanina"
+  },
+  "Identify this Water-type Pokémon known for its Water Spout move.-Wailord": {
+    "id": 309,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Identifica este Pokémon de tipo Água conhecido pelo seu movimento Water Spout.",
+    "image": "pokemon/images/Wailord.png",
+    "incorrect_answers": [
+      "Blastoise",
+      "Kyogre",
+      "Gyarados"
+    ],
+    "correct_answer": "Wailord"
+  },
+  "Which Pokémon is this Bug-type known for its Powder move?-Vivillon": {
+    "id": 310,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Que Pokémon é este tipo de inseto conhecido pelo seu movimento Powder?",
+    "image": "pokemon/images/Vivillon.png",
+    "incorrect_answers": [
+      "Sem manteiga",
+      "Venomoth",
+      "Beautifly"
+    ],
+    "correct_answer": "Vivillon"
+  },
+  "What is the name of this Psychic-type Pokémon known for its Heart Stamp move?-Swoobat": {
+    "id": 311,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Qual é o nome deste Pokémon do tipo Psíquico conhecido pelo seu movimento Carimbo do Coração?",
+    "image": "pokemon/images/Swoobat.png",
+    "incorrect_answers": [
+      "Jynx",
+      "Woobat",
+      "Espeão"
+    ],
+    "correct_answer": "Swoobat"
+  },
+  "What is the name of this Steel-type Pokémon known for its Doom Desire move?-Jirachi": {
+    "id": 317,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Qual é o nome deste Pokémon do tipo Aço conhecido pelo seu movimento Desejo de Destruição?",
+    "image": "pokemon/images/Jirachi.png",
+    "incorrect_answers": [
+      "Celebi",
+      "Mew",
+      "Victini"
+    ],
+    "correct_answer": "Jirachi"
+  },
+  "What is the name of this Dragon-type Pokémon known for its Dragon Ascent move?-Rayquaza": {
+    "id": 320,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Qual é o nome deste Pokémon do tipo Dragão conhecido pelo seu movimento Dragon Ascent?",
+    "image": "pokemon/images/Rayquaza.png",
+    "incorrect_answers": [
+      "Salamência",
+      "Charizard",
+      "Dragonite"
+    ],
+    "correct_answer": "Rayquaza"
+  },
+  "Which Pokémon is this Rock-type known for its Rock Wrecker move?-Rhyperior": {
+    "id": 328,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Que Pokémon é este tipo Rocha conhecido pelo seu movimento Destruidor de Rochas?",
+    "image": "pokemon/images/Rhyperior.png",
+    "incorrect_answers": [
+      "Tyranitar",
+      "Golem",
+      "Regirock"
+    ],
+    "correct_answer": "Rhyperior"
+  },
+  "Identify this Steel-type Pokémon known for its King's Shield move.-Aegislash": {
+    "id": 336,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "pokemon",
+    "question": "Identifique este Pokémon do tipo Aço conhecido pelo seu movimento Escudo do Rei.",
+    "image": "pokemon/images/Aegislash.png",
+    "incorrect_answers": [
+      "Escavalier",
+      "Bisharp",
+      "Klingklang"
+    ],
+    "correct_answer": "Aegislash"
   }
 }

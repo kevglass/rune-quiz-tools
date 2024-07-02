@@ -1,1447 +1,1723 @@
 [
   {
-    "question": "Which Pokémon is known as the 'Mud Fish Pokémon'?",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/260.png",
+    "id": 1,
+    "question": "Which Pokémon is known as the 'Seed Pokémon'?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/001.png",
     "choices": [
-      "Mudkip",
-      "Marshtomp",
-      "Swampert",
-      "Wooper"
+      "Bulbasaur",
+      "Chikorita",
+      "Turtwig",
+      "Sunkern"
     ],
-    "answer": "Swampert"
+    "answer": "Bulbasaur"
   },
   {
-    "question": "Identify this Electric-type Legendary Pokémon.",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/145.png",
-    "choices": [
-      "Raikou",
-      "Zapdos",
-      "Jolteon",
-      "Electivire"
-    ],
-    "answer": "Zapdos"
-  },
-  {
-    "question": "What is the name of this Psychic-type Pokémon?",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/063.png",
-    "choices": [
-      "Kadabra",
-      "Alakazam",
-      "Abra",
-      "Mewtwo"
-    ],
-    "answer": "Abra"
-  },
-  {
-    "question": "This Pokémon is known for its ability to metamorphose. Identify it.",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/012.png",
-    "choices": [
-      "Metapod",
-      "Butterfree",
-      "Venonat",
-      "Silcoon"
-    ],
-    "answer": "Butterfree"
-  },
-  {
-    "question": "Which Pokémon is this Fire-type starter from the Kanto region?",
+    "id": 2,
+    "question": "Identify this Fire-type Pokémon known for its fiery tail.",
     "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/004.png",
     "choices": [
       "Charmander",
-      "Cyndaquil",
-      "Torchic",
-      "Chimchar"
+      "Vulpix",
+      "Growlithe",
+      "Cyndaquil"
     ],
     "answer": "Charmander"
   },
   {
-    "question": "What is the name of this Fairy-type Pokémon?",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/035.png",
-    "choices": [
-      "Clefairy",
-      "Clefable",
-      "Jigglypuff",
-      "Togepi"
-    ],
-    "answer": "Clefairy"
-  },
-  {
-    "question": "Identify this Rock-type Pokémon known for its hard body.",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/095.png",
-    "choices": [
-      "Onix",
-      "Geodude",
-      "Rhyhorn",
-      "Kabuto"
-    ],
-    "answer": "Onix"
-  },
-  {
-    "question": "Which Pokémon is this Ice-type, known as the 'Freeze Pokémon'?",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/144.png",
-    "choices": [
-      "Articuno",
-      "Glaceon",
-      "Froslass",
-      "Regice"
-    ],
-    "answer": "Articuno"
-  },
-  {
-    "question": "What is the name of this Ghost/Poison-type Pokémon?",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/094.png",
-    "choices": [
-      "Gengar",
-      "Haunter",
-      "Gastly",
-      "Misdreavus"
-    ],
-    "answer": "Gengar"
-  },
-  {
-    "question": "Identify this Ground-type Pokémon known for its speed.",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/051.png",
-    "choices": [
-      "Diglett",
-      "Dugtrio",
-      "Sandslash",
-      "Golem"
-    ],
-    "answer": "Dugtrio"
-  },
-  {
-    "question": "Which Pokémon is this Normal-type known for its singing?",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/040.png",
-    "choices": [
-      "Wigglytuff",
-      "Jigglypuff",
-      "Clefable",
-      "Snorlax"
-    ],
-    "answer": "Wigglytuff"
-  },
-  {
-    "question": "What is the name of this Water-type starter Pokémon?",
+    "id": 3,
+    "question": "What is the name of this Water-type Pokémon known for its shell?",
     "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/007.png",
     "choices": [
       "Squirtle",
+      "Oshawott",
       "Totodile",
-      "Mudkip",
       "Piplup"
     ],
     "answer": "Squirtle"
   },
   {
-    "question": "Identify this Poison-type Pokémon known for its multiple forms.",
+    "id": 4,
+    "question": "This Pokémon is known for its ability to clone itself. Identify it.",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/132.png",
+    "choices": [
+      "Ditto",
+      "Mew",
+      "Eevee",
+      "Zorua"
+    ],
+    "answer": "Ditto"
+  },
+  {
+    "id": 5,
+    "question": "Which Pokémon is this Electric-type, known as the 'Mouse Pokémon'?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/025.png",
+    "choices": [
+      "Pikachu",
+      "Raichu",
+      "Pichu",
+      "Plusle"
+    ],
+    "answer": "Pikachu"
+  },
+  {
+    "id": 6,
+    "question": "What is the name of this Rock-type Pokémon known for its hardness?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/074.png",
+    "choices": [
+      "Geodude",
+      "Onix",
+      "Rhyhorn",
+      "Larvitar"
+    ],
+    "answer": "Geodude"
+  },
+  {
+    "id": 7,
+    "question": "Identify this Grass-type Pokémon known for its flower.",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/003.png",
+    "choices": [
+      "Venusaur",
+      "Ivysaur",
+      "Meganium",
+      "Sunflora"
+    ],
+    "answer": "Venusaur"
+  },
+  {
+    "id": 8,
+    "question": "Which Pokémon is this Ghost-type known for its Shadow Tag ability?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/292.png",
+    "choices": [
+      "Shedinja",
+      "Gengar",
+      "Banette",
+      "Misdreavus"
+    ],
+    "answer": "Shedinja"
+  },
+  {
+    "id": 9,
+    "question": "What is the name of this Ice-type Pokémon known for its Ice Beam attack?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/087.png",
+    "choices": [
+      "Dewgong",
+      "Cloyster",
+      "Lapras",
+      "Articuno"
+    ],
+    "answer": "Dewgong"
+  },
+  {
+    "id": 10,
+    "question": "Identify this Dark-type Pokémon known for its Illusion ability.",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/571.png",
+    "choices": [
+      "Zoroark",
+      "Umbreon",
+      "Absol",
+      "Houndoom"
+    ],
+    "answer": "Zoroark"
+  },
+  {
+    "id": 11,
+    "question": "Which Pokémon is this Steel-type known for its Iron Tail move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/208.png",
+    "choices": [
+      "Steelix",
+      "Aggron",
+      "Metagross",
+      "Scizor"
+    ],
+    "answer": "Steelix"
+  },
+  {
+    "id": 12,
+    "question": "What is the name of this Dragon-type Pokémon known for its Dragon Rage attack?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/147.png",
+    "choices": [
+      "Dratini",
+      "Dragonair",
+      "Dragonite",
+      "Salamence"
+    ],
+    "answer": "Dratini"
+  },
+  {
+    "id": 13,
+    "question": "Identify this Fairy-type Pokémon known for its Metronome ability.",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/175.png",
+    "choices": [
+      "Togepi",
+      "Clefairy",
+      "Snubbull",
+      "Ralts"
+    ],
+    "answer": "Togepi"
+  },
+  {
+    "id": 14,
+    "question": "Which Pokémon is this Normal-type known for its Rest move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/143.png",
+    "choices": [
+      "Snorlax",
+      "Slaking",
+      "Blissey",
+      "Ursaring"
+    ],
+    "answer": "Snorlax"
+  },
+  {
+    "id": 15,
+    "question": "What is the name of this Bug-type Pokémon known for its Sticky Web ability?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/167.png",
+    "choices": [
+      "Spinarak",
+      "Ariados",
+      "Galvantula",
+      "Shuckle"
+    ],
+    "answer": "Spinarak"
+  },
+  {
+    "id": 16,
+    "question": "Identify this Poison-type Pokémon known for its Toxic ability.",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/088.png",
+    "choices": [
+      "Grimer",
+      "Muk",
+      "Koffing",
+      "Nidorina"
+    ],
+    "answer": "Grimer"
+  },
+  {
+    "id": 17,
+    "question": "Which Pokémon is this Water-type known for its Hydro Pump move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/009.png",
+    "choices": [
+      "Blastoise",
+      "Gyarados",
+      "Vaporeon",
+      "Starmie"
+    ],
+    "answer": "Blastoise"
+  },
+  {
+    "id": 18,
+    "question": "What is the name of this Electric-type Pokémon known for its Thunder Shock move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/025.png",
+    "choices": [
+      "Pikachu",
+      "Raichu",
+      "Electabuzz",
+      "Jolteon"
+    ],
+    "answer": "Pikachu"
+  },
+  {
+    "id": 19,
+    "question": "Identify this Ground-type Pokémon known for its Earthquake move.",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/095.png",
+    "choices": [
+      "Onix",
+      "Steelix",
+      "Golem",
+      "Rhydon"
+    ],
+    "answer": "Onix"
+  },
+  {
+    "id": 20,
+    "question": "Which Pokémon is this Fire-type known for its Flamethrower move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/006.png",
+    "choices": [
+      "Charizard",
+      "Arcanine",
+      "Flareon",
+      "Moltres"
+    ],
+    "answer": "Charizard"
+  },
+  {
+    "id": 21,
+    "question": "What is the name of this Psychic-type Pokémon known for its Psychic move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/065.png",
+    "choices": [
+      "Alakazam",
+      "Espeon",
+      "Mewtwo",
+      "Gardevoir"
+    ],
+    "answer": "Alakazam"
+  },
+  {
+    "id": 22,
+    "question": "Identify this Fighting-type Pokémon known for its Karate Chop move.",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/106.png",
+    "choices": [
+      "Hitmonlee",
+      "Hitmonchan",
+      "Machop",
+      "Mankey"
+    ],
+    "answer": "Hitmonlee"
+  },
+  {
+    "id": 23,
+    "question": "Which Pokémon is this Grass-type known for its Solar Beam move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/003.png",
+    "choices": [
+      "Venusaur",
+      "Exeggutor",
+      "Sunflora",
+      "Tropius"
+    ],
+    "answer": "Venusaur"
+  },
+  {
+    "id": 24,
+    "question": "What is the name of this Water-type Pokémon known for its Surf move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/130.png",
+    "choices": [
+      "Gyarados",
+      "Lapras",
+      "Blastoise",
+      "Swampert"
+    ],
+    "answer": "Gyarados"
+  },
+  {
+    "id": 25,
+    "question": "Identify this Normal-type Pokémon known for its Hyper Beam move.",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/143.png",
+    "choices": [
+      "Snorlax",
+      "Porygon2",
+      "Regigigas",
+      "Blissey"
+    ],
+    "answer": "Snorlax"
+  },
+  {
+    "id": 26,
+    "question": "Which Pokémon is this Bug-type known for its X-Scissor move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/212.png",
+    "choices": [
+      "Scizor",
+      "Pinsir",
+      "Heracross",
+      "Beedrill"
+    ],
+    "answer": "Scizor"
+  },
+  {
+    "id": 27,
+    "question": "What is the name of this Rock-type Pokémon known for its Stone Edge move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/248.png",
+    "choices": [
+      "Tyranitar",
+      "Aerodactyl",
+      "Kabutops",
+      "Rampardos"
+    ],
+    "answer": "Tyranitar"
+  },
+  {
+    "id": 28,
+    "question": "Identify this Ice-type Pokémon known for its Blizzard move.",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/144.png",
+    "choices": [
+      "Articuno",
+      "Abomasnow",
+      "Glaceon",
+      "Froslass"
+    ],
+    "answer": "Articuno"
+  },
+  {
+    "id": 29,
+    "question": "Which Pokémon is this Ghost-type known for its Shadow Ball move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/094.png",
+    "choices": [
+      "Gengar",
+      "Mismagius",
+      "Spiritomb",
+      "Dusknoir"
+    ],
+    "answer": "Gengar"
+  },
+  {
+    "id": 30,
+    "question": "What is the name of this Dragon-type Pokémon known for its Outrage move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/149.png",
+    "choices": [
+      "Dragonite",
+      "Haxorus",
+      "Garchomp",
+      "Salamence"
+    ],
+    "answer": "Dragonite"
+  },
+  {
+    "id": 31,
+    "question": "Identify this Steel-type Pokémon known for its Iron Head move.",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/208.png",
+    "choices": [
+      "Steelix",
+      "Aggron",
+      "Bisharp",
+      "Empoleon"
+    ],
+    "answer": "Steelix"
+  },
+  {
+    "id": 32,
+    "question": "Which Pokémon is this Poison-type known for its Sludge Bomb move?",
     "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/089.png",
     "choices": [
       "Muk",
-      "Grimer",
-      "Koffing",
-      "Weezing"
+      "Weezing",
+      "Nidoking",
+      "Gengar"
     ],
     "answer": "Muk"
   },
   {
-    "question": "Which Pokémon is this Electric-type known for its high voltage?",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/125.png",
+    "id": 33,
+    "question": "What is the name of this Flying-type Pokémon known for its Aerial Ace move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/018.png",
     "choices": [
-      "Electabuzz",
-      "Electivire",
-      "Jolteon",
-      "Zapdos"
+      "Pidgeot",
+      "Staraptor",
+      "Aerodactyl",
+      "Swellow"
     ],
-    "answer": "Electabuzz"
+    "answer": "Pidgeot"
   },
   {
-    "question": "What is the name of this Bug/Flying-type Pokémon?",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/123.png",
+    "id": 34,
+    "question": "Identify this Ground-type Pokémon known for its Dig move.",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/050.png",
     "choices": [
-      "Scyther",
+      "Diglett",
+      "Sandshrew",
+      "Dugtrio",
+      "Nidoking"
+    ],
+    "answer": "Diglett"
+  },
+  {
+    "id": 35,
+    "question": "Which Pokémon is this Fire-type known for its Heat Wave move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/006.png",
+    "choices": [
+      "Charizard",
+      "Arcanine",
+      "Heatran",
+      "Infernape"
+    ],
+    "answer": "Charizard"
+  },
+  {
+    "id": 36,
+    "question": "What is the name of this Electric-type Pokémon known for its Thunder move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/025.png",
+    "choices": [
+      "Pikachu",
+      "Zapdos",
+      "Electivire",
+      "Jolteon"
+    ],
+    "answer": "Pikachu"
+  },
+  {
+    "id": 37,
+    "question": "Identify this Psychic-type Pokémon known for its Future Sight move.",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/065.png",
+    "choices": [
+      "Alakazam",
+      "Espeon",
+      "Gallade",
+      "Metagross"
+    ],
+    "answer": "Alakazam"
+  },
+  {
+    "id": 38,
+    "question": "Which Pokémon is this Fighting-type known for its Close Combat move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/448.png",
+    "choices": [
+      "Lucario",
+      "Machamp",
+      "Infernape",
+      "Blaziken"
+    ],
+    "answer": "Lucario"
+  },
+  {
+    "id": 39,
+    "question": "What is the name of this Bug-type Pokémon known for its Bug Buzz move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/267.png",
+    "choices": [
+      "Beautifly",
       "Butterfree",
-      "Beedrill",
+      "Vivillon",
       "Yanmega"
     ],
-    "answer": "Scyther"
+    "answer": "Beautifly"
   },
   {
-    "question": "Identify this Psychic-type Pokémon known for its dual brain.",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/079.png",
+    "id": 40,
+    "question": "Identify this Rock-type Pokémon known for its Rock Slide move.",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/076.png",
     "choices": [
-      "Slowpoke",
-      "Slowbro",
-      "Slowking",
-      "Exeggutor"
+      "Golem",
+      "Rhyperior",
+      "Terrakion",
+      "Tyranitar"
     ],
-    "answer": "Slowbro"
+    "answer": "Golem"
   },
   {
-    "question": "Which Pokémon is this Fire-type known for its fierce battles?",
+    "id": 41,
+    "question": "Which Pokémon is this Ice-type known for its Frost Breath move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/131.png",
+    "choices": [
+      "Lapras",
+      "Articuno",
+      "Avalugg",
+      "Vanilluxe"
+    ],
+    "answer": "Lapras"
+  },
+  {
+    "id": 42,
+    "question": "What is the name of this Ghost-type Pokémon known for its Hex move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/093.png",
+    "choices": [
+      "Haunter",
+      "Gengar",
+      "Mismagius",
+      "Cofagrigus"
+    ],
+    "answer": "Haunter"
+  },
+  {
+    "id": 43,
+    "question": "Identify this Dragon-type Pokémon known for its Dragon Claw move.",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/373.png",
+    "choices": [
+      "Salamence",
+      "Dragonite",
+      "Garchomp",
+      "Haxorus"
+    ],
+    "answer": "Salamence"
+  },
+  {
+    "id": 44,
+    "question": "Which Pokémon is this Steel-type known for its Flash Cannon move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/212.png",
+    "choices": [
+      "Scizor",
+      "Magnezone",
+      "Skarmory",
+      "Steelix"
+    ],
+    "answer": "Scizor"
+  },
+  {
+    "id": 45,
+    "question": "What is the name of this Poison-type Pokémon known for its Venoshock move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/169.png",
+    "choices": [
+      "Crobat",
+      "Toxicroak",
+      "Drapion",
+      "Nidoking"
+    ],
+    "answer": "Crobat"
+  },
+  {
+    "id": 46,
+    "question": "Identify this Flying-type Pokémon known for its Brave Bird move.",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/227.png",
+    "choices": [
+      "Skarmory",
+      "Staraptor",
+      "Braviary",
+      "Talonflame"
+    ],
+    "answer": "Skarmory"
+  },
+  {
+    "id": 47,
+    "question": "Which Pokémon is this Ground-type known for its Mud Shot move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/260.png",
+    "choices": [
+      "Swampert",
+      "Gastrodon",
+      "Quagsire",
+      "Mudsdale"
+    ],
+    "answer": "Swampert"
+  },
+  {
+    "id": 48,
+    "question": "What is the name of this Fire-type Pokémon known for its Lava Plume move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/146.png",
+    "choices": [
+      "Moltres",
+      "Heatran",
+      "Entei",
+      "Magmortar"
+    ],
+    "answer": "Moltres"
+  },
+  {
+    "id": 49,
+    "question": "Identify this Electric-type Pokémon known for its Wild Charge move.",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/405.png",
+    "choices": [
+      "Luxray",
+      "Zebstrika",
+      "Electivire",
+      "Raikou"
+    ],
+    "answer": "Luxray"
+  },
+  {
+    "id": 50,
+    "question": "Which Pokémon is this Psychic-type known for its Psycho Cut move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/064.png",
+    "choices": [
+      "Kadabra",
+      "Alakazam",
+      "Gallade",
+      "Mewtwo"
+    ],
+    "answer": "Kadabra"
+  },
+  {
+    "id": 51,
+    "question": "What is the name of this Water-type Pokémon known for its Aqua Tail move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/130.png",
+    "choices": [
+      "Gyarados",
+      "Milotic",
+      "Lapras",
+      "Swampert"
+    ],
+    "answer": "Gyarados"
+  },
+  {
+    "id": 52,
+    "question": "Identify this Normal-type Pokémon known for its Double-Edge move.",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/128.png",
+    "choices": [
+      "Tauros",
+      "Snorlax",
+      "Ursaring",
+      "Bouffalant"
+    ],
+    "answer": "Tauros"
+  },
+  {
+    "id": 53,
+    "question": "Which Pokémon is this Ice-type known for its Ice Shard move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/087.png",
+    "choices": [
+      "Dewgong",
+      "Piloswine",
+      "Cloyster",
+      "Weavile"
+    ],
+    "answer": "Dewgong"
+  },
+  {
+    "id": 54,
+    "question": "What is the name of this Dragon-type Pokémon known for its Dragon Pulse move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/334.png",
+    "choices": [
+      "Altaria",
+      "Dragonair",
+      "Salamence",
+      "Latios"
+    ],
+    "answer": "Altaria"
+  },
+  {
+    "id": 55,
+    "question": "Identify this Bug-type Pokémon known for its Signal Beam move.",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/049.png",
+    "choices": [
+      "Venomoth",
+      "Butterfree",
+      "Beautifly",
+      "Vivillon"
+    ],
+    "answer": "Venomoth"
+  },
+  {
+    "id": 56,
+    "question": "Which Pokémon is this Fire-type known for its Inferno move?",
     "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/006.png",
     "choices": [
       "Charizard",
       "Magmar",
       "Blaziken",
-      "Moltres"
+      "Heatran"
     ],
     "answer": "Charizard"
   },
   {
-    "question": "What is the name of this Dragon/Flying-type Pokémon?",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/149.png",
+    "id": 57,
+    "question": "What is the name of this Fairy-type Pokémon known for its Moonblast move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/700.png",
     "choices": [
-      "Dragonite",
-      "Salamence",
-      "Rayquaza",
-      "Altaria"
+      "Sylveon",
+      "Clefable",
+      "Gardevoir",
+      "Togekiss"
     ],
-    "answer": "Dragonite"
+    "answer": "Sylveon"
   },
   {
-    "question": "Identify this Ice-type Pokémon known for its graceful swimming.",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/087.png",
-    "choices": [
-      "Dewgong",
-      "Lapras",
-      "Seel",
-      "Cloyster"
-    ],
-    "answer": "Dewgong"
-  },
-  {
-    "question": "Which Pokémon is this Steel-type known for its magnetic body?",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/081.png",
-    "choices": [
-      "Magnemite",
-      "Magneton",
-      "Steelix",
-      "Registeel"
-    ],
-    "answer": "Magnemite"
-  },
-  {
-    "question": "What is the name of this Water/Ground-type Pokémon?",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/195.png",
-    "choices": [
-      "Quagsire",
-      "Wooper",
-      "Gastrodon",
-      "Swampert"
-    ],
-    "answer": "Quagsire"
-  },
-  {
-    "question": "Identify this Grass/Poison-type Pokémon known for its flower.",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/045.png",
-    "choices": [
-      "Vileplume",
-      "Bellossom",
-      "Roserade",
-      "Ivysaur"
-    ],
-    "answer": "Vileplume"
-  },
-  {
-    "question": "Which Pokémon is this Ground/Rock-type known as the 'Armor Pokémon'?",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/095.png",
-    "choices": [
-      "Onix",
-      "Steelix",
-      "Rhydon",
-      "Golem"
-    ],
-    "answer": "Onix"
-  },
-  {
-    "question": "What is the name of this Ghost/Poison-type Pokémon?",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/093.png",
-    "choices": [
-      "Haunter",
-      "Gengar",
-      "Gastly",
-      "Misdreavus"
-    ],
-    "answer": "Haunter"
-  },
-  {
-    "question": "Identify this Normal/Flying-type Pokémon known for its speed.",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/016.png",
-    "choices": [
-      "Pidgey",
-      "Pidgeotto",
-      "Pidgeot",
-      "Spearow"
-    ],
-    "answer": "Pidgey"
-  },
-  {
-    "question": "Which Pokémon is this Bug-type known for its cocoon form?",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/011.png",
-    "choices": [
-      "Metapod",
-      "Butterfree",
-      "Kakuna",
-      "Beedrill"
-    ],
-    "answer": "Metapod"
-  },
-  {
-    "question": "What is the name of this Electric-type Pokémon known for its cheek pouches?",
+    "id": 58,
+    "question": "Identify this Electric-type Pokémon known for its Thunderbolt move.",
     "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/025.png",
     "choices": [
       "Pikachu",
-      "Raichu",
-      "Pachirisu",
-      "Emolga"
+      "Electrode",
+      "Jolteon",
+      "Raichu"
     ],
     "answer": "Pikachu"
   },
   {
-    "question": "Identify this Psychic-type Pokémon known for its high intelligence.",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/150.png",
+    "id": 59,
+    "question": "Which Pokémon is this Poison-type known for its Sludge Wave move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/089.png",
     "choices": [
-      "Mewtwo",
-      "Alakazam",
-      "Espeon",
-      "Celebi"
+      "Muk",
+      "Arbok",
+      "Weezing",
+      "Seviper"
     ],
-    "answer": "Mewtwo"
+    "answer": "Muk"
   },
   {
-    "question": "Which Pokémon is this Normal-type known for its multiple tails?",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/020.png",
+    "id": 60,
+    "question": "What is the name of this Ground-type Pokémon known for its Sand Tomb move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/051.png",
     "choices": [
-      "Raticate",
-      "Rattata",
-      "Eevee",
-      "Furret"
-    ],
-    "answer": "Raticate"
-  },
-  {
-    "question": "What is the name of this Fairy-type Pokémon known for its charming appearance?",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/035.png",
-    "choices": [
-      "Clefairy",
-      "Clefable",
-      "Jigglypuff",
-      "Wigglytuff"
-    ],
-    "answer": "Clefairy"
-  },
-  {
-    "question": "Identify this Dragon-type Pokémon known for its mystic powers.",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/149.png",
-    "choices": [
-      "Dragonite",
-      "Dratini",
-      "Dragonair",
-      "Altaria"
-    ],
-    "answer": "Dragonite"
-  },
-  {
-    "question": "Which Pokémon is this Rock-type known for its shell armor?",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/091.png",
-    "choices": [
-      "Cloyster",
-      "Shellder",
-      "Kabuto",
-      "Kabutops"
-    ],
-    "answer": "Cloyster"
-  },
-  {
-    "question": "What is the name of this Ice-type Pokémon known for its cold breath?",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/124.png",
-    "choices": [
-      "Jynx",
-      "Articuno",
-      "Lapras",
-      "Dewgong"
-    ],
-    "answer": "Jynx"
-  },
-  {
-    "question": "Identify this Grass-type Pokémon known for its razor leaf attack.",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/002.png",
-    "choices": [
-      "Bulbasaur",
-      "Ivysaur",
-      "Venusaur",
-      "Oddish"
-    ],
-    "answer": "Ivysaur"
-  },
-  {
-    "question": "Which Pokémon is this Water-type known for its jet propulsion?",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/009.png",
-    "choices": [
-      "Blastoise",
-      "Wartortle",
-      "Squirtle",
-      "Psyduck"
-    ],
-    "answer": "Blastoise"
-  },
-  {
-    "question": "What is the name of this Fire-type Pokémon known for its fiery tail?",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/155.png",
-    "choices": [
-      "Cyndaquil",
-      "Quilava",
-      "Typhlosion",
-      "Charmander"
-    ],
-    "answer": "Cyndaquil"
-  },
-  {
-    "question": "Identify this Bug-type Pokémon known for its metamorphosis.",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/010.png",
-    "choices": [
-      "Caterpie",
-      "Metapod",
-      "Butterfree",
-      "Weedle"
-    ],
-    "answer": "Caterpie"
-  },
-  {
-    "question": "Which Pokémon is this Ground-type known for its digging abilities?",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/050.png",
-    "choices": [
-      "Diglett",
       "Dugtrio",
-      "Sandshrew",
+      "Trapinch",
+      "Garchomp",
       "Sandslash"
     ],
-    "answer": "Diglett"
+    "answer": "Dugtrio"
   },
   {
-    "question": "What is the name of this Ghost-type Pokémon known for its haunting?",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/094.png",
+    "id": 61,
+    "question": "Identify this Steel-type Pokémon known for its Metal Claw move.",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/212.png",
     "choices": [
-      "Gengar",
-      "Haunter",
-      "Gastly",
-      "Misdreavus"
+      "Scizor",
+      "Steelix",
+      "Metagross",
+      "Aggron"
     ],
-    "answer": "Gengar"
+    "answer": "Scizor"
   },
   {
-    "question": "Identify this Poison-type Pokémon known for its toxic gas.",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/109.png",
-    "choices": [
-      "Koffing",
-      "Weezing",
-      "Grimer",
-      "Muk"
-    ],
-    "answer": "Koffing"
-  },
-  {
-    "question": "Which Pokémon is this Electric-type known for generating electricity?",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/125.png",
-    "choices": [
-      "Electabuzz",
-      "Electivire",
-      "Pikachu",
-      "Jolteon"
-    ],
-    "answer": "Electabuzz"
-  },
-  {
-    "question": "What is the name of this Water-type Pokémon known for its gentle nature?",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/134.png",
-    "choices": [
-      "Vaporeon",
-      "Jolteon",
-      "Flareon",
-      "Espeon"
-    ],
-    "answer": "Vaporeon"
-  },
-  {
-    "question": "Identify this Ice-type Pokémon known for its icy breath.",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/087.png",
-    "choices": [
-      "Dewgong",
-      "Seel",
-      "Cloyster",
-      "Lapras"
-    ],
-    "answer": "Dewgong"
-  },
-  {
-    "question": "Which Pokémon is this Grass-type known for its soothing aroma?",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/043.png",
-    "choices": [
-      "Oddish",
-      "Gloom",
-      "Vileplume",
-      "Bellossom"
-    ],
-    "answer": "Oddish"
-  },
-  {
-    "question": "What is the name of this Psychic-type Pokémon known for its high psychic power?",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/065.png",
-    "choices": [
-      "Alakazam",
-      "Kadabra",
-      "Abra",
-      "Espeon"
-    ],
-    "answer": "Alakazam"
-  },
-  {
-    "question": "Identify this Normal-type Pokémon known for its high speed.",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/018.png",
-    "choices": [
-      "Pidgeot",
-      "Pidgeotto",
-      "Pidgey",
-      "Spearow"
-    ],
-    "answer": "Pidgeot"
-  },
-  {
-    "question": "Which Pokémon is this Fire-type known for its mane of flames?",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/059.png",
-    "choices": [
-      "Arcanine",
-      "Growlithe",
-      "Charizard",
-      "Ninetales"
-    ],
-    "answer": "Arcanine"
-  },
-  {
-    "question": "What is the name of this Bug-type Pokémon known for its sharp stinger?",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/015.png",
-    "choices": [
-      "Beedrill",
-      "Butterfree",
-      "Kakuna",
-      "Weedle"
-    ],
-    "answer": "Beedrill"
-  },
-  {
-    "question": "Identify this Fairy-type Pokémon known for its enchanting singing voice.",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/035.png",
-    "choices": [
-      "Clefairy",
-      "Clefable",
-      "Jigglypuff",
-      "Wigglytuff"
-    ],
-    "answer": "Clefairy"
-  },
-  {
-    "question": "Which Pokémon is this Fighting-type known for its powerful punches?",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/107.png",
-    "choices": [
-      "Hitmonchan",
-      "Hitmonlee",
-      "Machop",
-      "Machamp"
-    ],
-    "answer": "Hitmonchan"
-  },
-  {
-    "question": "What is the name of this Electric-type Pokémon known for its electric sacs?",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/125.png",
-    "choices": [
-      "Electabuzz",
-      "Electrode",
-      "Pikachu",
-      "Raichu"
-    ],
-    "answer": "Electabuzz"
-  },
-  {
-    "question": "Identify this Grass-type Pokémon known for its vine whips.",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/003.png",
-    "choices": [
-      "Venusaur",
-      "Ivysaur",
-      "Bulbasaur",
-      "Oddish"
-    ],
-    "answer": "Venusaur"
-  },
-  {
-    "question": "Which Pokémon is this Rock-type known for its boulder-like body?",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/075.png",
-    "choices": [
-      "Graveler",
-      "Geodude",
-      "Onix",
-      "Rhyhorn"
-    ],
-    "answer": "Graveler"
-  },
-  {
-    "question": "What is the name of this Water-type Pokémon known for its swift swimming?",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/118.png",
-    "choices": [
-      "Goldeen",
-      "Seaking",
-      "Magikarp",
-      "Gyarados"
-    ],
-    "answer": "Goldeen"
-  },
-  {
-    "question": "Identify this Poison-type Pokémon known for its toxic attacks.",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/110.png",
-    "choices": [
-      "Weezing",
-      "Koffing",
-      "Grimer",
-      "Muk"
-    ],
-    "answer": "Weezing"
-  },
-  {
-    "question": "Which Pokémon is this Ground-type known for its earthquake attacks?",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/112.png",
-    "choices": [
-      "Rhydon",
-      "Rhyhorn",
-      "Onix",
-      "Golem"
-    ],
-    "answer": "Rhydon"
-  },
-  {
-    "question": "What is the name of this Ice-type Pokémon known for its frosty breath?",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/087.png",
-    "choices": [
-      "Dewgong",
-      "Seel",
-      "Cloyster",
-      "Lapras"
-    ],
-    "answer": "Dewgong"
-  },
-  {
-    "question": "Identify this Psychic-type Pokémon known for its mental powers.",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/096.png",
-    "choices": [
-      "Drowzee",
-      "Hypno",
-      "Abra",
-      "Kadabra"
-    ],
-    "answer": "Drowzee"
-  },
-  {
-    "question": "Which Pokémon is this Bug-type known for its silk attacks?",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/014.png",
-    "choices": [
-      "Kakuna",
-      "Beedrill",
-      "Butterfree",
-      "Weedle"
-    ],
-    "answer": "Kakuna"
-  },
-  {
-    "question": "What is the name of this Normal-type Pokémon known for its agility?",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/019.png",
-    "choices": [
-      "Rattata",
-      "Raticate",
-      "Spearow",
-      "Pidgey"
-    ],
-    "answer": "Rattata"
-  },
-  {
-    "question": "Identify this Fire-type Pokémon known for its scorching flames.",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/005.png",
-    "choices": [
-      "Charmeleon",
-      "Charizard",
-      "Vulpix",
-      "Ninetales"
-    ],
-    "answer": "Charmeleon"
-  },
-  {
-    "question": "Which Pokémon is this Water-type known for its jet spray?",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/007.png",
-    "choices": [
-      "Squirtle",
-      "Wartortle",
-      "Blastoise",
-      "Psyduck"
-    ],
-    "answer": "Squirtle"
-  },
-  {
-    "question": "What is the name of this Electric-type Pokémon known for its shocking attacks?",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/100.png",
-    "choices": [
-      "Voltorb",
-      "Electrode",
-      "Pikachu",
-      "Raichu"
-    ],
-    "answer": "Voltorb"
-  },
-  {
-    "question": "Identify this Ground-type Pokémon known for its burrowing ability.",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/050.png",
-    "choices": [
-      "Diglett",
-      "Dugtrio",
-      "Sandshrew",
-      "Sandslash"
-    ],
-    "answer": "Diglett"
-  },
-  {
-    "question": "Which Pokémon is this Grass-type known for its leaf attacks?",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/002.png",
-    "choices": [
-      "Ivysaur",
-      "Venusaur",
-      "Bulbasaur",
-      "Bellsprout"
-    ],
-    "answer": "Ivysaur"
-  },
-  {
-    "question": "What is the name of this Psychic-type Pokémon known for its telekinetic abilities?",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/064.png",
-    "choices": [
-      "Kadabra",
-      "Alakazam",
-      "Abra",
-      "Espeon"
-    ],
-    "answer": "Kadabra"
-  },
-  {
-    "question": "Identify this Bug-type Pokémon known for its metamorphosis.",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/010.png",
-    "choices": [
-      "Caterpie",
-      "Metapod",
-      "Butterfree",
-      "Weedle"
-    ],
-    "answer": "Caterpie"
-  },
-  {
-    "question": "Which Pokémon is this Rock-type known for its hard shell?",
+    "id": 62,
+    "question": "Which Pokémon is this Rock-type known for its Rollout move?",
     "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/074.png",
     "choices": [
       "Geodude",
-      "Graveler",
-      "Golem",
-      "Onix"
+      "Rolycoly",
+      "Donphan",
+      "Sandslash"
     ],
     "answer": "Geodude"
   },
   {
-    "question": "What is the name of this Water-type Pokémon known for its swimming ability?",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/116.png",
+    "id": 63,
+    "question": "What is the name of this Ice-type Pokémon known for its Frost Breath move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/131.png",
     "choices": [
-      "Horsea",
-      "Seadra",
-      "Goldeen",
-      "Seaking"
+      "Lapras",
+      "Articuno",
+      "Glaceon",
+      "Walrein"
     ],
-    "answer": "Horsea"
+    "answer": "Lapras"
   },
   {
-    "question": "Identify this Poison-type Pokémon known for its toxicity.",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/088.png",
+    "id": 64,
+    "question": "Identify this Ghost-type Pokémon known for its Shadow Sneak move.",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/354.png",
     "choices": [
-      "Grimer",
-      "Muk",
-      "Koffing",
-      "Weezing"
+      "Banette",
+      "Mimikyu",
+      "Gengar",
+      "Shuppet"
     ],
-    "answer": "Grimer"
+    "answer": "Banette"
   },
   {
-    "question": "Which Pokémon is this Fire-type known for its fiery breath?",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/078.png",
+    "id": 65,
+    "question": "Which Pokémon is this Dragon-type known for its Draco Meteor move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/334.png",
     "choices": [
-      "Rapidash",
-      "Ponyta",
+      "Altaria",
+      "Dragonite",
+      "Rayquaza",
+      "Salamence"
+    ],
+    "answer": "Altaria"
+  },
+  {
+    "id": 66,
+    "question": "What is the name of this Steel-type Pokémon known for its Gyro Ball move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/208.png",
+    "choices": [
+      "Steelix",
+      "Forretress",
+      "Ferrothorn",
+      "Bronzong"
+    ],
+    "answer": "Steelix"
+  },
+  {
+    "id": 67,
+    "question": "Identify this Poison-type Pokémon known for its Poison Jab move.",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/169.png",
+    "choices": [
+      "Crobat",
+      "Toxicroak",
+      "Nidoking",
+      "Gengar"
+    ],
+    "answer": "Crobat"
+  },
+  {
+    "id": 68,
+    "question": "Which Pokémon is this Flying-type known for its Sky Attack move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/018.png",
+    "choices": [
+      "Pidgeot",
+      "Ho-Oh",
+      "Braviary",
+      "Staraptor"
+    ],
+    "answer": "Pidgeot"
+  },
+  {
+    "id": 69,
+    "question": "What is the name of this Dragon-type Pokémon known for its Spacial Rend move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/484.png",
+    "choices": [
+      "Palkia",
+      "Dialga",
+      "Giratina",
+      "Arceus"
+    ],
+    "answer": "Palkia"
+  },
+  {
+    "id": 70,
+    "question": "Identify this Electric-type Pokémon known for its Zap Cannon move.",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/100.png",
+    "choices": [
+      "Voltorb",
+      "Electrode",
+      "Zapdos",
+      "Magnezone"
+    ],
+    "answer": "Electrode"
+  },
+  {
+    "id": 71,
+    "question": "Which Pokémon is this Normal-type known for its Hyper Voice move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/295.png",
+    "choices": [
+      "Exploud",
+      "Noivern",
+      "Swellow",
+      "Ursaring"
+    ],
+    "answer": "Exploud"
+  },
+  {
+    "id": 72,
+    "question": "What is the name of this Fire-type Pokémon known for its Flare Blitz move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/392.png",
+    "choices": [
+      "Infernape",
+      "Blaziken",
       "Charizard",
       "Arcanine"
     ],
-    "answer": "Rapidash"
+    "answer": "Infernape"
   },
   {
-    "question": "What is the name of this Ice-type Pokémon known for its icy coating?",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/087.png",
+    "id": 73,
+    "question": "Identify this Water-type Pokémon known for its Crabhammer move.",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/099.png",
     "choices": [
-      "Dewgong",
-      "Cloyster",
-      "Lapras",
-      "Articuno"
+      "Kingler",
+      "Crawdaunt",
+      "Corphish",
+      "Krabby"
     ],
-    "answer": "Cloyster"
+    "answer": "Kingler"
   },
   {
-    "question": "Identify this Grass-type Pokémon known for its soothing scent.",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/045.png",
+    "id": 74,
+    "question": "Which Pokémon is this Bug-type known for its Megahorn move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/214.png",
     "choices": [
-      "Vileplume",
-      "Oddish",
-      "Gloom",
-      "Bellossom"
+      "Heracross",
+      "Escavalier",
+      "Rhyhorn",
+      "Beedrill"
     ],
-    "answer": "Vileplume"
+    "answer": "Heracross"
   },
   {
-    "question": "Which Pokémon is this Psychic-type known for its mystical powers?",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/096.png",
+    "id": 75,
+    "question": "What is the name of this Psychic-type Pokémon known for its Mind Reader move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/199.png",
     "choices": [
-      "Drowzee",
-      "Hypno",
-      "Mewtwo",
+      "Slowking",
+      "Xatu",
+      "Gardevoir",
       "Alakazam"
     ],
-    "answer": "Drowzee"
+    "answer": "Slowking"
   },
   {
-    "question": "What is the name of this Bug-type Pokémon known for its stinging attacks?",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/015.png",
+    "id": 76,
+    "question": "Identify this Rock-type Pokémon known for its Ancient Power move.",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/345.png",
     "choices": [
-      "Beedrill",
-      "Butterfree",
-      "Kakuna",
-      "Weedle"
-    ],
-    "answer": "Beedrill"
-  },
-  {
-    "question": "Identify this Fire-type Pokémon known for its intense heat.",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/059.png",
-    "choices": [
-      "Arcanine",
-      "Growlithe",
-      "Charizard",
-      "Ninetales"
-    ],
-    "answer": "Arcanine"
-  },
-  {
-    "question": "Which Pokémon is this Water-type known for its elegant swimming?",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/134.png",
-    "choices": [
-      "Vaporeon",
-      "Goldeen",
-      "Seaking",
-      "Milotic"
-    ],
-    "answer": "Vaporeon"
-  },
-  {
-    "question": "What is the name of this Electric-type Pokémon known for its shocking speed?",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/025.png",
-    "choices": [
-      "Pikachu",
-      "Raichu",
-      "Electabuzz",
-      "Jolteon"
-    ],
-    "answer": "Pikachu"
-  },
-  {
-    "question": "Identify this Normal-type Pokémon known for its quick movements.",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/019.png",
-    "choices": [
-      "Rattata",
-      "Raticate",
-      "Pidgey",
-      "Spearow"
-    ],
-    "answer": "Rattata"
-  },
-  {
-    "question": "Which Pokémon is this Ground-type known for its powerful digging?",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/050.png",
-    "choices": [
-      "Diglett",
-      "Dugtrio",
-      "Sandshrew",
-      "Sandslash"
-    ],
-    "answer": "Diglett"
-  },
-  {
-    "question": "What is the name of this Fairy-type Pokémon known for its magical powers?",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/035.png",
-    "choices": [
-      "Clefairy",
-      "Clefable",
-      "Jigglypuff",
-      "Wigglytuff"
-    ],
-    "answer": "Clefairy"
-  },
-  {
-    "question": "Identify this Rock-type Pokémon known for its rugged body.",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/074.png",
-    "choices": [
-      "Geodude",
-      "Graveler",
-      "Onix",
-      "Rhyhorn"
-    ],
-    "answer": "Geodude"
-  },
-  {
-    "question": "Which Pokémon is this Bug-type known for its hard shell?",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/011.png",
-    "choices": [
-      "Metapod",
-      "Kakuna",
-      "Butterfree",
-      "Beedrill"
-    ],
-    "answer": "Metapod"
-  },
-  {
-    "question": "What is the name of this Psychic-type Pokémon known for its incredible psychic power?",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/065.png",
-    "choices": [
-      "Alakazam",
-      "Kadabra",
-      "Abra",
-      "Espeon"
-    ],
-    "answer": "Alakazam"
-  },
-  {
-    "question": "Identify this Fire-type Pokémon known for its flaming tail.",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/004.png",
-    "choices": [
-      "Charmander",
-      "Charmeleon",
-      "Charizard",
-      "Vulpix"
-    ],
-    "answer": "Charmander"
-  },
-  {
-    "question": "Which Pokémon is this Water-type known for its shell?",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/007.png",
-    "choices": [
-      "Squirtle",
-      "Wartortle",
-      "Blastoise",
-      "Lapras"
-    ],
-    "answer": "Squirtle"
-  },
-  {
-    "question": "What is the name of this Ice-type Pokémon known for its chilly disposition?",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/124.png",
-    "choices": [
-      "Jynx",
-      "Articuno",
-      "Lapras",
-      "Dewgong"
-    ],
-    "answer": "Jynx"
-  },
-  {
-    "question": "Identify this Grass-type Pokémon known for its leafy body.",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/001.png",
-    "choices": [
-      "Bulbasaur",
-      "Ivysaur",
-      "Venusaur",
-      "Oddish"
-    ],
-    "answer": "Bulbasaur"
-  },
-  {
-    "question": "Which Pokémon is this Ground-type known for its large tusks?",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/111.png",
-    "choices": [
-      "Rhyhorn",
-      "Rhydon",
-      "Donphan",
-      "Mamoswine"
-    ],
-    "answer": "Rhyhorn"
-  },
-  {
-    "question": "What is the name of this Electric-type Pokémon known for its electrical discharges?",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/135.png",
-    "choices": [
-      "Jolteon",
-      "Electivire",
-      "Raichu",
-      "Zapdos"
-    ],
-    "answer": "Jolteon"
-  },
-  {
-    "question": "Identify this Normal-type Pokémon known for its extreme speed.",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/018.png",
-    "choices": [
-      "Pidgeot",
-      "Pidgeotto",
-      "Fearow",
-      "Spearow"
-    ],
-    "answer": "Pidgeot"
-  },
-  {
-    "question": "Which Pokémon is this Poison-type known for its venomous sting?",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/015.png",
-    "choices": [
-      "Beedrill",
-      "Weedle",
-      "Kakuna",
-      "Venomoth"
-    ],
-    "answer": "Beedrill"
-  },
-  {
-    "question": "What is the name of this Fire-type Pokémon known for its intense flames?",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/006.png",
-    "choices": [
-      "Charizard",
-      "Charmeleon",
-      "Charmander",
-      "Moltres"
-    ],
-    "answer": "Charizard"
-  },
-  {
-    "question": "Identify this Water-type Pokémon known for its powerful hydro pump.",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/009.png",
-    "choices": [
-      "Blastoise",
-      "Wartortle",
-      "Squirtle",
-      "Gyarados"
-    ],
-    "answer": "Blastoise"
-  },
-  {
-    "question": "Which Pokémon is this Ice-type known for its ice beam?",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/087.png",
-    "choices": [
-      "Dewgong",
-      "Cloyster",
-      "Lapras",
-      "Articuno"
-    ],
-    "answer": "Dewgong"
-  },
-  {
-    "question": "What is the name of this Bug-type Pokémon known for its agility?",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/012.png",
-    "choices": [
-      "Butterfree",
-      "Beedrill",
-      "Scyther",
-      "Venomoth"
-    ],
-    "answer": "Butterfree"
-  },
-  {
-    "question": "Identify this Grass-type Pokémon known for its spores.",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/045.png",
-    "choices": [
-      "Vileplume",
-      "Oddish",
-      "Gloom",
-      "Bellossom"
-    ],
-    "answer": "Vileplume"
-  },
-  {
-    "question": "Which Pokémon is this Rock-type known for its rugged body?",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/074.png",
-    "choices": [
-      "Geodude",
-      "Graveler",
-      "Golem",
-      "Onix"
-    ],
-    "answer": "Geodude"
-  },
-  {
-    "question": "What is the name of this Water-type Pokémon known for its swift movements?",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/134.png",
-    "choices": [
-      "Vaporeon",
-      "Goldeen",
-      "Seaking",
-      "Milotic"
-    ],
-    "answer": "Vaporeon"
-  },
-  {
-    "question": "Identify this Electric-type Pokémon known for its lightning speed.",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/135.png",
-    "choices": [
-      "Jolteon",
-      "Electabuzz",
-      "Zapdos",
-      "Raikou"
-    ],
-    "answer": "Jolteon"
-  },
-  {
-    "question": "Which Pokémon is this Fairy-type known for its charming voice?",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/039.png",
-    "choices": [
-      "Jigglypuff",
-      "Wigglytuff",
-      "Clefairy",
-      "Clefable"
-    ],
-    "answer": "Jigglypuff"
-  },
-  {
-    "question": "What is the name of this Ice-type Pokémon known for its cold nature?",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/124.png",
-    "choices": [
-      "Jynx",
-      "Articuno",
-      "Lapras",
-      "Dewgong"
-    ],
-    "answer": "Jynx"
-  },
-  {
-    "question": "Identify this Grass-type Pokémon known for its vines.",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/003.png",
-    "choices": [
-      "Venusaur",
-      "Ivysaur",
-      "Bulbasaur",
-      "Bellsprout"
-    ],
-    "answer": "Venusaur"
-  },
-  {
-    "question": "Which Pokémon is this Ground-type known for its stomping attacks?",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/112.png",
-    "choices": [
-      "Rhydon",
-      "Rhyhorn",
-      "Donphan",
-      "Mamoswine"
-    ],
-    "answer": "Rhydon"
-  },
-  {
-    "question": "What is the name of this Rock-type Pokémon known for its protective shell?",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/091.png",
-    "choices": [
-      "Cloyster",
-      "Shellder",
-      "Kabuto",
+      "Lileep",
+      "Cradily",
+      "Omastar",
       "Kabutops"
     ],
-    "answer": "Cloyster"
+    "answer": "Lileep"
   },
   {
-    "question": "Identify this Normal-type Pokémon known for its quickness.",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/019.png",
+    "id": 77,
+    "question": "Which Pokémon is this Grass-type known for its Leaf Storm move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/470.png",
     "choices": [
-      "Rattata",
-      "Raticate",
-      "Pidgey",
-      "Spearow"
+      "Leafeon",
+      "Torterra",
+      "Serperior",
+      "Tropius"
     ],
-    "answer": "Rattata"
+    "answer": "Leafeon"
   },
   {
-    "question": "Which Pokémon is this Electric-type known for its spark attacks?",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/025.png",
+    "id": 78,
+    "question": "What is the name of this Ground-type Pokémon known for its Earth Power move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/383.png",
     "choices": [
-      "Pikachu",
-      "Raichu",
-      "Electabuzz",
-      "Jolteon"
+      "Groudon",
+      "Nidoking",
+      "Flygon",
+      "Quagsire"
     ],
-    "answer": "Pikachu"
+    "answer": "Groudon"
   },
   {
-    "question": "What is the name of this Water-type Pokémon known for its splashing?",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/129.png",
+    "id": 79,
+    "question": "Identify this Dark-type Pokémon known for its Foul Play move.",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/359.png",
     "choices": [
-      "Magikarp",
-      "Gyarados",
-      "Feebas",
-      "Milotic"
+      "Absol",
+      "Umbreon",
+      "Mandibuzz",
+      "Sableye"
     ],
-    "answer": "Magikarp"
+    "answer": "Absol"
   },
   {
-    "question": "Identify this Fire-type Pokémon known for its scorching flames.",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/078.png",
-    "choices": [
-      "Rapidash",
-      "Ponyta",
-      "Charizard",
-      "Arcanine"
-    ],
-    "answer": "Rapidash"
-  },
-  {
-    "question": "Which Pokémon is this Poison-type known for its venom?",
+    "id": 80,
+    "question": "Which Pokémon is this Poison-type known for its Gunk Shot move?",
     "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/088.png",
     "choices": [
       "Grimer",
       "Muk",
-      "Koffing",
-      "Weezing"
-    ],
-    "answer": "Grimer"
-  },
-  {
-    "question": "What is the name of this Bug-type Pokémon known for its sharp pincers?",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/127.png",
-    "choices": [
-      "Pinsir",
-      "Scyther",
-      "Heracross",
-      "Beedrill"
-    ],
-    "answer": "Pinsir"
-  },
-  {
-    "question": "Identify this Water-type Pokémon known for its powerful tail.",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/130.png",
-    "choices": [
-      "Gyarados",
-      "Magikarp",
-      "Seadra",
-      "Milotic"
-    ],
-    "answer": "Gyarados"
-  },
-  {
-    "question": "Which Pokémon is this Ice-type known for its icy scales?",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/087.png",
-    "choices": [
-      "Dewgong",
-      "Cloyster",
-      "Lapras",
-      "Articuno"
-    ],
-    "answer": "Dewgong"
-  },
-  {
-    "question": "What is the name of this Electric-type Pokémon known for its electrical output?",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/100.png",
-    "choices": [
-      "Voltorb",
-      "Electrode",
-      "Magnemite",
-      "Magneton"
-    ],
-    "answer": "Voltorb"
-  },
-  {
-    "question": "Identify this Grass-type Pokémon known for its leafy appendages.",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/001.png",
-    "choices": [
-      "Bulbasaur",
-      "Ivysaur",
-      "Venusaur",
-      "Oddish"
-    ],
-    "answer": "Bulbasaur"
-  },
-  {
-    "question": "Which Pokémon is this Rock-type known for its hard body?",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/074.png",
-    "choices": [
-      "Geodude",
-      "Graveler",
-      "Golem",
-      "Onix"
-    ],
-    "answer": "Geodude"
-  },
-  {
-    "question": "What is the name of this Water-type Pokémon known for its aquatic agility?",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/007.png",
-    "choices": [
-      "Squirtle",
-      "Wartortle",
-      "Blastoise",
-      "Lapras"
-    ],
-    "answer": "Squirtle"
-  },
-  {
-    "question": "Identify this Poison-type Pokémon known for its toxic abilities.",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/088.png",
-    "choices": [
-      "Grimer",
-      "Muk",
-      "Koffing",
+      "Garbodor",
       "Weezing"
     ],
     "answer": "Muk"
   },
   {
-    "question": "Which Pokémon is this Fire-type known for its fiery mane?",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/058.png",
+    "id": 81,
+    "question": "What is the name of this Fire-type Pokémon known for its Incinerate move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/500.png",
     "choices": [
-      "Growlithe",
-      "Arcanine",
-      "Vulpix",
-      "Ninetales"
+      "Emboar",
+      "Incineroar",
+      "Blaziken",
+      "Tepig"
     ],
-    "answer": "Growlithe"
+    "answer": "Emboar"
   },
   {
-    "question": "What is the name of this Ice-type Pokémon known for its freezing abilities?",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/124.png",
+    "id": 82,
+    "question": "Identify this Electric-type Pokémon known for its Discharge move.",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/462.png",
     "choices": [
-      "Jynx",
-      "Articuno",
-      "Lapras",
-      "Dewgong"
-    ],
-    "answer": "Jynx"
-  },
-  {
-    "question": "Identify this Grass-type Pokémon known for its sharp leaves.",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/002.png",
-    "choices": [
-      "Ivysaur",
-      "Venusaur",
-      "Bulbasaur",
-      "Bellsprout"
-    ],
-    "answer": "Ivysaur"
-  },
-  {
-    "question": "Which Pokémon is this Ground-type known for its rock-hard body?",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/095.png",
-    "choices": [
-      "Onix",
-      "Steelix",
-      "Geodude",
-      "Graveler"
-    ],
-    "answer": "Onix"
-  },
-  {
-    "question": "What is the name of this Electric-type Pokémon known for its electric shocks?",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/125.png",
-    "choices": [
-      "Electabuzz",
+      "Magnezone",
       "Electivire",
-      "Pikachu",
-      "Raichu"
+      "Zapdos",
+      "Jolteon"
     ],
-    "answer": "Electabuzz"
+    "answer": "Magnezone"
   },
   {
-    "question": "Identify this Water-type Pokémon known for its streamlined body.",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/129.png",
+    "id": 83,
+    "question": "Which Pokémon is this Water-type known for its Waterfall move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/130.png",
     "choices": [
-      "Magikarp",
       "Gyarados",
       "Milotic",
-      "Seaking"
+      "Kingdra",
+      "Sharpedo"
     ],
-    "answer": "Magikarp"
+    "answer": "Gyarados"
   },
   {
-    "question": "Which Pokémon is this Fire-type known for its intense heat?",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/006.png",
+    "id": 84,
+    "question": "What is the name of this Bug-type Pokémon known for its Quiver Dance move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/637.png",
     "choices": [
-      "Charizard",
-      "Charmander",
-      "Charmeleon",
-      "Moltres"
-    ],
-    "answer": "Charizard"
-  },
-  {
-    "question": "What is the name of this Ice-type Pokémon known for its glacial movement?",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/087.png",
-    "choices": [
-      "Dewgong",
-      "Cloyster",
-      "Lapras",
-      "Articuno"
-    ],
-    "answer": "Dewgong"
-  },
-  {
-    "question": "Identify this Bug-type Pokémon known for its stinging attacks.",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/015.png",
-    "choices": [
-      "Beedrill",
+      "Volcarona",
       "Butterfree",
-      "Scyther",
-      "Pinsir"
+      "Venomoth",
+      "Beautifly"
     ],
-    "answer": "Beedrill"
+    "answer": "Volcarona"
   },
   {
-    "question": "Which Pokémon is this Grass-type known for its healing abilities?",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/003.png",
+    "id": 85,
+    "question": "Identify this Normal-type Pokémon known for its Last Resort move.",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/133.png",
     "choices": [
-      "Venusaur",
-      "Ivysaur",
-      "Bulbasaur",
-      "Bellossom"
+      "Eevee",
+      "Snorlax",
+      "Blissey",
+      "Slaking"
     ],
-    "answer": "Venusaur"
+    "answer": "Eevee"
   },
   {
-    "question": "What is the name of this Water-type Pokémon known for its gentle nature?",
+    "id": 86,
+    "question": "Which Pokémon is this Rock-type known for its Power Gem move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/525.png",
+    "choices": [
+      "Boldore",
+      "Roggenrola",
+      "Carbink",
+      "Starmie"
+    ],
+    "answer": "Boldore"
+  },
+  {
+    "id": 87,
+    "question": "What is the name of this Ice-type Pokémon known for its Icy Wind move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/362.png",
+    "choices": [
+      "Glalie",
+      "Froslass",
+      "Articuno",
+      "Walrein"
+    ],
+    "answer": "Glalie"
+  },
+  {
+    "id": 88,
+    "question": "Identify this Ghost-type Pokémon known for its Ominous Wind move.",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/200.png",
+    "choices": [
+      "Misdreavus",
+      "Drifloon",
+      "Gastly",
+      "Giratina"
+    ],
+    "answer": "Misdreavus"
+  },
+  {
+    "id": 89,
+    "question": "Which Pokémon is this Dragon-type known for its Dragon Tail move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/373.png",
+    "choices": [
+      "Salamence",
+      "Dragonite",
+      "Haxorus",
+      "Druddigon"
+    ],
+    "answer": "Salamence"
+  },
+  {
+    "id": 90,
+    "question": "What is the name of this Steel-type Pokémon known for its Heavy Slam move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/208.png",
+    "choices": [
+      "Steelix",
+      "Aggron",
+      "Copperajah",
+      "Heatran"
+    ],
+    "answer": "Steelix"
+  },
+  {
+    "id": 91,
+    "question": "Identify this Poison-type Pokémon known for its Cross Poison move.",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/452.png",
+    "choices": [
+      "Drapion",
+      "Crobat",
+      "Roserade",
+      "Toxicroak"
+    ],
+    "answer": "Drapion"
+  },
+  {
+    "id": 92,
+    "question": "Which Pokémon is this Flying-type known for its Hurricane move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/149.png",
+    "choices": [
+      "Dragonite",
+      "Tornadus",
+      "Pidgeot",
+      "Noivern"
+    ],
+    "answer": "Dragonite"
+  },
+  {
+    "id": 93,
+    "question": "What is the name of this Dragon-type Pokémon known for its Twister move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/147.png",
+    "choices": [
+      "Dratini",
+      "Dragonair",
+      "Kingdra",
+      "Gyarados"
+    ],
+    "answer": "Dratini"
+  },
+  {
+    "id": 94,
+    "question": "Identify this Electric-type Pokémon known for its Volt Switch move.",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/462.png",
+    "choices": [
+      "Magnezone",
+      "Rotom",
+      "Electivire",
+      "Jolteon"
+    ],
+    "answer": "Magnezone"
+  },
+  {
+    "id": 95,
+    "question": "Which Pokémon is this Water-type known for its Rain Dance move?",
     "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/134.png",
     "choices": [
       "Vaporeon",
-      "Jolteon",
-      "Flareon",
-      "Espeon"
+      "Politoed",
+      "Lanturn",
+      "Kyogre"
     ],
     "answer": "Vaporeon"
   },
   {
-    "question": "Identify this Electric-type Pokémon known for its high voltage.",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/135.png",
+    "id": 96,
+    "question": "What is the name of this Bug-type Pokémon known for its Sticky Web move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/167.png",
     "choices": [
+      "Spinarak",
+      "Ariados",
+      "Galvantula",
+      "Shuckle"
+    ],
+    "answer": "Ariados"
+  },
+  {
+    "id": 97,
+    "question": "Identify this Fire-type Pokémon known for its Sunny Day move.",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/077.png",
+    "choices": [
+      "Ponyta",
+      "Rapidash",
+      "Ninetales",
+      "Torkoal"
+    ],
+    "answer": "Ninetales"
+  },
+  {
+    "id": 98,
+    "question": "Which Pokémon is this Ground-type known for its Bulldoze move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/031.png",
+    "choices": [
+      "Nidoqueen",
+      "Golem",
+      "Rhydon",
+      "Krookodile"
+    ],
+    "answer": "Nidoqueen"
+  },
+  {
+    "id": 99,
+    "question": "What is the name of this Electric-type Pokémon known for its Electro Ball move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/025.png",
+    "choices": [
+      "Pikachu",
+      "Electrode",
       "Jolteon",
-      "Flareon",
-      "Vaporeon",
+      "Zapdos"
+    ],
+    "answer": "Pikachu"
+  },
+  {
+    "id": 100,
+    "question": "Identify this Psychic-type Pokémon known for its Hypnosis move.",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/096.png",
+    "choices": [
+      "Drowzee",
+      "Hypno",
+      "Gothita",
+      "Munna"
+    ],
+    "answer": "Drowzee"
+  },
+  {
+    "id": 101,
+    "question": "Which Pokémon is this Normal-type known for its Play Rough move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/039.png",
+    "choices": [
+      "Jigglypuff",
+      "Snubbull",
+      "Miltank",
+      "Stufful"
+    ],
+    "answer": "Jigglypuff"
+  },
+  {
+    "id": 102,
+    "question": "What is the name of this Water-type Pokémon known for its Whirlpool move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/116.png",
+    "choices": [
+      "Horsea",
+      "Kingdra",
+      "Seadra",
+      "Goldeen"
+    ],
+    "answer": "Horsea"
+  },
+  {
+    "id": 103,
+    "question": "Identify this Ice-type Pokémon known for its Avalanche move.",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/361.png",
+    "choices": [
+      "Snorunt",
+      "Glalie",
+      "Froslass",
+      "Avalugg"
+    ],
+    "answer": "Snorunt"
+  },
+  {
+    "id": 104,
+    "question": "Which Pokémon is this Bug-type known for its Infestation move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/313.png",
+    "choices": [
+      "Volbeat",
+      "Illumise",
+      "Shuckle",
+      "Combee"
+    ],
+    "answer": "Volbeat"
+  },
+  {
+    "id": 105,
+    "question": "What is the name of this Dragon-type Pokémon known for its Tailwind move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/334.png",
+    "choices": [
+      "Altaria",
+      "Flygon",
+      "Salamence",
+      "Noivern"
+    ],
+    "answer": "Altaria"
+  },
+  {
+    "id": 106,
+    "question": "Identify this Steel-type Pokémon known for its Iron Defense move.",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/208.png",
+    "choices": [
+      "Steelix",
+      "Aggron",
+      "Bastiodon",
+      "Forretress"
+    ],
+    "answer": "Steelix"
+  },
+  {
+    "id": 107,
+    "question": "Which Pokémon is this Poison-type known for its Toxic Spikes move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/315.png",
+    "choices": [
+      "Roselia",
+      "Roserade",
+      "Nidorina",
+      "Qwilfish"
+    ],
+    "answer": "Roselia"
+  },
+  {
+    "id": 108,
+    "question": "What is the name of this Fire-type Pokémon known for its Flame Charge move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/078.png",
+    "choices": [
+      "Rapidash",
+      "Blaziken",
+      "Infernape",
+      "Pyroar"
+    ],
+    "answer": "Rapidash"
+  },
+  {
+    "id": 109,
+    "question": "Identify this Water-type Pokémon known for its Bubble Beam move.",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/072.png",
+    "choices": [
+      "Tentacool",
+      "Squirtle",
+      "Psyduck",
+      "Seel"
+    ],
+    "answer": "Tentacool"
+  },
+  {
+    "id": 110,
+    "question": "Which Pokémon is this Bug-type known for its X-Scissor move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/123.png",
+    "choices": [
+      "Scyther",
+      "Pinsir",
+      "Leavanny",
+      "Galvantula"
+    ],
+    "answer": "Scyther"
+  },
+  {
+    "id": 111,
+    "question": "What is the name of this Psychic-type Pokémon known for its Zen Headbutt move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/376.png",
+    "choices": [
+      "Metagross",
+      "Alakazam",
+      "Gallade",
       "Espeon"
     ],
-    "answer": "Jolteon"
+    "answer": "Metagross"
   },
   {
-    "question": "Which Pokémon is this Fairy-type known for its enchanting appearance?",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/035.png",
+    "id": 112,
+    "question": "Identify this Ground-type Pokémon known for its Magnitude move.",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/050.png",
     "choices": [
-      "Clefairy",
-      "Clefable",
-      "Jigglypuff",
-      "Wigglytuff"
+      "Diglett",
+      "Geodude",
+      "Cubone",
+      "Phanpy"
     ],
-    "answer": "Clefairy"
+    "answer": "Diglett"
   },
   {
-    "question": "What is the name of this Ice-type Pokémon known for its frosty body?",
+    "id": 113,
+    "question": "Which Pokémon is this Rock-type known for its Rock Blast move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/074.png",
+    "choices": [
+      "Geodude",
+      "Roggenrola",
+      "Rhyperior",
+      "Carbink"
+    ],
+    "answer": "Geodude"
+  },
+  {
+    "id": 114,
+    "question": "What is the name of this Ice-type Pokémon known for its Ice Fang move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/131.png",
+    "choices": [
+      "Lapras",
+      "Walrein",
+      "Cloyster",
+      "Glaceon"
+    ],
+    "answer": "Lapras"
+  },
+  {
+    "id": 115,
+    "question": "Identify this Ghost-type Pokémon known for its Hex move.",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/093.png",
+    "choices": [
+      "Haunter",
+      "Mismagius",
+      "Banette",
+      "Gengar"
+    ],
+    "answer": "Haunter"
+  },
+  {
+    "id": 116,
+    "question": "Which Pokémon is this Dragon-type known for its Dragon Breath move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/147.png",
+    "choices": [
+      "Dratini",
+      "Dragonair",
+      "Bagon",
+      "Deino"
+    ],
+    "answer": "Dratini"
+  },
+  {
+    "id": 117,
+    "question": "What is the name of this Steel-type Pokémon known for its Flash Cannon move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/212.png",
+    "choices": [
+      "Scizor",
+      "Magnezone",
+      "Steelix",
+      "Klinklang"
+    ],
+    "answer": "Scizor"
+  },
+  {
+    "id": 118,
+    "question": "Identify this Poison-type Pokémon known for its Acid move.",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/088.png",
+    "choices": [
+      "Grimer",
+      "Muk",
+      "Koffing",
+      "Gulpin"
+    ],
+    "answer": "Grimer"
+  },
+  {
+    "id": 119,
+    "question": "Which Pokémon is this Flying-type known for its Gust move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/012.png",
+    "choices": [
+      "Butterfree",
+      "Pidgeotto",
+      "Spearow",
+      "Staraptor"
+    ],
+    "answer": "Butterfree"
+  },
+  {
+    "id": 120,
+    "question": "What is the name of this Dragon-type Pokémon known for its Dual Chop move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/611.png",
+    "choices": [
+      "Fraxure",
+      "Axew",
+      "Haxorus",
+      "Dragonite"
+    ],
+    "answer": "Fraxure"
+  },
+  {
+    "id": 121,
+    "question": "Identify this Steel-type Pokémon known for its Metal Sound move.",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/304.png",
+    "choices": [
+      "Aron",
+      "Lairon",
+      "Aggron",
+      "Steelix"
+    ],
+    "answer": "Aron"
+  },
+  {
+    "id": 122,
+    "question": "Which Pokémon is this Poison-type known for its Poison Sting move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/013.png",
+    "choices": [
+      "Weedle",
+      "Ekans",
+      "Nidoran♀",
+      "Zubat"
+    ],
+    "answer": "Weedle"
+  },
+  {
+    "id": 123,
+    "question": "What is the name of this Fire-type Pokémon known for its Flame Wheel move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/155.png",
+    "choices": [
+      "Cyndaquil",
+      "Quilava",
+      "Typhlosion",
+      "Ponyta"
+    ],
+    "answer": "Cyndaquil"
+  },
+  {
+    "id": 124,
+    "question": "Identify this Water-type Pokémon known for its Aqua Jet move.",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/418.png",
+    "choices": [
+      "Buizel",
+      "Floatzel",
+      "Blastoise",
+      "Dewott"
+    ],
+    "answer": "Buizel"
+  },
+  {
+    "id": 125,
+    "question": "Which Pokémon is this Bug-type known for its Bug Bite move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/543.png",
+    "choices": [
+      "Venipede",
+      "Scolipede",
+      "Whirlipede",
+      "Forretress"
+    ],
+    "answer": "Venipede"
+  },
+  {
+    "id": 126,
+    "question": "What is the name of this Psychic-type Pokémon known for its Extrasensory move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/178.png",
+    "choices": [
+      "Xatu",
+      "Natu",
+      "Espeon",
+      "Girafarig"
+    ],
+    "answer": "Xatu"
+  },
+  {
+    "id": 127,
+    "question": "Identify this Ground-type Pokémon known for its Sandstorm move.",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/246.png",
+    "choices": [
+      "Larvitar",
+      "Pupitar",
+      "Tyranitar",
+      "Trapinch"
+    ],
+    "answer": "Larvitar"
+  },
+  {
+    "id": 128,
+    "question": "Which Pokémon is this Rock-type known for its Stone Edge move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/248.png",
+    "choices": [
+      "Tyranitar",
+      "Rhyperior",
+      "Terrakion",
+      "Gigalith"
+    ],
+    "answer": "Tyranitar"
+  },
+  {
+    "id": 129,
+    "question": "What is the name of this Ice-type Pokémon known for its Hail move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/362.png",
+    "choices": [
+      "Glalie",
+      "Froslass",
+      "Snorunt",
+      "Abomasnow"
+    ],
+    "answer": "Glalie"
+  },
+  {
+    "id": 130,
+    "question": "Identify this Ghost-type Pokémon known for its Curse move.",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/292.png",
+    "choices": [
+      "Shedinja",
+      "Misdreavus",
+      "Haunter",
+      "Banette"
+    ],
+    "answer": "Shedinja"
+  },
+  {
+    "id": 131,
+    "question": "Which Pokémon is this Dragon-type known for its Dragon Dance move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/149.png",
+    "choices": [
+      "Dragonite",
+      "Kingdra",
+      "Altaria",
+      "Salamence"
+    ],
+    "answer": "Dragonite"
+  },
+  {
+    "id": 132,
+    "question": "What is the name of this Steel-type Pokémon known for its Magnet Rise move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/082.png",
+    "choices": [
+      "Magneton",
+      "Magnezone",
+      "Skarmory",
+      "Steelix"
+    ],
+    "answer": "Magneton"
+  },
+  {
+    "id": 133,
+    "question": "Identify this Poison-type Pokémon known for its Venom Drench move.",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/544.png",
+    "choices": [
+      "Whirlipede",
+      "Scolipede",
+      "Venipede",
+      "Seviper"
+    ],
+    "answer": "Whirlipede"
+  },
+  {
+    "id": 134,
+    "question": "Which Pokémon is this Flying-type known for its Peck move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/021.png",
+    "choices": [
+      "Spearow",
+      "Fearow",
+      "Pidgey",
+      "Starly"
+    ],
+    "answer": "Spearow"
+  },
+  {
+    "id": 135,
+    "question": "What is the name of this Dragon-type Pokémon known for its Outrage move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/612.png",
+    "choices": [
+      "Haxorus",
+      "Dragonite",
+      "Garchomp",
+      "Salamence"
+    ],
+    "answer": "Haxorus"
+  },
+  {
+    "id": 136,
+    "question": "Identify this Steel-type Pokémon known for its Steel Wing move.",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/227.png",
+    "choices": [
+      "Skarmory",
+      "Steelix",
+      "Scizor",
+      "Corviknight"
+    ],
+    "answer": "Skarmory"
+  },
+  {
+    "id": 137,
+    "question": "Which Pokémon is this Poison-type known for its Acid Armor move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/089.png",
+    "choices": [
+      "Muk",
+      "Grimer",
+      "Gulpin",
+      "Koffing"
+    ],
+    "answer": "Muk"
+  },
+  {
+    "id": 138,
+    "question": "What is the name of this Fire-type Pokémon known for its Will-O-Wisp move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/038.png",
+    "choices": [
+      "Ninetales",
+      "Arcanine",
+      "Rapidash",
+      "Magmar"
+    ],
+    "answer": "Ninetales"
+  },
+  {
+    "id": 139,
+    "question": "Identify this Water-type Pokémon known for its Water Pulse move.",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/119.png",
+    "choices": [
+      "Seaking",
+      "Goldeen",
+      "Milotic",
+      "Gyarados"
+    ],
+    "answer": "Seaking"
+  },
+  {
+    "id": 140,
+    "question": "Which Pokémon is this Bug-type known for its Struggle Bug move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/595.png",
+    "choices": [
+      "Joltik",
+      "Galvantula",
+      "Dwebble",
+      "Crustle"
+    ],
+    "answer": "Joltik"
+  },
+  {
+    "id": 141,
+    "question": "What is the name of this Psychic-type Pokémon known for its Telekinesis move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/576.png",
+    "choices": [
+      "Gothitelle",
+      "Reuniclus",
+      "Solosis",
+      "Elgyem"
+    ],
+    "answer": "Gothitelle"
+  },
+  {
+    "id": 142,
+    "question": "Identify this Ground-type Pokémon known for its Bulldoze move.",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/034.png",
+    "choices": [
+      "Nidoking",
+      "Rhydon",
+      "Golem",
+      "Donphan"
+    ],
+    "answer": "Nidoking"
+  },
+  {
+    "id": 143,
+    "question": "Which Pokémon is this Rock-type known for its Rock Polish move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/111.png",
+    "choices": [
+      "Rhyhorn",
+      "Geodude",
+      "Onix",
+      "Larvitar"
+    ],
+    "answer": "Rhyhorn"
+  },
+  {
+    "id": 144,
+    "question": "What is the name of this Ice-type Pokémon known for its Ice Beam move?",
     "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/124.png",
     "choices": [
       "Jynx",
@@ -1452,40 +1728,2084 @@
     "answer": "Jynx"
   },
   {
-    "question": "Identify this Grass-type Pokémon known for its leafy skin.",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/001.png",
+    "id": 145,
+    "question": "Identify this Ghost-type Pokémon known for its Shadow Punch move.",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/094.png",
     "choices": [
-      "Bulbasaur",
-      "Ivysaur",
-      "Venusaur",
-      "Oddish"
+      "Gengar",
+      "Haunter",
+      "Banette",
+      "Dusknoir"
     ],
-    "answer": "Bulbasaur"
+    "answer": "Gengar"
   },
   {
-    "question": "Which Pokémon is this Rock-type known for its solid body?",
+    "id": 146,
+    "question": "Which Pokémon is this Dragon-type known for its Dragon Rush move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/612.png",
+    "choices": [
+      "Haxorus",
+      "Dragonite",
+      "Hydreigon",
+      "Druddigon"
+    ],
+    "answer": "Haxorus"
+  },
+  {
+    "id": 147,
+    "question": "What is the name of this Steel-type Pokémon known for its Gyro Ball move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/304.png",
+    "choices": [
+      "Aron",
+      "Lairon",
+      "Aggron",
+      "Beldum"
+    ],
+    "answer": "Aron"
+  },
+  {
+    "id": 148,
+    "question": "Identify this Poison-type Pokémon known for its Sludge Bomb move.",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/089.png",
+    "choices": [
+      "Muk",
+      "Weezing",
+      "Garbodor",
+      "Gloom"
+    ],
+    "answer": "Muk"
+  },
+  {
+    "id": 149,
+    "question": "Which Pokémon is this Flying-type known for its Brave Bird move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/227.png",
+    "choices": [
+      "Skarmory",
+      "Staraptor",
+      "Braviary",
+      "Talonflame"
+    ],
+    "answer": "Skarmory"
+  },
+  {
+    "id": 150,
+    "question": "What is the name of this Ground-type Pokémon known for its Earthquake move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/031.png",
+    "choices": [
+      "Nidoqueen",
+      "Groudon",
+      "Flygon",
+      "Dugtrio"
+    ],
+    "answer": "Nidoqueen"
+  },
+  {
+    "id": 101,
+    "question": "Which Pokémon is this Normal-type known for its Play Rough move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/039.png",
+    "choices": [
+      "Jigglypuff",
+      "Snubbull",
+      "Miltank",
+      "Stufful"
+    ],
+    "answer": "Jigglypuff"
+  },
+  {
+    "id": 102,
+    "question": "What is the name of this Water-type Pokémon known for its Whirlpool move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/116.png",
+    "choices": [
+      "Horsea",
+      "Kingdra",
+      "Seadra",
+      "Goldeen"
+    ],
+    "answer": "Horsea"
+  },
+  {
+    "id": 103,
+    "question": "Identify this Ice-type Pokémon known for its Avalanche move.",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/361.png",
+    "choices": [
+      "Snorunt",
+      "Glalie",
+      "Froslass",
+      "Avalugg"
+    ],
+    "answer": "Snorunt"
+  },
+  {
+    "id": 104,
+    "question": "Which Pokémon is this Bug-type known for its Infestation move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/313.png",
+    "choices": [
+      "Volbeat",
+      "Illumise",
+      "Shuckle",
+      "Combee"
+    ],
+    "answer": "Volbeat"
+  },
+  {
+    "id": 105,
+    "question": "What is the name of this Dragon-type Pokémon known for its Tailwind move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/334.png",
+    "choices": [
+      "Altaria",
+      "Flygon",
+      "Salamence",
+      "Noivern"
+    ],
+    "answer": "Altaria"
+  },
+  {
+    "id": 106,
+    "question": "Identify this Steel-type Pokémon known for its Iron Defense move.",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/208.png",
+    "choices": [
+      "Steelix",
+      "Aggron",
+      "Bastiodon",
+      "Forretress"
+    ],
+    "answer": "Steelix"
+  },
+  {
+    "id": 107,
+    "question": "Which Pokémon is this Poison-type known for its Toxic Spikes move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/315.png",
+    "choices": [
+      "Roselia",
+      "Roserade",
+      "Nidorina",
+      "Qwilfish"
+    ],
+    "answer": "Roselia"
+  },
+  {
+    "id": 108,
+    "question": "What is the name of this Fire-type Pokémon known for its Flame Charge move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/078.png",
+    "choices": [
+      "Rapidash",
+      "Blaziken",
+      "Infernape",
+      "Pyroar"
+    ],
+    "answer": "Rapidash"
+  },
+  {
+    "id": 109,
+    "question": "Identify this Water-type Pokémon known for its Bubble Beam move.",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/072.png",
+    "choices": [
+      "Tentacool",
+      "Squirtle",
+      "Psyduck",
+      "Seel"
+    ],
+    "answer": "Tentacool"
+  },
+  {
+    "id": 110,
+    "question": "Which Pokémon is this Bug-type known for its X-Scissor move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/123.png",
+    "choices": [
+      "Scyther",
+      "Pinsir",
+      "Leavanny",
+      "Galvantula"
+    ],
+    "answer": "Scyther"
+  },
+  {
+    "id": 111,
+    "question": "What is the name of this Psychic-type Pokémon known for its Zen Headbutt move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/376.png",
+    "choices": [
+      "Metagross",
+      "Alakazam",
+      "Gallade",
+      "Espeon"
+    ],
+    "answer": "Metagross"
+  },
+  {
+    "id": 112,
+    "question": "Identify this Ground-type Pokémon known for its Magnitude move.",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/050.png",
+    "choices": [
+      "Diglett",
+      "Geodude",
+      "Cubone",
+      "Phanpy"
+    ],
+    "answer": "Diglett"
+  },
+  {
+    "id": 113,
+    "question": "Which Pokémon is this Rock-type known for its Rock Blast move?",
     "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/074.png",
     "choices": [
       "Geodude",
-      "Graveler",
-      "Golem",
-      "Onix"
+      "Roggenrola",
+      "Rhyperior",
+      "Carbink"
     ],
     "answer": "Geodude"
   },
   {
-    "question": "What is the name of this Water-type Pokémon known for its aquatic prowess?",
+    "id": 114,
+    "question": "What is the name of this Ice-type Pokémon known for its Ice Fang move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/131.png",
+    "choices": [
+      "Lapras",
+      "Walrein",
+      "Cloyster",
+      "Glaceon"
+    ],
+    "answer": "Lapras"
+  },
+  {
+    "id": 115,
+    "question": "Identify this Ghost-type Pokémon known for its Hex move.",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/093.png",
+    "choices": [
+      "Haunter",
+      "Mismagius",
+      "Banette",
+      "Gengar"
+    ],
+    "answer": "Haunter"
+  },
+  {
+    "id": 116,
+    "question": "Which Pokémon is this Dragon-type known for its Dragon Breath move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/147.png",
+    "choices": [
+      "Dratini",
+      "Dragonair",
+      "Bagon",
+      "Deino"
+    ],
+    "answer": "Dratini"
+  },
+  {
+    "id": 117,
+    "question": "What is the name of this Steel-type Pokémon known for its Flash Cannon move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/212.png",
+    "choices": [
+      "Scizor",
+      "Magnezone",
+      "Steelix",
+      "Klinklang"
+    ],
+    "answer": "Scizor"
+  },
+  {
+    "id": 118,
+    "question": "Identify this Poison-type Pokémon known for its Acid move.",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/088.png",
+    "choices": [
+      "Grimer",
+      "Muk",
+      "Koffing",
+      "Gulpin"
+    ],
+    "answer": "Grimer"
+  },
+  {
+    "id": 119,
+    "question": "Which Pokémon is this Flying-type known for its Gust move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/012.png",
+    "choices": [
+      "Butterfree",
+      "Pidgeotto",
+      "Spearow",
+      "Staraptor"
+    ],
+    "answer": "Butterfree"
+  },
+  {
+    "id": 120,
+    "question": "What is the name of this Dragon-type Pokémon known for its Dual Chop move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/611.png",
+    "choices": [
+      "Fraxure",
+      "Axew",
+      "Haxorus",
+      "Dragonite"
+    ],
+    "answer": "Fraxure"
+  },
+  {
+    "id": 121,
+    "question": "Identify this Steel-type Pokémon known for its Metal Sound move.",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/304.png",
+    "choices": [
+      "Aron",
+      "Lairon",
+      "Aggron",
+      "Steelix"
+    ],
+    "answer": "Aron"
+  },
+  {
+    "id": 122,
+    "question": "Which Pokémon is this Poison-type known for its Poison Sting move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/013.png",
+    "choices": [
+      "Weedle",
+      "Ekans",
+      "Nidoran♀",
+      "Zubat"
+    ],
+    "answer": "Weedle"
+  },
+  {
+    "id": 123,
+    "question": "What is the name of this Fire-type Pokémon known for its Flame Wheel move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/155.png",
+    "choices": [
+      "Cyndaquil",
+      "Quilava",
+      "Typhlosion",
+      "Ponyta"
+    ],
+    "answer": "Cyndaquil"
+  },
+  {
+    "id": 124,
+    "question": "Identify this Water-type Pokémon known for its Aqua Jet move.",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/418.png",
+    "choices": [
+      "Buizel",
+      "Floatzel",
+      "Blastoise",
+      "Dewott"
+    ],
+    "answer": "Buizel"
+  },
+  {
+    "id": 125,
+    "question": "Which Pokémon is this Bug-type known for its Bug Bite move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/543.png",
+    "choices": [
+      "Venipede",
+      "Scolipede",
+      "Whirlipede",
+      "Forretress"
+    ],
+    "answer": "Venipede"
+  },
+  {
+    "id": 126,
+    "question": "What is the name of this Psychic-type Pokémon known for its Extrasensory move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/178.png",
+    "choices": [
+      "Xatu",
+      "Natu",
+      "Espeon",
+      "Girafarig"
+    ],
+    "answer": "Xatu"
+  },
+  {
+    "id": 127,
+    "question": "Identify this Ground-type Pokémon known for its Sandstorm move.",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/246.png",
+    "choices": [
+      "Larvitar",
+      "Pupitar",
+      "Tyranitar",
+      "Trapinch"
+    ],
+    "answer": "Larvitar"
+  },
+  {
+    "id": 128,
+    "question": "Which Pokémon is this Rock-type known for its Stone Edge move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/248.png",
+    "choices": [
+      "Tyranitar",
+      "Rhyperior",
+      "Terrakion",
+      "Gigalith"
+    ],
+    "answer": "Tyranitar"
+  },
+  {
+    "id": 129,
+    "question": "What is the name of this Ice-type Pokémon known for its Hail move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/362.png",
+    "choices": [
+      "Glalie",
+      "Froslass",
+      "Snorunt",
+      "Abomasnow"
+    ],
+    "answer": "Glalie"
+  },
+  {
+    "id": 130,
+    "question": "Identify this Ghost-type Pokémon known for its Curse move.",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/292.png",
+    "choices": [
+      "Shedinja",
+      "Misdreavus",
+      "Haunter",
+      "Banette"
+    ],
+    "answer": "Shedinja"
+  },
+  {
+    "id": 131,
+    "question": "Which Pokémon is this Dragon-type known for its Dragon Dance move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/149.png",
+    "choices": [
+      "Dragonite",
+      "Kingdra",
+      "Altaria",
+      "Salamence"
+    ],
+    "answer": "Dragonite"
+  },
+  {
+    "id": 132,
+    "question": "What is the name of this Steel-type Pokémon known for its Magnet Rise move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/082.png",
+    "choices": [
+      "Magneton",
+      "Magnezone",
+      "Skarmory",
+      "Steelix"
+    ],
+    "answer": "Magneton"
+  },
+  {
+    "id": 133,
+    "question": "Identify this Poison-type Pokémon known for its Venom Drench move.",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/544.png",
+    "choices": [
+      "Whirlipede",
+      "Scolipede",
+      "Venipede",
+      "Seviper"
+    ],
+    "answer": "Whirlipede"
+  },
+  {
+    "id": 134,
+    "question": "Which Pokémon is this Flying-type known for its Peck move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/021.png",
+    "choices": [
+      "Spearow",
+      "Fearow",
+      "Pidgey",
+      "Starly"
+    ],
+    "answer": "Spearow"
+  },
+  {
+    "id": 135,
+    "question": "What is the name of this Dragon-type Pokémon known for its Outrage move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/612.png",
+    "choices": [
+      "Haxorus",
+      "Dragonite",
+      "Garchomp",
+      "Salamence"
+    ],
+    "answer": "Haxorus"
+  },
+  {
+    "id": 136,
+    "question": "Identify this Steel-type Pokémon known for its Steel Wing move.",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/227.png",
+    "choices": [
+      "Skarmory",
+      "Steelix",
+      "Scizor",
+      "Corviknight"
+    ],
+    "answer": "Skarmory"
+  },
+  {
+    "id": 137,
+    "question": "Which Pokémon is this Poison-type known for its Acid Armor move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/089.png",
+    "choices": [
+      "Muk",
+      "Grimer",
+      "Gulpin",
+      "Koffing"
+    ],
+    "answer": "Muk"
+  },
+  {
+    "id": 138,
+    "question": "What is the name of this Fire-type Pokémon known for its Will-O-Wisp move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/038.png",
+    "choices": [
+      "Ninetales",
+      "Arcanine",
+      "Rapidash",
+      "Magmar"
+    ],
+    "answer": "Ninetales"
+  },
+  {
+    "id": 139,
+    "question": "Identify this Water-type Pokémon known for its Water Pulse move.",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/119.png",
+    "choices": [
+      "Seaking",
+      "Goldeen",
+      "Milotic",
+      "Gyarados"
+    ],
+    "answer": "Seaking"
+  },
+  {
+    "id": 140,
+    "question": "Which Pokémon is this Bug-type known for its Struggle Bug move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/595.png",
+    "choices": [
+      "Joltik",
+      "Galvantula",
+      "Dwebble",
+      "Crustle"
+    ],
+    "answer": "Joltik"
+  },
+  {
+    "id": 141,
+    "question": "What is the name of this Psychic-type Pokémon known for its Telekinesis move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/576.png",
+    "choices": [
+      "Gothitelle",
+      "Reuniclus",
+      "Solosis",
+      "Elgyem"
+    ],
+    "answer": "Gothitelle"
+  },
+  {
+    "id": 142,
+    "question": "Identify this Ground-type Pokémon known for its Bulldoze move.",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/034.png",
+    "choices": [
+      "Nidoking",
+      "Rhydon",
+      "Golem",
+      "Donphan"
+    ],
+    "answer": "Nidoking"
+  },
+  {
+    "id": 143,
+    "question": "Which Pokémon is this Rock-type known for its Rock Polish move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/111.png",
+    "choices": [
+      "Rhyhorn",
+      "Geodude",
+      "Onix",
+      "Larvitar"
+    ],
+    "answer": "Rhyhorn"
+  },
+  {
+    "id": 144,
+    "question": "What is the name of this Ice-type Pokémon known for its Ice Beam move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/124.png",
+    "choices": [
+      "Jynx",
+      "Articuno",
+      "Lapras",
+      "Dewgong"
+    ],
+    "answer": "Jynx"
+  },
+  {
+    "id": 145,
+    "question": "Identify this Ghost-type Pokémon known for its Shadow Punch move.",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/094.png",
+    "choices": [
+      "Gengar",
+      "Haunter",
+      "Banette",
+      "Dusknoir"
+    ],
+    "answer": "Gengar"
+  },
+  {
+    "id": 146,
+    "question": "Which Pokémon is this Dragon-type known for its Dragon Rush move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/612.png",
+    "choices": [
+      "Haxorus",
+      "Dragonite",
+      "Hydreigon",
+      "Druddigon"
+    ],
+    "answer": "Haxorus"
+  },
+  {
+    "id": 147,
+    "question": "What is the name of this Steel-type Pokémon known for its Gyro Ball move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/304.png",
+    "choices": [
+      "Aron",
+      "Lairon",
+      "Aggron",
+      "Beldum"
+    ],
+    "answer": "Aron"
+  },
+  {
+    "id": 148,
+    "question": "Identify this Poison-type Pokémon known for its Sludge Bomb move.",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/089.png",
+    "choices": [
+      "Muk",
+      "Weezing",
+      "Garbodor",
+      "Gloom"
+    ],
+    "answer": "Muk"
+  },
+  {
+    "id": 149,
+    "question": "Which Pokémon is this Flying-type known for its Brave Bird move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/227.png",
+    "choices": [
+      "Skarmory",
+      "Staraptor",
+      "Braviary",
+      "Talonflame"
+    ],
+    "answer": "Skarmory"
+  },
+  {
+    "id": 150,
+    "question": "What is the name of this Ground-type Pokémon known for its Earthquake move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/031.png",
+    "choices": [
+      "Nidoqueen",
+      "Groudon",
+      "Flygon",
+      "Dugtrio"
+    ],
+    "answer": "Nidoqueen"
+  },
+  {
+    "id": 151,
+    "question": "Which Pokémon is this Electric-type known for its Thunder move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/025.png",
+    "choices": [
+      "Pikachu",
+      "Raichu",
+      "Electivire",
+      "Zapdos"
+    ],
+    "answer": "Pikachu"
+  },
+  {
+    "id": 152,
+    "question": "What is the name of this Water-type Pokémon known for its Scald move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/055.png",
+    "choices": [
+      "Golduck",
+      "Starmie",
+      "Blastoise",
+      "Vaporeon"
+    ],
+    "answer": "Golduck"
+  },
+  {
+    "id": 153,
+    "question": "Identify this Ice-type Pokémon known for its Ice Beam move.",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/131.png",
+    "choices": [
+      "Lapras",
+      "Articuno",
+      "Dewgong",
+      "Cloyster"
+    ],
+    "answer": "Lapras"
+  },
+  {
+    "id": 154,
+    "question": "Which Pokémon is this Bug-type known for its Spider Web move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/167.png",
+    "choices": [
+      "Spinarak",
+      "Ariados",
+      "Galvantula",
+      "Joltik"
+    ],
+    "answer": "Ariados"
+  },
+  {
+    "id": 155,
+    "question": "What is the name of this Dragon-type Pokémon known for its Dragon Tail move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/148.png",
+    "choices": [
+      "Dragonair",
+      "Dragonite",
+      "Dratini",
+      "Salamence"
+    ],
+    "answer": "Dragonair"
+  },
+  {
+    "id": 156,
+    "question": "Identify this Steel-type Pokémon known for its Bullet Punch move.",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/212.png",
+    "choices": [
+      "Scizor",
+      "Metagross",
+      "Lucario",
+      "Steelix"
+    ],
+    "answer": "Scizor"
+  },
+  {
+    "id": 157,
+    "question": "Which Pokémon is this Poison-type known for its Poison Fang move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/169.png",
+    "choices": [
+      "Crobat",
+      "Golbat",
+      "Zubat",
+      "Seviper"
+    ],
+    "answer": "Crobat"
+  },
+  {
+    "id": 158,
+    "question": "What is the name of this Fire-type Pokémon known for its Ember move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/004.png",
+    "choices": [
+      "Charmander",
+      "Vulpix",
+      "Growlithe",
+      "Ponyta"
+    ],
+    "answer": "Charmander"
+  },
+  {
+    "id": 159,
+    "question": "Identify this Water-type Pokémon known for its Water Gun move.",
     "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/007.png",
     "choices": [
       "Squirtle",
-      "Wartortle",
-      "Blastoise",
-      "Lapras"
+      "Psyduck",
+      "Poliwag",
+      "Tentacool"
     ],
     "answer": "Squirtle"
   },
   {
-    "question": "Identify this Poison-type Pokémon known for its noxious abilities.",
+    "id": 160,
+    "question": "Which Pokémon is this Bug-type known for its Leech Life move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/012.png",
+    "choices": [
+      "Butterfree",
+      "Beedrill",
+      "Venomoth",
+      "Ninjask"
+    ],
+    "answer": "Butterfree"
+  },
+  {
+    "id": 161,
+    "question": "What is the name of this Psychic-type Pokémon known for its Psychic move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/065.png",
+    "choices": [
+      "Alakazam",
+      "Espeon",
+      "Mewtwo",
+      "Celebi"
+    ],
+    "answer": "Alakazam"
+  },
+  {
+    "id": 162,
+    "question": "Identify this Ground-type Pokémon known for its Dig move.",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/050.png",
+    "choices": [
+      "Diglett",
+      "Dugtrio",
+      "Sandshrew",
+      "Nidoking"
+    ],
+    "answer": "Diglett"
+  },
+  {
+    "id": 163,
+    "question": "Which Pokémon is this Rock-type known for its Stone Edge move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/248.png",
+    "choices": [
+      "Tyranitar",
+      "Onix",
+      "Rhyperior",
+      "Golem"
+    ],
+    "answer": "Tyranitar"
+  },
+  {
+    "id": 164,
+    "question": "What is the name of this Ice-type Pokémon known for its Icy Wind move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/087.png",
+    "choices": [
+      "Dewgong",
+      "Articuno",
+      "Glalie",
+      "Froslass"
+    ],
+    "answer": "Dewgong"
+  },
+  {
+    "id": 165,
+    "question": "Identify this Ghost-type Pokémon known for its Shadow Ball move.",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/094.png",
+    "choices": [
+      "Gengar",
+      "Haunter",
+      "Misdreavus",
+      "Sableye"
+    ],
+    "answer": "Gengar"
+  },
+  {
+    "id": 166,
+    "question": "Which Pokémon is this Dragon-type known for its Dragon Pulse move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/330.png",
+    "choices": [
+      "Flygon",
+      "Altaria",
+      "Garchomp",
+      "Dragonite"
+    ],
+    "answer": "Flygon"
+  },
+  {
+    "id": 167,
+    "question": "What is the name of this Steel-type Pokémon known for its Iron Head move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/212.png",
+    "choices": [
+      "Scizor",
+      "Aggron",
+      "Steelix",
+      "Excadrill"
+    ],
+    "answer": "Scizor"
+  },
+  {
+    "id": 168,
+    "question": "Identify this Poison-type Pokémon known for its Sludge Wave move.",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/089.png",
+    "choices": [
+      "Muk",
+      "Gengar",
+      "Nidoking",
+      "Weezing"
+    ],
+    "answer": "Muk"
+  },
+  {
+    "id": 169,
+    "question": "Which Pokémon is this Flying-type known for its Sky Attack move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/018.png",
+    "choices": [
+      "Pidgeot",
+      "Fearow",
+      "Aerodactyl",
+      "Braviary"
+    ],
+    "answer": "Pidgeot"
+  },
+  {
+    "id": 170,
+    "question": "What is the name of this Dragon-type Pokémon known for its Dragon Dance move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/149.png",
+    "choices": [
+      "Dragonite",
+      "Kingdra",
+      "Gyarados",
+      "Altaria"
+    ],
+    "answer": "Dragonite"
+  },
+  {
+    "id": 171,
+    "question": "Identify this Steel-type Pokémon known for its Steel Wing move.",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/227.png",
+    "choices": [
+      "Skarmory",
+      "Scizor",
+      "Steelix",
+      "Corviknight"
+    ],
+    "answer": "Skarmory"
+  },
+  {
+    "id": 172,
+    "question": "Which Pokémon is this Poison-type known for its Toxic move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/088.png",
+    "choices": [
+      "Grimer",
+      "Koffing",
+      "Nidoran♀",
+      "Gulpin"
+    ],
+    "answer": "Grimer"
+  },
+  {
+    "id": 173,
+    "question": "What is the name of this Fire-type Pokémon known for its Heat Wave move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/006.png",
+    "choices": [
+      "Charizard",
+      "Arcanine",
+      "Ninetales",
+      "Magmar"
+    ],
+    "answer": "Charizard"
+  },
+  {
+    "id": 174,
+    "question": "Identify this Water-type Pokémon known for its Hydro Pump move.",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/009.png",
+    "choices": [
+      "Blastoise",
+      "Gyarados",
+      "Vaporeon",
+      "Kingdra"
+    ],
+    "answer": "Blastoise"
+  },
+  {
+    "id": 175,
+    "question": "Which Pokémon is this Bug-type known for its Silver Wind move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/267.png",
+    "choices": [
+      "Beautifly",
+      "Butterfree",
+      "Venomoth",
+      "Vivillon"
+    ],
+    "answer": "Beautifly"
+  },
+  {
+    "id": 176,
+    "question": "What is the name of this Psychic-type Pokémon known for its Confusion move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/063.png",
+    "choices": [
+      "Abra",
+      "Kadabra",
+      "Alakazam",
+      "Espeon"
+    ],
+    "answer": "Abra"
+  },
+  {
+    "id": 177,
+    "question": "Identify this Ground-type Pokémon known for its Sand Tomb move.",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/328.png",
+    "choices": [
+      "Trapinch",
+      "Vibrava",
+      "Flygon",
+      "Gible"
+    ],
+    "answer": "Trapinch"
+  },
+  {
+    "id": 178,
+    "question": "Which Pokémon is this Rock-type known for its Rock Throw move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/074.png",
+    "choices": [
+      "Geodude",
+      "Graveler",
+      "Onix",
+      "Rhyhorn"
+    ],
+    "answer": "Geodude"
+  },
+  {
+    "id": 179,
+    "question": "What is the name of this Ice-type Pokémon known for its Frost Breath move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/131.png",
+    "choices": [
+      "Lapras",
+      "Articuno",
+      "Glalie",
+      "Vanilluxe"
+    ],
+    "answer": "Lapras"
+  },
+  {
+    "id": 180,
+    "question": "Identify this Ghost-type Pokémon known for its Spite move.",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/200.png",
+    "choices": [
+      "Misdreavus",
+      "Mismagius",
+      "Gastly",
+      "Haunter"
+    ],
+    "answer": "Misdreavus"
+  },
+  {
+    "id": 181,
+    "question": "Which Pokémon is this Dragon-type known for its Twister move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/147.png",
+    "choices": [
+      "Dratini",
+      "Dragonair",
+      "Dragonite",
+      "Kingdra"
+    ],
+    "answer": "Dratini"
+  },
+  {
+    "id": 182,
+    "question": "What is the name of this Steel-type Pokémon known for its Heavy Slam move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/304.png",
+    "choices": [
+      "Aron",
+      "Lairon",
+      "Aggron",
+      "Steelix"
+    ],
+    "answer": "Aggron"
+  },
+  {
+    "id": 183,
+    "question": "Identify this Poison-type Pokémon known for its Acid Spray move.",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/451.png",
+    "choices": [
+      "Skorupi",
+      "Drapion",
+      "Gulpin",
+      "Seviper"
+    ],
+    "answer": "Skorupi"
+  },
+  {
+    "id": 184,
+    "question": "Which Pokémon is this Flying-type known for its Wing Attack move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/021.png",
+    "choices": [
+      "Spearow",
+      "Fearow",
+      "Pidgeotto",
+      "Staravia"
+    ],
+    "answer": "Spearow"
+  },
+  {
+    "id": 185,
+    "question": "What is the name of this Dragon-type Pokémon known for its Draco Meteor move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/334.png",
+    "choices": [
+      "Altaria",
+      "Dragonite",
+      "Salamence",
+      "Haxorus"
+    ],
+    "answer": "Altaria"
+  },
+  {
+    "id": 186,
+    "question": "Identify this Steel-type Pokémon known for its Mirror Shot move.",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/205.png",
+    "choices": [
+      "Forretress",
+      "Steelix",
+      "Magnezone",
+      "Escavalier"
+    ],
+    "answer": "Forretress"
+  },
+  {
+    "id": 187,
+    "question": "Which Pokémon is this Poison-type known for its Venom Drench move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/690.png",
+    "choices": [
+      "Skrelp",
+      "Dragalge",
+      "Seviper",
+      "Toxicroak"
+    ],
+    "answer": "Skrelp"
+  },
+  {
+    "id": 188,
+    "question": "What is the name of this Fire-type Pokémon known for its Overheat move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/006.png",
+    "choices": [
+      "Charizard",
+      "Blaziken",
+      "Heatran",
+      "Incineroar"
+    ],
+    "answer": "Charizard"
+  },
+  {
+    "id": 189,
+    "question": "Identify this Water-type Pokémon known for its Aqua Ring move.",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/134.png",
+    "choices": [
+      "Vaporeon",
+      "Manaphy",
+      "Milotic",
+      "Lanturn"
+    ],
+    "answer": "Vaporeon"
+  },
+  {
+    "id": 190,
+    "question": "Which Pokémon is this Bug-type known for its Steamroller move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/544.png",
+    "choices": [
+      "Whirlipede",
+      "Scolipede",
+      "Venipede",
+      "Karrablast"
+    ],
+    "answer": "Whirlipede"
+  },
+  {
+    "id": 191,
+    "question": "What is the name of this Psychic-type Pokémon known for its Dream Eater move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/096.png",
+    "choices": [
+      "Drowzee",
+      "Hypno",
+      "Munna",
+      "Musharna"
+    ],
+    "answer": "Hypno"
+  },
+  {
+    "id": 192,
+    "question": "Identify this Ground-type Pokémon known for its Mud Shot move.",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/050.png",
+    "choices": [
+      "Diglett",
+      "Marshtomp",
+      "Swampert",
+      "Quagsire"
+    ],
+    "answer": "Diglett"
+  },
+  {
+    "id": 193,
+    "question": "Which Pokémon is this Rock-type known for its Smack Down move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/074.png",
+    "choices": [
+      "Geodude",
+      "Boldore",
+      "Terrakion",
+      "Tyranitar"
+    ],
+    "answer": "Geodude"
+  },
+  {
+    "id": 194,
+    "question": "What is the name of this Ice-type Pokémon known for its Sheer Cold move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/087.png",
+    "choices": [
+      "Dewgong",
+      "Articuno",
+      "Walrein",
+      "Glalie"
+    ],
+    "answer": "Dewgong"
+  },
+  {
+    "id": 195,
+    "question": "Identify this Ghost-type Pokémon known for its Night Shade move.",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/094.png",
+    "choices": [
+      "Gengar",
+      "Duskull",
+      "Misdreavus",
+      "Shuppet"
+    ],
+    "answer": "Gengar"
+  },
+  {
+    "id": 196,
+    "question": "Which Pokémon is this Dragon-type known for its Dragon Claw move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/149.png",
+    "choices": [
+      "Dragonite",
+      "Garchomp",
+      "Haxorus",
+      "Druddigon"
+    ],
+    "answer": "Dragonite"
+  },
+  {
+    "id": 197,
+    "question": "What is the name of this Steel-type Pokémon known for its Gyro Ball move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/208.png",
+    "choices": [
+      "Steelix",
+      "Ferrothorn",
+      "Bronzong",
+      "Forretress"
+    ],
+    "answer": "Steelix"
+  },
+  {
+    "id": 198,
+    "question": "Identify this Poison-type Pokémon known for its Acid move.",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/088.png",
+    "choices": [
+      "Grimer",
+      "Muk",
+      "Koffing",
+      "Gulpin"
+    ],
+    "answer": "Grimer"
+  },
+  {
+    "id": 199,
+    "question": "Which Pokémon is this Flying-type known for its Air Slash move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/142.png",
+    "choices": [
+      "Aerodactyl",
+      "Skarmory",
+      "Staraptor",
+      "Noivern"
+    ],
+    "answer": "Aerodactyl"
+  },
+  {
+    "id": 200,
+    "question": "What is the name of this Dragon-type Pokémon known for its Dragon Rage move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/147.png",
+    "choices": [
+      "Dratini",
+      "Dragonair",
+      "Dragonite",
+      "Gible"
+    ],
+    "answer": "Dratini"
+  },
+  {
+    "id": 201,
+    "question": "Which Pokémon is this Electric-type known for its Charge Beam move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/025.png",
+    "choices": [
+      "Pikachu",
+      "Electivire",
+      "Luxray",
+      "Zekrom"
+    ],
+    "answer": "Pikachu"
+  },
+  {
+    "id": 202,
+    "question": "What is the name of this Water-type Pokémon known for its Rain Dance move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/134.png",
+    "choices": [
+      "Vaporeon",
+      "Politoed",
+      "Blastoise",
+      "Pelipper"
+    ],
+    "answer": "Vaporeon"
+  },
+  {
+    "id": 203,
+    "question": "Identify this Ice-type Pokémon known for its Blizzard move.",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/131.png",
+    "choices": [
+      "Lapras",
+      "Articuno",
+      "Abomasnow",
+      "Cloyster"
+    ],
+    "answer": "Lapras"
+  },
+  {
+    "id": 204,
+    "question": "Which Pokémon is this Bug-type known for its U-turn move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/012.png",
+    "choices": [
+      "Butterfree",
+      "Beedrill",
+      "Scizor",
+      "Yanmega"
+    ],
+    "answer": "Butterfree"
+  },
+  {
+    "id": 205,
+    "question": "What is the name of this Dragon-type Pokémon known for its Dragon Breath move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/148.png",
+    "choices": [
+      "Dragonair",
+      "Dragonite",
+      "Dratini",
+      "Salamence"
+    ],
+    "answer": "Dragonair"
+  },
+  {
+    "id": 206,
+    "question": "Identify this Steel-type Pokémon known for its Steel Beam move.",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/212.png",
+    "choices": [
+      "Scizor",
+      "Metagross",
+      "Magnezone",
+      "Durant"
+    ],
+    "answer": "Scizor"
+  },
+  {
+    "id": 207,
+    "question": "Which Pokémon is this Poison-type known for its Poison Jab move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/169.png",
+    "choices": [
+      "Crobat",
+      "Roserade",
+      "Nidoking",
+      "Toxicroak"
+    ],
+    "answer": "Crobat"
+  },
+  {
+    "id": 208,
+    "question": "What is the name of this Fire-type Pokémon known for its Fire Spin move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/004.png",
+    "choices": [
+      "Charmander",
+      "Vulpix",
+      "Growlithe",
+      "Torkoal"
+    ],
+    "answer": "Charmander"
+  },
+  {
+    "id": 209,
+    "question": "Identify this Water-type Pokémon known for its Surf move.",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/007.png",
+    "choices": [
+      "Squirtle",
+      "Lapras",
+      "Gyarados",
+      "Blastoise"
+    ],
+    "answer": "Squirtle"
+  },
+  {
+    "id": 210,
+    "question": "Which Pokémon is this Bug-type known for its Silver Wind move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/267.png",
+    "choices": [
+      "Beautifly",
+      "Masquerain",
+      "Butterfree",
+      "Mothim"
+    ],
+    "answer": "Beautifly"
+  },
+  {
+    "id": 211,
+    "question": "What is the name of this Psychic-type Pokémon known for its Mind Reader move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/065.png",
+    "choices": [
+      "Alakazam",
+      "Espeon",
+      "Gallade",
+      "Xatu"
+    ],
+    "answer": "Alakazam"
+  },
+  {
+    "id": 212,
+    "question": "Identify this Ground-type Pokémon known for its Earthquake move.",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/050.png",
+    "choices": [
+      "Diglett",
+      "Groudon",
+      "Rhydon",
+      "Sandslash"
+    ],
+    "answer": "Diglett"
+  },
+  {
+    "id": 213,
+    "question": "Which Pokémon is this Rock-type known for its Rock Slide move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/248.png",
+    "choices": [
+      "Tyranitar",
+      "Geodude",
+      "Lycanroc",
+      "Rhydon"
+    ],
+    "answer": "Tyranitar"
+  },
+  {
+    "id": 214,
+    "question": "What is the name of this Ice-type Pokémon known for its Frost Breath move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/087.png",
+    "choices": [
+      "Dewgong",
+      "Articuno",
+      "Walrein",
+      "Snorunt"
+    ],
+    "answer": "Dewgong"
+  },
+  {
+    "id": 215,
+    "question": "Identify this Ghost-type Pokémon known for its Ominous Wind move.",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/200.png",
+    "choices": [
+      "Misdreavus",
+      "Gastly",
+      "Drifloon",
+      "Shuppet"
+    ],
+    "answer": "Misdreavus"
+  },
+  {
+    "id": 216,
+    "question": "Which Pokémon is this Dragon-type known for its Dragon Pulse move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/373.png",
+    "choices": [
+      "Salamence",
+      "Flygon",
+      "Garchomp",
+      "Altaria"
+    ],
+    "answer": "Salamence"
+  },
+  {
+    "id": 217,
+    "question": "What is the name of this Steel-type Pokémon known for its Mirror Shot move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/212.png",
+    "choices": [
+      "Scizor",
+      "Forretress",
+      "Ferrothorn",
+      "Klinklang"
+    ],
+    "answer": "Scizor"
+  },
+  {
+    "id": 218,
+    "question": "Identify this Poison-type Pokémon known for its Venoshock move.",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/544.png",
+    "choices": [
+      "Whirlipede",
+      "Scolipede",
+      "Venipede",
+      "Toxapex"
+    ],
+    "answer": "Whirlipede"
+  },
+  {
+    "id": 219,
+    "question": "Which Pokémon is this Flying-type known for its Aerial Ace move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/018.png",
+    "choices": [
+      "Pidgeot",
+      "Staraptor",
+      "Braviary",
+      "Salamence"
+    ],
+    "answer": "Pidgeot"
+  },
+  {
+    "id": 220,
+    "question": "What is the name of this Dragon-type Pokémon known for its Outrage move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/612.png",
+    "choices": [
+      "Haxorus",
+      "Dragonite",
+      "Garchomp",
+      "Rayquaza"
+    ],
+    "answer": "Haxorus"
+  },
+  {
+    "id": 221,
+    "question": "Identify this Steel-type Pokémon known for its Metal Burst move.",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/208.png",
+    "choices": [
+      "Steelix",
+      "Bisharp",
+      "Aggron",
+      "Dialga"
+    ],
+    "answer": "Steelix"
+  },
+  {
+    "id": 222,
+    "question": "Which Pokémon is this Poison-type known for its Toxic Spikes move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/088.png",
+    "choices": [
+      "Grimer",
+      "Nidoking",
+      "Roserade",
+      "Toxapex"
+    ],
+    "answer": "Grimer"
+  },
+  {
+    "id": 223,
+    "question": "What is the name of this Fire-type Pokémon known for its Flamethrower move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/006.png",
+    "choices": [
+      "Charizard",
+      "Arcanine",
+      "Flareon",
+      "Heatran"
+    ],
+    "answer": "Charizard"
+  },
+  {
+    "id": 224,
+    "question": "Identify this Water-type Pokémon known for its Hydro Pump move.",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/130.png",
+    "choices": [
+      "Gyarados",
+      "Blastoise",
+      "Vaporeon",
+      "Lapras"
+    ],
+    "answer": "Gyarados"
+  },
+  {
+    "id": 225,
+    "question": "Which Pokémon is this Bug-type known for its Bug Buzz move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/267.png",
+    "choices": [
+      "Beautifly",
+      "Vivillon",
+      "Butterfree",
+      "Venomoth"
+    ],
+    "answer": "Beautifly"
+  },
+  {
+    "id": 226,
+    "question": "What is the name of this Psychic-type Pokémon known for its Future Sight move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/065.png",
+    "choices": [
+      "Alakazam",
+      "Espeon",
+      "Celebi",
+      "Gardevoir"
+    ],
+    "answer": "Alakazam"
+  },
+  {
+    "id": 227,
+    "question": "Identify this Ground-type Pokémon known for its Fissure move.",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/031.png",
+    "choices": [
+      "Nidoqueen",
+      "Dugtrio",
+      "Groudon",
+      "Rhydon"
+    ],
+    "answer": "Nidoqueen"
+  },
+  {
+    "id": 228,
+    "question": "Which Pokémon is this Rock-type known for its Rock Tomb move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/074.png",
+    "choices": [
+      "Geodude",
+      "Onix",
+      "Larvitar",
+      "Rhyhorn"
+    ],
+    "answer": "Geodude"
+  },
+  {
+    "id": 229,
+    "question": "What is the name of this Ice-type Pokémon known for its Avalanche move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/361.png",
+    "choices": [
+      "Snorunt",
+      "Glalie",
+      "Froslass",
+      "Avalugg"
+    ],
+    "answer": "Snorunt"
+  },
+  {
+    "id": 230,
+    "question": "Identify this Ghost-type Pokémon known for its Astonish move.",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/353.png",
+    "choices": [
+      "Shuppet",
+      "Banette",
+      "Misdreavus",
+      "Haunter"
+    ],
+    "answer": "Shuppet"
+  },
+  {
+    "id": 231,
+    "question": "Which Pokémon is this Dragon-type known for its Scale Shot move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/373.png",
+    "choices": [
+      "Salamence",
+      "Dragonite",
+      "Flygon",
+      "Haxorus"
+    ],
+    "answer": "Salamence"
+  },
+  {
+    "id": 232,
+    "question": "What is the name of this Steel-type Pokémon known for its Smart Strike move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/212.png",
+    "choices": [
+      "Scizor",
+      "Kartana",
+      "Corviknight",
+      "Mawile"
+    ],
+    "answer": "Scizor"
+  },
+  {
+    "id": 233,
+    "question": "Identify this Poison-type Pokémon known for its Acid Downpour move.",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/088.png",
+    "choices": [
+      "Grimer",
+      "Muk",
+      "Nihilego",
+      "Salazzle"
+    ],
+    "answer": "Muk"
+  },
+  {
+    "id": 234,
+    "question": "Which Pokémon is this Flying-type known for its Feather Dance move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/012.png",
+    "choices": [
+      "Butterfree",
+      "Pidgeot",
+      "Altaria",
+      "Swellow"
+    ],
+    "answer": "Butterfree"
+  },
+  {
+    "id": 235,
+    "question": "What is the name of this Dragon-type Pokémon known for its Dragon Hammer move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/784.png",
+    "choices": [
+      "Kommo-o",
+      "Haxorus",
+      "Dragonite",
+      "Alolan Exeggutor"
+    ],
+    "answer": "Alolan Exeggutor"
+  },
+  {
+    "id": 236,
+    "question": "Identify this Steel-type Pokémon known for its Flash Cannon move.",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/212.png",
+    "choices": [
+      "Scizor",
+      "Magnezone",
+      "Empoleon",
+      "Steelix"
+    ],
+    "answer": "Scizor"
+  },
+  {
+    "id": 237,
+    "question": "Which Pokémon is this Poison-type known for its Baneful Bunker move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/747.png",
+    "choices": [
+      "Mareanie",
+      "Toxapex",
+      "Skrelp",
+      "Qwilfish"
+    ],
+    "answer": "Toxapex"
+  },
+  {
+    "id": 238,
+    "question": "What is the name of this Fire-type Pokémon known for its Fire Lash move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/757.png",
+    "choices": [
+      "Salandit",
+      "Salazzle",
+      "Heatmor",
+      "Incineroar"
+    ],
+    "answer": "Heatmor"
+  },
+  {
+    "id": 239,
+    "question": "Identify this Water-type Pokémon known for its Liquidation move.",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/771.png",
+    "choices": [
+      "Pyukumuku",
+      "Araquanid",
+      "Golisopod",
+      "Bruxish"
+    ],
+    "answer": "Golisopod"
+  },
+  {
+    "id": 240,
+    "question": "Which Pokémon is this Bug-type known for its Lunge move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/752.png",
+    "choices": [
+      "Araquanid",
+      "Vikavolt",
+      "Golisopod",
+      "Grubbin"
+    ],
+    "answer": "Araquanid"
+  },
+  {
+    "id": 241,
+    "question": "What is the name of this Psychic-type Pokémon known for its Prismatic Laser move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/800.png",
+    "choices": [
+      "Necrozma",
+      "Solgaleo",
+      "Lunala",
+      "Espeon"
+    ],
+    "answer": "Necrozma"
+  },
+  {
+    "id": 242,
+    "question": "Identify this Ground-type Pokémon known for its High Horsepower move.",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/750.png",
+    "choices": [
+      "Mudsdale",
+      "Donphan",
+      "Garchomp",
+      "Rhyperior"
+    ],
+    "answer": "Mudsdale"
+  },
+  {
+    "id": 243,
+    "question": "Which Pokémon is this Rock-type known for its Continental Crush move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/745.png",
+    "choices": [
+      "Lycanroc",
+      "Rampardos",
+      "Tyrantrum",
+      "Terrakion"
+    ],
+    "answer": "Lycanroc"
+  },
+  {
+    "id": 244,
+    "question": "What is the name of this Ice-type Pokémon known for its Subzero Slammer move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/131.png",
+    "choices": [
+      "Lapras",
+      "Articuno",
+      "Avalugg",
+      "Vanilluxe"
+    ],
+    "answer": "Lapras"
+  },
+  {
+    "id": 245,
+    "question": "Identify this Ghost-type Pokémon known for its Moongeist Beam move.",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/792.png",
+    "choices": [
+      "Lunala",
+      "Gengar",
+      "Mismagius",
+      "Sableye"
+    ],
+    "answer": "Lunala"
+  },
+  {
+    "id": 246,
+    "question": "Which Pokémon is this Dragon-type known for its Clanging Scales move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/782.png",
+    "choices": [
+      "Jangmo-o",
+      "Hakamo-o",
+      "Kommo-o",
+      "Dragalge"
+    ],
+    "answer": "Kommo-o"
+  },
+  {
+    "id": 247,
+    "question": "What is the name of this Steel-type Pokémon known for its Corkscrew Crash move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/212.png",
+    "choices": [
+      "Scizor",
+      "Kartana",
+      "Bisharp",
+      "Genesect"
+    ],
+    "answer": "Scizor"
+  },
+  {
+    "id": 248,
+    "question": "Identify this Poison-type Pokémon known for its Acid Downpour move.",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/088.png",
+    "choices": [
+      "Grimer",
+      "Muk",
+      "Koffing",
+      "Nidoran♀"
+    ],
+    "answer": "Muk"
+  },
+  {
+    "id": 249,
+    "question": "Which Pokémon is this Flying-type known for its Supersonic Skystrike move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/018.png",
+    "choices": [
+      "Pidgeot",
+      "Braviary",
+      "Talonflame",
+      "Staraptor"
+    ],
+    "answer": "Pidgeot"
+  },
+  {
+    "id": 250,
+    "question": "What is the name of this Dragon-type Pokémon known for its Devastating Drake move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/149.png",
+    "choices": [
+      "Dragonite",
+      "Salamence",
+      "Garchomp",
+      "Haxorus"
+    ],
+    "answer": "Dragonite"
+  },
+  {
+    "id": 251,
+    "question": "Which Pokémon is this Electric-type known for its Wild Charge move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/025.png",
+    "choices": [
+      "Pikachu",
+      "Zebstrika",
+      "Electivire",
+      "Luxray"
+    ],
+    "answer": "Pikachu"
+  },
+  {
+    "id": 252,
+    "question": "What is the name of this Water-type Pokémon known for its Dive move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/134.png",
+    "choices": [
+      "Vaporeon",
+      "Lapras",
+      "Wailord",
+      "Gyarados"
+    ],
+    "answer": "Vaporeon"
+  },
+  {
+    "id": 253,
+    "question": "Identify this Ice-type Pokémon known for its Aurora Beam move.",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/087.png",
+    "choices": [
+      "Dewgong",
+      "Cloyster",
+      "Articuno",
+      "Suicune"
+    ],
+    "answer": "Dewgong"
+  },
+  {
+    "id": 254,
+    "question": "Which Pokémon is this Bug-type known for its Sticky Web move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/751.png",
+    "choices": [
+      "Dewpider",
+      "Araquanid",
+      "Galvantula",
+      "Leavanny"
+    ],
+    "answer": "Araquanid"
+  },
+  {
+    "id": 255,
+    "question": "What is the name of this Dragon-type Pokémon known for its Dragon Rush move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/612.png",
+    "choices": [
+      "Haxorus",
+      "Dragonite",
+      "Druddigon",
+      "Salamence"
+    ],
+    "answer": "Haxorus"
+  },
+  {
+    "id": 256,
+    "question": "Identify this Steel-type Pokémon known for its Iron Tail move.",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/212.png",
+    "choices": [
+      "Scizor",
+      "Steelix",
+      "Lucario",
+      "Aggron"
+    ],
+    "answer": "Scizor"
+  },
+  {
+    "id": 257,
+    "question": "Which Pokémon is this Poison-type known for its Gunk Shot move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/569.png",
+    "choices": [
+      "Garbodor",
+      "Muk",
+      "Weezing",
+      "Nidoking"
+    ],
+    "answer": "Garbodor"
+  },
+  {
+    "id": 258,
+    "question": "What is the name of this Fire-type Pokémon known for its Fire Fang move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/059.png",
+    "choices": [
+      "Arcanine",
+      "Houndoom",
+      "Charizard",
+      "Flareon"
+    ],
+    "answer": "Arcanine"
+  },
+  {
+    "id": 259,
+    "question": "Identify this Water-type Pokémon known for its Water Spout move.",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/321.png",
+    "choices": [
+      "Wailord",
+      "Blastoise",
+      "Kyogre",
+      "Gyarados"
+    ],
+    "answer": "Wailord"
+  },
+  {
+    "id": 260,
+    "question": "Which Pokémon is this Bug-type known for its Powder move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/666.png",
+    "choices": [
+      "Vivillon",
+      "Butterfree",
+      "Venomoth",
+      "Beautifly"
+    ],
+    "answer": "Vivillon"
+  },
+  {
+    "id": 261,
+    "question": "What is the name of this Psychic-type Pokémon known for its Heart Stamp move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/124.png",
+    "choices": [
+      "Jynx",
+      "Woobat",
+      "Swoobat",
+      "Espeon"
+    ],
+    "answer": "Swoobat"
+  },
+  {
+    "id": 262,
+    "question": "Identify this Ground-type Pokémon known for its Sand Attack move.",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/050.png",
+    "choices": [
+      "Diglett",
+      "Sandshrew",
+      "Trapinch",
+      "Gible"
+    ],
+    "answer": "Diglett"
+  },
+  {
+    "id": 263,
+    "question": "Which Pokémon is this Rock-type known for its Rock Polish move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/076.png",
+    "choices": [
+      "Golem",
+      "Rhydon",
+      "Onix",
+      "Kabutops"
+    ],
+    "answer": "Golem"
+  },
+  {
+    "id": 264,
+    "question": "What is the name of this Ice-type Pokémon known for its Freeze-Dry move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/131.png",
+    "choices": [
+      "Lapras",
+      "Glalie",
+      "Articuno",
+      "Cryogonal"
+    ],
+    "answer": "Lapras"
+  },
+  {
+    "id": 265,
+    "question": "Identify this Ghost-type Pokémon known for its Phantom Force move.",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/354.png",
+    "choices": [
+      "Banette",
+      "Giratina",
+      "Decidueye",
+      "Dusclops"
+    ],
+    "answer": "Banette"
+  },
+  {
+    "id": 266,
+    "question": "Which Pokémon is this Dragon-type known for its Dragon Meteor Shower move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/149.png",
+    "choices": [
+      "Dragonite",
+      "Rayquaza",
+      "Altaria",
+      "Dialga"
+    ],
+    "answer": "Dragonite"
+  },
+  {
+    "id": 267,
+    "question": "What is the name of this Steel-type Pokémon known for its Doom Desire move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/385.png",
+    "choices": [
+      "Jirachi",
+      "Celebi",
+      "Mew",
+      "Victini"
+    ],
+    "answer": "Jirachi"
+  },
+  {
+    "id": 268,
+    "question": "Identify this Poison-type Pokémon known for its Sludge move.",
     "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/088.png",
     "choices": [
       "Grimer",
@@ -1496,289 +3816,387 @@
     "answer": "Grimer"
   },
   {
-    "question": "Which Pokémon is this Fire-type known for its blazing speed?",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/058.png",
+    "id": 269,
+    "question": "Which Pokémon is this Flying-type known for its Gust move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/012.png",
     "choices": [
-      "Growlithe",
-      "Arcanine",
-      "Vulpix",
-      "Ninetales"
-    ],
-    "answer": "Growlithe"
-  },
-  {
-    "question": "What is the name of this Ice-type Pokémon known for its icy hide?",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/124.png",
-    "choices": [
-      "Jynx",
-      "Articuno",
-      "Lapras",
-      "Dewgong"
-    ],
-    "answer": "Jynx"
-  },
-  {
-    "question": "Identify this Grass-type Pokémon known for its vine-like appendages.",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/002.png",
-    "choices": [
-      "Ivysaur",
-      "Venusaur",
-      "Bulbasaur",
-      "Bellsprout"
-    ],
-    "answer": "Ivysaur"
-  },
-  {
-    "question": "Which Pokémon is this Rock-type known for its sturdy nature?",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/095.png",
-    "choices": [
-      "Onix",
-      "Steelix",
-      "Geodude",
-      "Graveler"
-    ],
-    "answer": "Onix"
-  },
-  {
-    "question": "What is the name of this Electric-type Pokémon known for its electric discharges?",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/125.png",
-    "choices": [
-      "Electabuzz",
-      "Electivire",
-      "Pikachu",
-      "Raichu"
-    ],
-    "answer": "Electabuzz"
-  },
-  {
-    "question": "Identify this Water-type Pokémon known for its powerful fins.",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/129.png",
-    "choices": [
-      "Magikarp",
-      "Gyarados",
-      "Milotic",
-      "Seaking"
-    ],
-    "answer": "Magikarp"
-  },
-  {
-    "question": "Which Pokémon is this Fire-type known for its fiery nature?",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/006.png",
-    "choices": [
-      "Charizard",
-      "Charmander",
-      "Charmeleon",
-      "Moltres"
-    ],
-    "answer": "Charizard"
-  },
-  {
-    "question": "What is the name of this Ice-type Pokémon known for its frosty appearance?",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/087.png",
-    "choices": [
-      "Dewgong",
-      "Cloyster",
-      "Lapras",
-      "Articuno"
-    ],
-    "answer": "Dewgong"
-  },
-  {
-    "question": "Identify this Bug-type Pokémon known for its poisonous stinger.",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/015.png",
-    "choices": [
-      "Beedrill",
       "Butterfree",
-      "Scyther",
-      "Pinsir"
+      "Pidgeotto",
+      "Spearow",
+      "Zubat"
     ],
-    "answer": "Beedrill"
+    "answer": "Butterfree"
   },
   {
-    "question": "Which Pokémon is this Grass-type known for its floral aroma?",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/003.png",
+    "id": 270,
+    "question": "What is the name of this Dragon-type Pokémon known for its Dragon Ascent move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/384.png",
     "choices": [
-      "Venusaur",
-      "Ivysaur",
-      "Bulbasaur",
-      "Bellossom"
+      "Rayquaza",
+      "Salamence",
+      "Charizard",
+      "Dragonite"
     ],
-    "answer": "Venusaur"
+    "answer": "Rayquaza"
   },
   {
-    "question": "What is the name of this Water-type Pokémon known for its serene nature?",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/134.png",
+    "id": 271,
+    "question": "Identify this Steel-type Pokémon known for its Flash Cannon move.",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/212.png",
     "choices": [
-      "Vaporeon",
-      "Jolteon",
-      "Flareon",
+      "Scizor",
+      "Magnezone",
+      "Skarmory",
+      "Empoleon"
+    ],
+    "answer": "Scizor"
+  },
+  {
+    "id": 272,
+    "question": "Which Pokémon is this Poison-type known for its Cross Poison move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/452.png",
+    "choices": [
+      "Drapion",
+      "Crobat",
+      "Toxicroak",
+      "Gengar"
+    ],
+    "answer": "Drapion"
+  },
+  {
+    "id": 273,
+    "question": "What is the name of this Fire-type Pokémon known for its Flare Blitz move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/392.png",
+    "choices": [
+      "Infernape",
+      "Charizard",
+      "Blaziken",
+      "Arcanine"
+    ],
+    "answer": "Infernape"
+  },
+  {
+    "id": 274,
+    "question": "Identify this Water-type Pokémon known for its Muddy Water move.",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/260.png",
+    "choices": [
+      "Swampert",
+      "Mudkip",
+      "Gastrodon",
+      "Quagsire"
+    ],
+    "answer": "Swampert"
+  },
+  {
+    "id": 275,
+    "question": "Which Pokémon is this Bug-type known for its Signal Beam move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/049.png",
+    "choices": [
+      "Venomoth",
+      "Beautifly",
+      "Butterfree",
+      "Vivillon"
+    ],
+    "answer": "Venomoth"
+  },
+  {
+    "id": 276,
+    "question": "What is the name of this Psychic-type Pokémon known for its Psybeam move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/063.png",
+    "choices": [
+      "Abra",
+      "Kadabra",
+      "Alakazam",
       "Espeon"
     ],
-    "answer": "Vaporeon"
+    "answer": "Kadabra"
   },
   {
-    "question": "Identify this Electric-type Pokémon known for its spark.",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/135.png",
+    "id": 277,
+    "question": "Identify this Ground-type Pokémon known for its Earth Power move.",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/383.png",
     "choices": [
-      "Jolteon",
-      "Flareon",
-      "Vaporeon",
-      "Espeon"
+      "Groudon",
+      "Nidoking",
+      "Flygon",
+      "Claydol"
     ],
-    "answer": "Jolteon"
+    "answer": "Groudon"
   },
   {
-    "question": "Which Pokémon is this Fairy-type known for its cute appearance?",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/035.png",
+    "id": 278,
+    "question": "Which Pokémon is this Rock-type known for its Rock Wrecker move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/464.png",
     "choices": [
-      "Clefairy",
-      "Clefable",
-      "Jigglypuff",
-      "Wigglytuff"
-    ],
-    "answer": "Clefairy"
-  },
-  {
-    "question": "What is the name of this Ice-type Pokémon known for its cold exterior?",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/124.png",
-    "choices": [
-      "Jynx",
-      "Articuno",
-      "Lapras",
-      "Dewgong"
-    ],
-    "answer": "Jynx"
-  },
-  {
-    "question": "Identify this Grass-type Pokémon known for its photosynthesis.",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/001.png",
-    "choices": [
-      "Bulbasaur",
-      "Ivysaur",
-      "Venusaur",
-      "Oddish"
-    ],
-    "answer": "Bulbasaur"
-  },
-  {
-    "question": "Which Pokémon is this Rock-type known for its durability?",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/074.png",
-    "choices": [
-      "Geodude",
-      "Graveler",
+      "Rhyperior",
+      "Tyranitar",
       "Golem",
-      "Onix"
+      "Regirock"
     ],
-    "answer": "Geodude"
+    "answer": "Rhyperior"
   },
   {
-    "question": "What is the name of this Water-type Pokémon known for its water jets?",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/007.png",
-    "choices": [
-      "Squirtle",
-      "Wartortle",
-      "Blastoise",
-      "Lapras"
-    ],
-    "answer": "Squirtle"
-  },
-  {
-    "question": "Identify this Poison-type Pokémon known for its venomous bite.",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/088.png",
-    "choices": [
-      "Grimer",
-      "Muk",
-      "Koffing",
-      "Weezing"
-    ],
-    "answer": "Grimer"
-  },
-  {
-    "question": "Which Pokémon is this Fire-type known for its fiery breath?",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/058.png",
-    "choices": [
-      "Growlithe",
-      "Arcanine",
-      "Vulpix",
-      "Ninetales"
-    ],
-    "answer": "Growlithe"
-  },
-  {
-    "question": "What is the name of this Ice-type Pokémon known for its icy body?",
+    "id": 279,
+    "question": "What is the name of this Ice-type Pokémon known for its Ice Punch move?",
     "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/124.png",
     "choices": [
       "Jynx",
-      "Articuno",
-      "Lapras",
-      "Dewgong"
+      "Hitmonchan",
+      "Cloyster",
+      "Abomasnow"
     ],
     "answer": "Jynx"
   },
   {
-    "question": "Identify this Grass-type Pokémon known for its leaf storm.",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/002.png",
+    "id": 280,
+    "question": "Identify this Ghost-type Pokémon known for its Shadow Sneak move.",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/354.png",
     "choices": [
-      "Ivysaur",
-      "Venusaur",
-      "Bulbasaur",
-      "Bellsprout"
+      "Banette",
+      "Gengar",
+      "Mimikyu",
+      "Dusclops"
     ],
-    "answer": "Ivysaur"
+    "answer": "Banette"
   },
   {
-    "question": "Which Pokémon is this Rock-type known for its sturdy build?",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/095.png",
+    "id": 281,
+    "question": "Which Pokémon is this Dragon-type known for its Spacial Rend move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/484.png",
     "choices": [
-      "Onix",
-      "Steelix",
-      "Geodude",
-      "Graveler"
+      "Palkia",
+      "Dialga",
+      "Giratina",
+      "Arceus"
     ],
-    "answer": "Onix"
+    "answer": "Palkia"
   },
   {
-    "question": "What is the name of this Electric-type Pokémon known for its electrical surges?",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/125.png",
+    "id": 282,
+    "question": "What is the name of this Steel-type Pokémon known for its Magnet Bomb move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/205.png",
     "choices": [
-      "Electabuzz",
-      "Electivire",
-      "Pikachu",
-      "Raichu"
+      "Forretress",
+      "Magnezone",
+      "Probopass",
+      "Beldum"
     ],
-    "answer": "Electabuzz"
+    "answer": "Forretress"
   },
   {
-    "question": "Identify this Water-type Pokémon known for its agility in water.",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/129.png",
+    "id": 283,
+    "question": "Identify this Poison-type Pokémon known for its Sludge Bomb move.",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/089.png",
     "choices": [
-      "Magikarp",
-      "Gyarados",
-      "Milotic",
-      "Seaking"
+      "Muk",
+      "Gengar",
+      "Weezing",
+      "Nidoking"
     ],
-    "answer": "Magikarp"
+    "answer": "Muk"
   },
   {
-    "question": "Which Pokémon is this Fire-type known for its scorching fire?",
+    "id": 284,
+    "question": "Which Pokémon is this Flying-type known for its Hurricane move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/149.png",
+    "choices": [
+      "Dragonite",
+      "Tornadus",
+      "Pidgeot",
+      "Noivern"
+    ],
+    "answer": "Dragonite"
+  },
+  {
+    "id": 285,
+    "question": "What is the name of this Dragon-type Pokémon known for its Scale Shot move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/612.png",
+    "choices": [
+      "Haxorus",
+      "Dragapult",
+      "Druddigon",
+      "Salamence"
+    ],
+    "answer": "Haxorus"
+  },
+  {
+    "id": 286,
+    "question": "Identify this Steel-type Pokémon known for its King's Shield move.",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/681.png",
+    "choices": [
+      "Aegislash",
+      "Escavalier",
+      "Bisharp",
+      "Klingklang"
+    ],
+    "answer": "Aegislash"
+  },
+  {
+    "id": 287,
+    "question": "Which Pokémon is this Poison-type known for its Belch move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/568.png",
+    "choices": [
+      "Trubbish",
+      "Garbodor",
+      "Muk",
+      "Gulpin"
+    ],
+    "answer": "Garbodor"
+  },
+  {
+    "id": 288,
+    "question": "What is the name of this Fire-type Pokémon known for its Blast Burn move?",
     "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/006.png",
     "choices": [
       "Charizard",
-      "Charmander",
-      "Charmeleon",
-      "Moltres"
+      "Typhlosion",
+      "Blaziken",
+      "Infernape"
     ],
     "answer": "Charizard"
   },
   {
-    "question": "What is the name of this Ice-type Pokémon known for its chilly aura?",
-    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/087.png",
+    "id": 289,
+    "question": "Identify this Water-type Pokémon known for its Hydro Cannon move.",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/009.png",
     "choices": [
-      "Dewgong",
-      "Cloyster",
-      "Lapras",
-      "Articuno"
+      "Blastoise",
+      "Feraligatr",
+      "Swampert",
+      "Empoleon"
     ],
-    "answer": "Dewgong"
+    "answer": "Blastoise"
+  },
+  {
+    "id": 290,
+    "question": "Which Pokémon is this Bug-type known for its Infestation move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/313.png",
+    "choices": [
+      "Volbeat",
+      "Illumise",
+      "Beedrill",
+      "Venomoth"
+    ],
+    "answer": "Volbeat"
+  },
+  {
+    "id": 291,
+    "question": "What is the name of this Psychic-type Pokémon known for its Psyshock move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/065.png",
+    "choices": [
+      "Alakazam",
+      "Espeon",
+      "Latios",
+      "Meloetta"
+    ],
+    "answer": "Alakazam"
+  },
+  {
+    "id": 292,
+    "question": "Identify this Ground-type Pokémon known for its Bulldoze move.",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/051.png",
+    "choices": [
+      "Dugtrio",
+      "Donphan",
+      "Groudon",
+      "Sandshrew"
+    ],
+    "answer": "Dugtrio"
+  },
+  {
+    "id": 293,
+    "question": "Which Pokémon is this Rock-type known for its Power Gem move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/525.png",
+    "choices": [
+      "Boldore",
+      "Roggenrola",
+      "Carbink",
+      "Starmie"
+    ],
+    "answer": "Boldore"
+  },
+  {
+    "id": 294,
+    "question": "What is the name of this Ice-type Pokémon known for its Icy Wind move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/362.png",
+    "choices": [
+      "Glalie",
+      "Froslass",
+      "Articuno",
+      "Walrein"
+    ],
+    "answer": "Glalie"
+  },
+  {
+    "id": 295,
+    "question": "Identify this Ghost-type Pokémon known for its Shadow Punch move.",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/094.png",
+    "choices": [
+      "Gengar",
+      "Haunter",
+      "Banette",
+      "Dusknoir"
+    ],
+    "answer": "Gengar"
+  },
+  {
+    "id": 296,
+    "question": "Which Pokémon is this Dragon-type known for its Draco Meteor move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/149.png",
+    "choices": [
+      "Dragonite",
+      "Altaria",
+      "Salamence",
+      "Noivern"
+    ],
+    "answer": "Dragonite"
+  },
+  {
+    "id": 297,
+    "question": "What is the name of this Steel-type Pokémon known for its Metal Claw move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/304.png",
+    "choices": [
+      "Aron",
+      "Lairon",
+      "Aggron",
+      "Steelix"
+    ],
+    "answer": "Aron"
+  },
+  {
+    "id": 298,
+    "question": "Identify this Poison-type Pokémon known for its Venom Drench move.",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/451.png",
+    "choices": [
+      "Skorupi",
+      "Drapion",
+      "Gulpin",
+      "Seviper"
+    ],
+    "answer": "Drapion"
+  },
+  {
+    "id": 299,
+    "question": "Which Pokémon is this Flying-type known for its Peck move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/021.png",
+    "choices": [
+      "Spearow",
+      "Fearow",
+      "Pidgey",
+      "Starly"
+    ],
+    "answer": "Spearow"
+  },
+  {
+    "id": 300,
+    "question": "What is the name of this Dragon-type Pokémon known for its Dragon Tail move?",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/373.png",
+    "choices": [
+      "Salamence",
+      "Dragonite",
+      "Haxorus",
+      "Druddigon"
+    ],
+    "answer": "Salamence"
   }
 ]
