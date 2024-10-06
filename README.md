@@ -1,6 +1,6 @@
-# dusk-quiz-tools
+# rune-quiz-tools
 
-A set of tools to help with building quizzes for Dusk using \<https://github.com/kevglass/dusk-quiz\>
+A set of tools to help with building quizzes for Rune using \<https://github.com/kevglass/rune-quiz\>
 
 All the tools below are intended to be run with a simple `node <filename>`
 
@@ -14,7 +14,7 @@ Remember to set the theme you’re using in the code.
 
 ## processgpt.js
 
-An easy way to get quiz question is to ask Chat GPT to generate them. You can both prompt it for questions and ask it to generate JSON in a specific format. You can see an example of the output I used at: \<https://github.com/kevglass/dusk-quiz-tools/blob/main/minecraft/source.json\>
+An easy way to get quiz question is to ask Chat GPT to generate them. You can both prompt it for questions and ask it to generate JSON in a specific format. You can see an example of the output I used at: \<https://github.com/kevglass/rune-quiz-tools/blob/main/minecraft/source.json\>
 
 Once you have the questions in this format they need to be parsed into the format that the game uses. Remember to set the theme you’re using in the code.
 
@@ -30,7 +30,7 @@ Remember to set the theme you’re using in the code.
 
 ## translate.js
 
-Dusk has played all around the world. The most common languages are English, Spanish, Portuguese and Russian. The `translate.js` script will run the questions (and optionally the answers) through DeepL for translation. To use DeepL get an API key (they’re free) and place it a file named `local.json` next to the script. The JSON file has a template that looks like this:
+Rune has played all around the world. The most common languages are English, Spanish, Portuguese and Russian. The `translate.js` script will run the questions (and optionally the answers) through DeepL for translation. To use DeepL get an API key (they’re free) and place it a file named `local.json` next to the script. The JSON file has a template that looks like this:
 
 ```javascript
 {
@@ -46,4 +46,4 @@ Remember to set the theme you’re using in the code.
 
 `node translate.js`
 
-Once you have the different language JSON files and the images you can copy them over into a theme in the main `dusk-quiz` project.
+Once you have the different language JSON files and the images you can copy them over into a theme in the main `rune-quiz` project.

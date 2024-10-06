@@ -65,6 +65,21 @@ async function generateLanguage(lang, questions) {
     const translatedQuestions = fs.existsSync(THEME+"/"+"questions_"+lang+".json") ? JSON.parse(fs.readFileSync(THEME+"/"+"questions_"+lang+".json")) : []
 
     for (const question of questions) {
+        // checks for untranslated answers
+        // const existingTranslated = translatedQuestions.find(q => q.id === question.id);
+        // if (!existingTranslated) {
+        //     console.log("ID: " + question.id + " doesn't exist in : " + lang);
+        // } else {
+        //     if (question.correct_answer === existingTranslated.correct_answer) {
+        //         console.log(question.correct_answer);
+        //     }
+        //     for (let i=0;i<question.incorrect_answers.length;i++) {
+        //         if (question.incorrect_answers[i] === existingTranslated.incorrect_answers[i]) {
+        //             console.log(question.correct_answer);
+        //         }
+        //     }
+        // }
+
         if (!cache[question.question+"-"+question.correct_answer]) {
             console.log(lang+": "+ question.question);
             const translated = { ...question };
@@ -73,9 +88,9 @@ async function generateLanguage(lang, questions) {
             translated.question = await deepTranslate(lang, question.question);
 
             if (TRANSLATE_ANSWERS) {
-                translated.correct_answer = await deepTranslate(lang, question.correct_answer);
+                translated.correct_answer = await deepTranslate(lang, question.correct_answer.toLowerCase());
                 for (let i=0;i<question.incorrect_answers.length;i++) {
-                    translated.incorrect_answers[i] = await deepTranslate(lang, question.incorrect_answers[i]);
+                    translated.incorrect_answers[i] = await deepTranslate(lang, question.incorrect_answers[i].toLowerCase());
                 }
             }
 
